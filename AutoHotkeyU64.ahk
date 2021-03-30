@@ -213,7 +213,9 @@ return
 ^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
 return
 
-^!t::Run C:\Users\jweisenfeld\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe"
+^!t::
+EnvGet, LocAppDat, LOCALAPPDATA
+Run "%LocAppDat%\Microsoft\Teams\Update.exe" --processStart "Teams.exe"
 return
 
 ;^!u::MsgBox, 1, "Unused", "This CTRL+ALT+u Shortcut is Unused", 30
