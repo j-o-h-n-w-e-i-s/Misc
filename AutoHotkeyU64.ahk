@@ -1,7 +1,7 @@
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ;#Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir "%OneDrive%\DocumentsAutoHotkey"  ; Ensures a consistent starting directory.
+SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 
 :*:..rcnm::Run chrome.exe    --new-MainWindow
 :*:hpu::http://psd1.us/
@@ -108,7 +108,8 @@ SetWorkingDir "%OneDrive%\DocumentsAutoHotkey"  ; Ensures a consistent starting 
 
 
 ;Run AutoHotkey
-^!a::Run "C:\Users\jweisenfeld\OneDrive - Pasco School District #1\Documents\AutoHotkey\AutoHotkeyU64.exe"
+;^!a::Run "C:\Users\jweisenfeld\OneDrive - Pasco School District #1\Documents\AutoHotkey\AutoHotkeyU64.exe"
+^!a::Run "AutoHotkeyU64.ahk"
 return
 
 ;Fix Email Signature
@@ -121,7 +122,11 @@ return
 
 ;^!d::MsgBox, 1, "Unused", "This CTRL+ALT+D Shortcut is Unused", 30
 ;^!d::Run java -jar c:\users\jweisenfeld\downloads\selenese-runner.jar --config c:\users\jweisenfeld\downloads\selenese.config --no-exit c:\users\jweisenfeld\downloads\AHKConnect.side
-^!d::Run explorer.exe "C:\Users\JWeisenfeld\Downloads"
+;^!d::Run explorer.exe "C:\Users\JWeisenfeld\Downloads"
+^!d::
+EnvGet, UserProf, USERPROFILE
+;MsgBox, User Profile Environmetn Variable is:  %UserProf%
+Run explorer.exe "%UserProf%\Downloads"
 return
 
 ;Open Your Email
@@ -149,7 +154,9 @@ Run, chrome.exe http://tiny.cc/mrwnanoapps --guest
 return
 
 ;Open AutoHotkey in VS Code
-^!h::Run "C:\Users\jweisenfeld\AppData\Local\Programs\Microsoft VS Code\Code.exe" "C:\Users\jweisenfeld\OneDrive - Pasco School District #1\Documents\AutoHotkey\AutoHotkeyU64.ahk"
+^!h::
+EnvGet, LocAppDat, LOCALAPPDATA
+Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
 return
 
 ;Open MyApps
