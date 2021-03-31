@@ -107,6 +107,10 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 :*:..version::you are using the GitHub Version of AutoHotKey
 ;LOWER CASE ALPHABET
 
+^!\::
+Msgbox, %A_ComputerName%
+MsgBox, %A_OSVersion%
+return
 
 ;Run AutoHotkey
 ;^!a::Run "C:\Users\jweisenfeld\OneDrive - Pasco School District #1\Documents\AutoHotkey\AutoHotkeyU64.exe"
