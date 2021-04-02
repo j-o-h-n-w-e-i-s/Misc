@@ -118,11 +118,11 @@ return
 return
 
 ;Fix Email Signature
-^!b::Run chrome.exe https://outlook.office.com/mail/options/mail/messageContent/signature
+^!b::Run chrome.exe https://outlook.office.com/mail/options/mail/messageContent/signature --new-window --profile-directory="Default"
 return
 
 ;Show Your Email Calendar
-^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window
+^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory="Default"
 return
 
 ;^!d::MsgBox, 1, "Unused", "This CTRL+ALT+D Shortcut is Unused", 30
@@ -135,12 +135,12 @@ Run explorer.exe "%UserProf%\Downloads"
 return
 
 ;Open Your Email
-^!e::Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window
+^!e::Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory="Default"
 return
 
 ;Open Forms
 ;^!f::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window
-^!f::Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx?origin=shell --new-window
+^!f::Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx?origin=shell --new-window --profile-directory="Default"
 return
 
 ;Open Guest Window
@@ -165,12 +165,13 @@ Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
 return
 
 ;Open MyApps
-^!i::Run chrome.exe https://psd1.helloid.com/#/applications --new-window
+;^!i::Run chrome.exe https://psd1.helloid.com/#/applications --new-window --profile-directory="Default"
+^!i::MsgBox, 1, "Unused", "This CTRL+ALT+I Shortcut is Unused", 30
 return
 
 ;Open PowerSchool Sign In Screen
 ;^!j::Run chrome.exe https://pschool.psd1.org/teachers/index.html# --new-window
-^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window
+^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory="Default"
 return
 
 :*:..tic::Today's assignment is in Canvas.{Enter}{Enter}Please go to https://canvas.instructure.com/courses/2477035 and complete the next module.{Emter}{Enter}NOTE: your grade for this module will go directly into PowerSchool
@@ -183,18 +184,18 @@ return
 return
 
 ;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
-^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window
+^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory="Default"
 return
 
 ;Open Chrome to SOM
-^!m::Run chrome.exe https://screencast-o-matic.com/content/video --new-window
+^!m::Run chrome.exe https://screencast-o-matic.com/content/video --new-window --profile-directory="Default"
 return
 
 ;DO NOT USE CTRL+ALT+N, we need that one for OneNote!
 
 ;Open OneDrive in the browser
 ;^!o::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx --new-window
-^!o::Run chrome.exe  https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window
+^!o::Run chrome.exe  https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window --profile-directory="Default"
 ;^!o::MsgBox, 1, "Unused", "This CTRL+ALT+O Shortcut is Unused", 30
 return
 
@@ -206,12 +207,12 @@ return
 ;^!q::Run chrome.exe https://tiny.cc/phsscreen --new-window
 ;^!q::Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx?origin=shell --new-window
 ;^!q::MsgBox, 1, "Unused", "This CTRL+ALT+q Shortcut is Unused", 30
-^!q::Run chrome.exe https://www.desmos.com/scientific --new-window
+^!q::Run chrome.exe https://www.desmos.com/scientific --new-window --profile-directory="Default"
 return
 
 ;Go to Zoom Report Page for Today
 ;^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report --new-window
-^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report?from=%A_MM%/%A_DD%/2021&to=%A_MM%/%A_DD%/2021 --new-window
+^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report?from=%A_MM%/%A_DD%/2021&to=%A_MM%/%A_DD%/2021 --new-window --profile-directory="Default"
 return
 
 ^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
@@ -224,7 +225,7 @@ return
 
 ;^!u::MsgBox, 1, "Unused", "This CTRL+ALT+u Shortcut is Unused", 30
 ;^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=hello&op=translate --new-window
-^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=translate.google.com&op=translate --new-window
+^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=translate.google.com&op=translate --new-window --profile-directory="Default"
 return
 
 ;^!v::MsgBox, 1, "Unused", "This CTRL+ALT+v Shortcut is Unused", 30
@@ -236,13 +237,13 @@ Run explorer.exe "%UsePro%\Videos"
 return
 
 ;^!w::MsgBox, 1, "Unused", "This CTRL+ALT+w Shortcut is Unused", 30
-^!w::Run chrome.exe http://somup.com/crnXceD6Rg --new-Window
+^!w::Run chrome.exe http://somup.com/crnXceD6Rg --new-Window --profile-directory="Default"
 ;^!w::Run chrome.exe https://www.youtube.com/c/MikeTholfsen/videos --new-window
 return
 return
 
 ;^!x::Run chrome.exe https://login.theexpertta.com/Login.aspx --new-window
-^!x::Run chrome.exe https://www.gmetrix.net/manage/Admin/Default.aspx --new-window
+^!x::Run chrome.exe https://www.gmetrix.net/manage/Admin/Default.aspx --new-window --profile-directory="Default"
 return
 
 ^!y::
@@ -253,7 +254,7 @@ return
 
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
 
-^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window
+^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory="Default"
 return
 
 ;^!1::Run chrome.exe http://tiny.cc/2021t11st --new-window
