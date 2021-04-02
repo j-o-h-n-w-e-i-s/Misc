@@ -230,7 +230,9 @@ return
 ;^!v::MsgBox, 1, "Unused", "This CTRL+ALT+v Shortcut is Unused", 30
 ;^!v::MsgBox, "Woo"
 ; Open Videos Folder in Windows Explorer
-^!v::Run explorer.exe "C:\Users\JWeisenfeld\Videos"
+^!v::
+EnvGet, UsePro, USERPROFILE
+Run explorer.exe "%UsePro%\Videos"
 return
 
 ;^!w::MsgBox, 1, "Unused", "This CTRL+ALT+w Shortcut is Unused", 30
@@ -243,7 +245,10 @@ return
 ^!x::Run chrome.exe https://www.gmetrix.net/manage/Admin/Default.aspx --new-window
 return
 
-^!y::Run C:\Users\jweisenfeld\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe open
+^!y::
+;Run C:\Users\jweisenfeld\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe open
+EnvGet, LocAppDat, LOCALAPPDATA
+Run "%LocAppDat%\Screencast-O-Matic\v2\Screencast-O-Matic.exe" open
 return
 
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
