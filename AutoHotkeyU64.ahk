@@ -247,7 +247,7 @@ return
 return
 
 ;^!x::Run chrome.exe https://login.theexpertta.com/Login.aspx --new-window
-^!x::Run chrome.exe https://www.gmetrix.net/manage/Admin/Default.aspx --new-window --profile-directory="Default"
+^!x::Run chrome.exe https://www.gmetrix.net/manage/Admin/Default.aspx --new-window --profile-directory="Profile 1"
 return
 
 ^!y::
