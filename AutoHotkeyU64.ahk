@@ -821,7 +821,7 @@ return
 :*:xylia547::xylia547@students.psd1.org
 :*:joshua012::joshua012@students.psd1.org
 :*:desiree961::desiree961@students.psd1.org
-:*:diondre353::diondre353@students.psd1.org
+:*:diondre353::diondre353@students.thedeltahighschool.com
 :*:francisco041::francisco041@students.psd1.org
 :*:stephan297::stephan297@students.psd1.org
 :*:jose851::jose851@students.psd1.org
