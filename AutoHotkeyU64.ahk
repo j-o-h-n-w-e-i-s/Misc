@@ -114,6 +114,9 @@ Msgbox, %A_ComputerName%
 MsgBox, %A_OSVersion%
 ;Work is 10.0.19042
 ;Home is 
+MsgBox, %A_ScriptDir%
+;Work is
+;Home is
 return
 
 ;Run AutoHotkey
