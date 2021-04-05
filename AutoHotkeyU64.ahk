@@ -111,10 +111,10 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 ^!'::
 Msgbox, %A_ComputerName%
 ;Work is PHTL323004136B
-;Home is ...
+;Home is DESKTOP-H9GCS6A
 MsgBox, %A_OSVersion%
 ;Work is 10.0.19042
-;Home is 
+;Home is 10.0.19042
 return
 
 ;Run AutoHotkey
