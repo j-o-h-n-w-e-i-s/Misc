@@ -106,6 +106,7 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 :*:..efhvid::https://vimeo.com/409906319
 :*:..efhtc::https://certiport.pearsonvue.com/Support/Install/Exams-from-Home/Test-Candidate
 :*:..version::you are using the GitHub Version of AutoHotKey
+:*:..paystub::Hi Cathleen,{Enter}{Enter}Here's my latest paystub.{Enter}{Enter}Thank you!{Enter}{Enter}John Weisenfeld for{Enter}{Enter}HOHID:  200825421WA - JOHANNA WEISENFELD
 ;LOWER CASE ALPHABET
 
 ^!'::
