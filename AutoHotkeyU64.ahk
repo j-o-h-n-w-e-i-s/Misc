@@ -2,6 +2,7 @@
 ;#Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
+;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
 
 :*:..rcnm::Run chrome.exe    --new-MainWindow
 :*:hpu::http://psd1.us/
@@ -823,7 +824,7 @@ return
 :*:xylia547::xylia547@students.psd1.org
 :*:joshua012::joshua012@students.psd1.org
 :*:desiree961::desiree961@students.psd1.org
-:*:diondre353::diondre353@students.psd1.org
+:*:diondre353::diondre353@students.thedeltahighschool.com
 :*:francisco041::francisco041@students.psd1.org
 :*:stephan297::stephan297@students.psd1.org
 :*:jose851::jose851@students.psd1.org
