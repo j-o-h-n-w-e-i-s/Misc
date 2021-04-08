@@ -4,7 +4,7 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 ;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
 
-:*:..rcnm::Run chrome.exe    --new-MainWindow
+:*:..rcnm::Run chrome.exe  --new-MainWindow
 :*:hpu::http://psd1.us/
 :*:tcc::http://tiny.cc/  
 :*:ofchrs::https://calendly.com/jweisenfeld/ofchrs
@@ -260,13 +260,20 @@ return
 ^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory="Default"
 return
 
+;^!`::Run chrome.exe https://www.desmos.com/ --new-window
+^!`::
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=193528&frn=003181138 --new-window --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=193528#classtoolsmode --new-MainWindow --profile-directory="Default"
+return
+
+
 ;^!1::Run chrome.exe http://tiny.cc/2021t11st --new-window
 ;^!1::Run chrome.exe http://tiny.cc/2021t21st --new-window
 ;2021 Trimester 3 Roll Tool
 ^!1::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1B1B1B1B1B1B1B1B1B1B1B&sectionId=184121&frn=003171730&foo=1B&distance=Josette.Abigail.Mayra --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1B1B1B1B1B1B1B1B1B&sectionId=184121#classtoolsmode --new-MainWindow
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1B1B1B1B1B1B1B1B1B1B1B&sectionId=184121&frn=003171730&foo=1B&distance=Josette.Abigail.Mayra --new-MainWindow --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1B1B1B1B1B1B1B1B1B&sectionId=184121#classtoolsmode --new-MainWindow --profile-directory="Default"
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1A1A1A1A1A1A1A1A1A&sectionId=184120#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=1A1A1A1A1A1A1A1A1A1A1A1A1A1A&sectionid=184120&frn=003171730&att_period=3&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6273 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=1B1B1B1B1B1B1B1B1B1B1B1B1B1B&sectionid=184121&frn=003171730&att_period=3&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6273 --new-MainWindow
@@ -297,7 +304,7 @@ return
 
 ;2021 Trimester 3 Roll Tool
 ^!3::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window --profile-dir="Default"
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3B3B3B3B3B3B3B3B3B3B&sectionId=184119&frn=003171726&foo=3B&distance=Levi --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3B3B3B3B3B3B3B3B3B&sectionId=184119#classtoolsmode --new-MainWindow
@@ -428,9 +435,6 @@ return
 
 ;direct link to general channel in teams for first class
 ^!)::Run chrome.exe https://teams.microsoft.com/l/channel/19%3a1a51dce0b69447b89d921b71e7c0a3a1%40thread.tacv2/General?groupId=95d5f52f-b85d-4232-9914-604d02f739e5&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
-return
-
-^!`::Run chrome.exe https://www.desmos.com/ --new-window
 return
 
 ;2021 t1 kinematics
