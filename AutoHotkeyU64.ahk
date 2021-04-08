@@ -3,6 +3,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 ;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
+;are you seeing this message?
 
 :*:..rcnm::Run chrome.exe    --new-MainWindow
 :*:hpu::http://psd1.us/
