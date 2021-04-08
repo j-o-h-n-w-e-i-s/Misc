@@ -201,7 +201,9 @@ return
 ;DO NOT USE CTRL+ALT+N, we need that one for OneNote!
 
 ;Open OneDrive in the browser
-;^!o::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx --new-window
+^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx --new-window
+return
+
 ^!o::Run chrome.exe  https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window --profile-directory="Default"
 ;^!o::MsgBox, 1, "Unused", "This CTRL+ALT+O Shortcut is Unused", 30
 return
@@ -222,7 +224,25 @@ return
 ^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report?from=%A_MM%/%A_DD%/2021&to=%A_MM%/%A_DD%/2021 --new-window --profile-directory="Default"
 return
 
-^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
+;^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
+^!s::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+    ;Msgbox, %A_ComputerName%
+    ;Work is PHTL323004136B
+    ;Home is DESKTOP-H9GCS6A
+    Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory="Profile 1"
+}
+Else if (A_ComputerName = "PHTL323004136B")
+{
+    ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 1" if not then change this
+    ;find the profile using chrome://version
+    Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory="Profile 1"
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
 return
 
 ^!t::
