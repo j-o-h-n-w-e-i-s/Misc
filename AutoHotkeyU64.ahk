@@ -232,6 +232,8 @@ if (A_ComputerName = "DESKTOP-H9GCS6A")
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
     Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory="Profile 1"
+    Run explorer.exe "C:\GoogleScanned Local"
+    Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
 Else if (A_ComputerName = "PHTL323004136B")
 {
