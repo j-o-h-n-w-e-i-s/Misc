@@ -240,6 +240,8 @@ Else if (A_ComputerName = "PHTL323004136B")
     ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 8" if not then change this
     ;find the profile using chrome://version
     Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory="Profile 8"
+    Run explorer.exe "C:\jweisenfeld\GoogleScanned"
+    Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
 Else 
 {
