@@ -394,6 +394,13 @@ return
 ^!+::Run chrome.exe https://www.positivephysics.org/  --new-window
 return
 
+^![::Run chrome.exe https://tiny.cc --new-window --profile-directory="Default"
+return
+
+^!]::Run chrome.exe https://tinycc.com --new-window --profile-directory="Default"
+return
+
+
 ;2021 T2 1st Period was Waves this is a Channel
 ^!F1::Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window
 return
