@@ -108,6 +108,7 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 :*:..efhtc::https://certiport.pearsonvue.com/Support/Install/Exams-from-Home/Test-Candidate
 :*:..version::you are using the GitHub Version of AutoHotKey
 :*:..paystub::Hi Cathleen (cathleen.oppelt@hca.wa.gov),{Enter}{Enter}Here's my latest paystub.{Enter}{Enter}Thank you!{Enter}{Enter}{Enter}John Weisenfeld for{Enter}HOHID:  200825421WA - JOHANNA WEISENFELD
+:*:..tgcvid::Here's a link to the video from Dr. Shana Kelley / Ted Sargent, University of Toronto.  Lecture XX Video (highlight and put link to MicrosoftStream Video https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e){Enter}Here's a link to the PDF which accompanies this Lecture.  Lecture XX PDF (highlight and then upload document here.){Enter}To get 5 pts credit for this assignment post a reply to this discussion answering the questions below.  Then, for an additional 5 pts, post one reply to the post of one of your classmates.  NOTE:  you won't see their posts until you make your first post.{Enter}1. [Question 1]{Enter}2. [Question 2]
 ;LOWER CASE ALPHABET
 
 ^!'::
@@ -287,6 +288,29 @@ return
 
 ^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory="Default"
 return
+
+^!.::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+    ;Msgbox, %A_ComputerName%
+    ;Work is PHTL323004136B
+    ;Home is DESKTOP-H9GCS6A
+    Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
+    ;Run explorer.exe "C:\GoogleScanned Local"
+    ;Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
+}
+Else if (A_ComputerName = "PHTL323004136B")
+{
+    ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 1" if not then change this
+    ;find the profile using chrome://version
+    Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
+return
+
 
 ;^!`::Run chrome.exe https://www.desmos.com/ --new-window
 ^!`::
