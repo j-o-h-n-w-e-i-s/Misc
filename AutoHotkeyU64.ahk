@@ -86,7 +86,8 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 :*:..survey::http://tiny.cc/phsahlsft1wc
 :*:..tande::https://forms.office.com/Pages/ResponsePage.aspx?id=CnGXhcFG7kylEJpMNl4IHTsaWbHUtLNMmgGMz5mRmkFUN1dGUzRNWlFYUTlHOEJCSk5BTkNWT09IMi4u
 :*:..csta::http://tiny.cc/csta20201119
-:*:mrwzoom::http://tiny.cc/mrwzoom
+;:*:mrwzoom::http://tiny.cc/mrwzoom
+:*:mrwzoom::https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09
 :*:..doble::Here are step-by-step instructions for requesting dual credit for passing Word Certification Exam.{Enter}The credit is for an "advanced Word usage" class at CBC.{Enter}https://drive.google.com/file/d/1B2XFpDOGM-zDYpER7Jn5J-ymYxk2j_Ii/view?usp=sharing
 :*:..plan::https://liveedupsd1-my.sharepoint.com/:x:/r/personal/jweisenfeld_psd1_org/_layouts/15/Doc.aspx?sourcedoc=%7BDA2B81EC-4F1D-4021-9866-00A0E6A358FC%7D&file=Synch-Asynch-Planner-Weisenfeld.xlsx&wdOrigin=OFFICECOM-WEB.START.REC&action=default&mobileredirect=true
 ;two letter shortcuts are really powerful and process before everything else
@@ -286,7 +287,8 @@ return
 
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
 
-^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory="Default"
+;^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory="Default"
+^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory="Default"
 return
 
 ^!.::
