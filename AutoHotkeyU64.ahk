@@ -303,9 +303,8 @@ if (A_ComputerName = "DESKTOP-H9GCS6A")
 }
 Else if (A_ComputerName = "PHTL323004136B")
 {
-    ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 1" if not then change this
     ;find the profile using chrome://version
-    Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
+    Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 8"
 }
 Else 
 {
