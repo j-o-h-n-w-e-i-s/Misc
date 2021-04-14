@@ -344,7 +344,7 @@ return
 ;^!2::Run chrome.exe http://tiny.cc/2021t22nd --new-window
 ;2021 Trimester 3 Roll Tool
 ^!2::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826&frn=003171726&distance=Josh --new-window
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826&frn=003171726&distance=Josh --new-window --profile-directory="Default"
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&sectionId=184116&frn=003171726&distance=Levi --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&sectionId=184116#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
@@ -372,12 +372,12 @@ Run chrome.exe https://pschool.psd1.org/teachers/index.html#/classes/assignments
 return
 
 ;a little OneNote page I use to take Roll, CTRL+ALT+R is Zoom Log page, and CTRL+ALT+4 is OneNote page
-^!4::Run chrome.exe http://tiny.cc/rollthisweek --new-window
+^!4::Run chrome.exe http://tiny.cc/rollthisweek --new-window --profile-directory="Default"
 return
 
 ;^!5::Run chrome.exe http://tiny.cc/2021t15th --new-window
 ;^!5::Run chrome.exe http://tiny.cc/2021t25th --new-window
-^!5::Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window
+^!5::Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory="Default"
 return
 
 ;^!6::Run chrome.exe http://tiny.cc/2021t16th --new-window
@@ -411,13 +411,13 @@ return
 ^!9::Run chrome.exe http://tiny.cc/mrwnanoapps --new-window
 ;return
 
-^!0::Run chrome.exe https://www.certiport.com/portal/SSL/Login.aspx --new-window
+^!0::Run chrome.exe https://www.certiport.com/portal/SSL/Login.aspx --new-window --profile-directory="Default"
 return
 
-^!_::Run chrome.exe https://ust49wa.theexpertta.com/Common/GradeSheetClassAssignments.aspx?m=1&eid=2995 --new-window
+^!_::Run chrome.exe https://ust49wa.theexpertta.com/Common/GradeSheetClassAssignments.aspx?m=1&eid=2995 --new-window --profile-directory="Default"
 return
 
-^!+::Run chrome.exe https://www.positivephysics.org/  --new-window
+^!+::Run chrome.exe https://www.positivephysics.org/  --new-window --profile-directory="Default"
 return
 
 ^![::Run chrome.exe https://tiny.cc --new-window --profile-directory="Default"
@@ -428,31 +428,31 @@ return
 
 
 ;2021 T2 1st Period was Waves this is a Channel
-^!F1::Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window
+^!F1::Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window --profile-directory="Default"
 return
 ;2021 T2 2nd Period was PHYS 112 this is a Channel
 ;^!F2::Run chrome.exe https://web.microsoftstream.com/channel/08679eb0-1f93-41c5-86ae-a81fb7cf0879 --new-window
 ;2021 T3 2nd Period was NANO this is a Channel
-^!F2::Run chrome.exe https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e --new-window
+^!F2::Run chrome.exe https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e --new-window --profile-directory="Default"
 return
 ;20201 T2 5th Period was MOS 1 and MOS 2 this is a channel link
-^!F3::Run chrome.exe https://web.microsoftstream.com/channel/683c442e-13be-4066-82cc-4e4661fd9011 --new-window
+^!F3::Run chrome.exe https://web.microsoftstream.com/channel/683c442e-13be-4066-82cc-4e4661fd9011 --new-window --profile-directory="Default"
 return
 ;2021 T2 6th Period was Accelerated Physics this is a Channel
-^!F4::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window
+^!F4::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory="Default"
 return
 
 ;2021 T1 1st Period was Kinematics this was a Group Channel
-^!F5::Run chrome.exe https://web.microsoftstream.com/channel/4cf6dea8-1d63-4784-8025-1e1bf7a3fdad  --new-window
+^!F5::Run chrome.exe https://web.microsoftstream.com/channel/4cf6dea8-1d63-4784-8025-1e1bf7a3fdad  --new-window --profile-directory="Default"
 return
 ;2021 T1 2nd Period was Accelerated Physics (this is a channel)
-^!F6::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window
+^!F6::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory="Default"
 return
 ;2021 T1 5th Period was PHYS 111
-^!F7::Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab  --new-window
+^!F7::Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab  --new-window --profile-directory="Default"
 return
 ;2021 T1 6th Period was Astronomy
-^!F8::Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window
+^!F8::Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window --profile-directory="Default"
 return
 
 
