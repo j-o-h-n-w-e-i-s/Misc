@@ -384,7 +384,7 @@ return
 ;^!6::Run chrome.exe http://tiny.cc/2021t26th --new-window
 ;2021 Trimester 3 Roll Tool
 ^!6::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A6A6A6A6A6A6A6A6A&sectionId=184502&frn=003171726&foo=6A&distance=Salvador.Gyovanna.Xavier.Javier.Kylie --new-window
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A6A6A6A6A6A6A6A6A&sectionId=184502&frn=003171726&foo=6A&distance=Salvador.Gyovanna.Xavier.Javier.Kylie --new-window --profile-directory="Default"
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6B6B6B6B6B6B6B6B6B6B&sectionId=185821&frn=003171726&foo=6B&distance=Giovanni.Julianna.Carter --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=172112 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionId=173431 --new-MainWindow
