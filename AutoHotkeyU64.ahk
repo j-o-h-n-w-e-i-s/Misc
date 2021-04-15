@@ -122,6 +122,82 @@ MsgBox, %A_OSVersion%
 MsgBox, %A_ScriptDir%
 ;Work is
 ;Home is
+MsgBox, 
+(
+CTRL+ALT+
+A = apply changes to AutoHotkeyU64.ahk
+B = open Outlook Web signature
+C = open Outlook Web Calendar 
+D = open Downloads folder
+E = open Outlook Email
+F = open Microsoft Forms
+G = open Chrome Guest window
+H = open AutoHotKeyU64.ahk in Visual Studio Code
+I = open PHS SharePoint
+J = open Canvas 
+L = open Flipgrid
+M = Screencast-O-Matic Web page
+N = UNUSED - SAVE FOR OneNote
+O = Open Outlook To-Do list
+P = Open MSPaint
+Q = Open Desmos Scientific Calculator
+R = Open Zoom Settings
+S = Open ScanDall Pro, Google Drive, and Local Folder for Scanned files
+T = Open Teams App
+U = Open Google Translate Web Page to Spanish
+V = Open Videos Folder
+X = Gmetrix Admin
+Y = Open ScreenCast-O-Matic Recorder
+Z = Open Zoom to Personal Meeting link
+. = nimble.com in john.weisenfeld@gmail.com profile
+[ = tiny.cc
+] = tinycc.com
+)
+MsgBox,
+(
+` = EI PowerSchool PowerTeacher
+1 = 1st Period PowerSchool PowerTeacher
+2 = 2nd Period PowerSchool PowerTeacher
+3 = 3rd Period PowerSchool PowerTeacher
+4 = 4th Period PowerSchool PowerTeacher
+5 = 5th Period PowerSchool PowerTeacher
+6 = 6th Period PowerSchool PowerTeacher
+- = OneDrive
+_ = ExpertTA
++ = PositivePhysics
+equals = YouTube Brown Noise
+F1 = MicrosoftStream Physics 2 Waves
+F2 = MicrosoftStream TCG Nanotechnology
+F3 = MicrosoftStream MOS
+F4 = MicrosoftStream Physics Accelerated
+F5 = MicrosoftStream Weisenfeld Kinematics
+F6 = UNUSED
+F7 = MicrosoftStream Physics 111
+F8 = MicrosoftStream Weisenfeld Astronomy
+F9 = OneNote
+F10 = Word
+F11 = Excel
+F12 = PowerPoint
+)
+MsgBox,
+(
+K = UNUSED
+W = UNUSED
+, = UNUSED
+/ = UNUSED
+; = UNUSED
+\ = UNUSED
+@ = UNUSED
+# = UNUSED
+$ = UNUSED
+percent sign = ILLEGAL
+^ = UNUSED
+* = UNUSED
+~ = UNUSED
+" = UNUSED
+: = ILLEGAL
+
+)
 return
 
 ;Run AutoHotkey
@@ -173,9 +249,12 @@ EnvGet, LocAppDat, LOCALAPPDATA
 Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
 return
 
-;Open MyApps
 ;^!i::Run chrome.exe https://psd1.helloid.com/#/applications --new-window --profile-directory="Default"
-^!i::MsgBox, 1, "Unused", "This CTRL+ALT+I Shortcut is Unused", 30
+;^!i::MsgBox, 1, "Unused", "This CTRL+ALT+I Shortcut is Unused", 30
+^!i:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory="Default"
+return
+
+^!?:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory="Default"
 return
 
 ;Open PowerSchool Sign In Screen
@@ -270,9 +349,9 @@ Run explorer.exe "%UsePro%\Videos"
 return
 
 ;^!w::MsgBox, 1, "Unused", "This CTRL+ALT+w Shortcut is Unused", 30
-^!w::Run chrome.exe http://somup.com/crnXceD6Rg --new-Window --profile-directory="Default"
+;^!w::Run chrome.exe http://somup.com/crnXceD6Rg --new-Window --profile-directory="Default"
 ;^!w::Run chrome.exe https://www.youtube.com/c/MikeTholfsen/videos --new-window
-return
+^!w::MsgBox CTRL+ALT+W is UNUSED
 return
 
 ;^!x::Run chrome.exe https://login.theexpertta.com/Login.aspx --new-window
@@ -289,6 +368,30 @@ return
 
 ;^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory="Default"
 ^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory="Default"
+return
+
+^!,::Msgbox CTRL+ALT+, is UNUSED
+return
+
+^!>::Msgbox CTRL+ALT+> is UNUSED
+return
+
+^!<::Msgbox CTRL+ALT+< is UNUSED
+return
+
+^!/::Msgbox CTRL+ALT+/ is UNUSED
+return
+
+^!;::Msgbox CTRL+ALT+; is UNUSED
+return
+
+^!"::Msgbox CTRL+ALT+quote is UNUSED
+return
+
+^!|::Msgbox CTRL+ALT+| is UNUSED
+return
+
+^!=:: Run chrome.exe https://www.youtube.com/watch?v=RqzGzwTY-6w --guest
 return
 
 ^!.::
@@ -424,6 +527,16 @@ return
 
 ^!]::Run chrome.exe https://tinycc.com --new-window --profile-directory="Default"
 return
+
+^!\::Msgbox CTRL+ALT+\ is UNUSED
+return
+
+^!{::Msgbox CTRL+ALT+{ is UNUSED
+return
+
+^!}::Msgbox CTRL+ALT+} is UNUSED
+return
+
 
 
 ;2021 T2 1st Period was Waves this is a Channel
