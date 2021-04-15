@@ -190,7 +190,7 @@ W = UNUSED
 \ = UNUSED
 @ = UNUSED
 # = UNUSED
-$ = UNUSED
+$ = smile.amazon.com
 percent sign = ILLEGAL
 ^ = UNUSED
 * = UNUSED
@@ -324,6 +324,27 @@ Else if (A_ComputerName = "PHTL323004136B")
     Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory="Profile 8"
     Run explorer.exe "C:\jweisenfeld\GoogleScanned"
     Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
+return
+
+;^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
+^!$::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+    ;Msgbox, %A_ComputerName%
+    ;Work is PHTL323004136B
+    ;Home is DESKTOP-H9GCS6A
+    Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 1"
+}
+Else if (A_ComputerName = "PHTL323004136B")
+{
+    ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 8" if not then change this
+    ;find the profile using chrome://version
+    Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 8"
 }
 Else 
 {
