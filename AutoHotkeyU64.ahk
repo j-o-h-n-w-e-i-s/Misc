@@ -1043,6 +1043,8 @@ return
 :*:nathan890::nathan890@students.psd1.org
 :*:pnathan890::g2fjh3
 :*:julian187::julian187@students.psd1.org
+:*:antajha001::antajha001@students.psd1.org
+:*:pantajha001::wave200
 :*:pjulian187::bwh9xq
 :*:pguadalupe816::ts2cz2
 :*:pmiguel869::5h0ipz
