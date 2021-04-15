@@ -79,6 +79,7 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 :*:..exam::Please accept this invitation if:{Enter}{Enter}You have registered at Certiport.com and have a login{Enter}Your laptop/computer is working{Enter}You have a reliable internet connection{Enter}{Enter}If you have those, please accept this invitation to take an Official Microsoft Word Certification exam!
 :*:benjamin086::benjamin086@students.psd1.org
 :*:pbenjamin086::hair936
+:*:..whyzenfelled::how to pronounce my last name https://www.names.org/n/weisenfeld/about#pronunciation 
 :*:jrw::johanna521@students.psd1.org
 :*:pjrw::4b6k08
 :*:printscreen::https://screencast-o-matic.com/watch/cYlhXxN4tn
