@@ -178,6 +178,7 @@ F9 = OneNote
 F10 = Word
 F11 = Excel
 F12 = PowerPoint
+| = PSD1.NET Useful
 )
 MsgBox,
 (
@@ -388,7 +389,7 @@ return
 ^!"::Msgbox CTRL+ALT+quote is UNUSED
 return
 
-^!|::Msgbox CTRL+ALT+| is UNUSED
+^!|::Run chrome.exe https://drive.google.com/drive/folders/14Cpds7wKHs7FXZ4TjSyHi2pVXG_uGmdg --new-window --profile-directory="Default"
 return
 
 ^!=:: Run chrome.exe https://www.youtube.com/watch?v=RqzGzwTY-6w --guest
