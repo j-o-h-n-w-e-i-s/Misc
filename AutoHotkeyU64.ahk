@@ -135,7 +135,7 @@ G = open Chrome Guest window
 H = open AutoHotKeyU64.ahk in Visual Studio Code
 I = open PHS SharePoint
 J = open Canvas 
-L = open Flipgrid
+L = T3 Seating Charts Document
 M = Screencast-O-Matic Web page
 N = UNUSED - SAVE FOR OneNote
 O = Open Outlook To-Do list
@@ -273,7 +273,8 @@ return
 return
 
 ;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
-^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory="Default"
+;^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory="Default"
+^!l::Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory="Default"
 return
 
 ;Open Chrome to SOM
