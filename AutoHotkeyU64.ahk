@@ -190,7 +190,7 @@ W = UNUSED
 ; = UNUSED
 \ = UNUSED
 @ = UNUSED
-# = UNUSED
+# = Emergency Sub Plan #SubPlan
 $ = smile.amazon.com
 percent sign = ILLEGAL
 ^ = UNUSED
@@ -446,6 +446,7 @@ Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionI
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=193528#classtoolsmode --new-MainWindow
 return
 
+^!#:: Run chrome https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={0216ee5c-5433-44de-a365-e89231900e1a}&action=edit --new-window --profile-directory="Default"
 
 ;^!1::Run chrome.exe http://tiny.cc/2021t11st --new-window
 ;^!1::Run chrome.exe http://tiny.cc/2021t21st --new-window
