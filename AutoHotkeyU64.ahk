@@ -111,8 +111,10 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 :*:..version::you are using the GitHub Version of AutoHotKey
 :*:..paystub::Hi Cathleen (cathleen.oppelt@hca.wa.gov),{Enter}{Enter}Here's my latest paystub.{Enter}{Enter}Thank you!{Enter}{Enter}{Enter}John Weisenfeld for{Enter}HOHID:  200825421WA - JOHANNA WEISENFELD
 :*:..tgcvid::Here's a link to the video from Dr. Shana Kelley / Ted Sargent, University of Toronto.  Lecture XX Video (highlight and put link to MicrosoftStream Video https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e){Enter}Here's a link to the PDF which accompanies this Lecture.  Lecture XX PDF (highlight and then upload document here.){Enter}To get 5 pts credit for this assignment post a reply to this discussion answering the questions below.  Then, for an additional 5 pts, post one reply to the post of one of your classmates.  NOTE:  you won't see their posts until you make your first post.{Enter}1. [Question 1]{Enter}2. [Question 2]
+:*:..tic::Today's assignment is in Canvas.{Enter}{Enter}Please go to https://canvas.instructure.com/courses/2477035 and complete the next module.{Emter}{Enter}NOTE: your grade for this module will go directly into PowerSchool
 ;LOWER CASE ALPHABET
 
+;ASCII 39
 ^!'::
 Msgbox, %A_ComputerName%
 ;Work is PHTL323004136B
@@ -151,8 +153,10 @@ X = Gmetrix Admin
 Y = Open ScreenCast-O-Matic Recorder
 Z = Open Zoom to Personal Meeting link
 . = nimble.com in john.weisenfeld@gmail.com profile
-[ = tiny.cc
-] = tinycc.com
+[ = Edge jweisenfeld@psd1.org email Profile 2
+] = Edge weisenfeldj@spu.edu email Profile 3 
+{ = Edge johnweis@live.com email Default
+} = Edge john_wfeld@msn.com email Profile 1
 )
 MsgBox,
 (
@@ -256,15 +260,14 @@ return
 ^!i:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory="Default"
 return
 
+;ASCII 63
 ^!?:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory="Default"
 return
 
-;Open PowerSchool Sign In Screen
-;^!j::Run chrome.exe https://pschool.psd1.org/teachers/index.html# --new-window
+;ASCII 106
 ^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory="Default"
 return
 
-:*:..tic::Today's assignment is in Canvas.{Enter}{Enter}Please go to https://canvas.instructure.com/courses/2477035 and complete the next module.{Emter}{Enter}NOTE: your grade for this module will go directly into PowerSchool
 
 ;^!k::FormatTime, TimeString, 
 ;MsgBox, The current time and date (time first) is %TimeString%
@@ -395,12 +398,6 @@ return
 return
 
 ^!,::Msgbox CTRL+ALT+, is UNUSED
-return
-
-^!>::Msgbox CTRL+ALT+> is UNUSED
-return
-
-^!<::Msgbox CTRL+ALT+< is UNUSED
 return
 
 ^!/::Msgbox CTRL+ALT+/ is UNUSED
@@ -547,21 +544,31 @@ return
 ^!+::Run chrome.exe https://www.positivephysics.org/  --new-window --profile-directory="Default"
 return
 
-^![::Run chrome.exe https://tiny.cc --new-window --profile-directory="Default"
+^!<::Run chrome.exe https://tiny.cc --new-window --profile-directory="Default"
 return
 
-^!]::Run chrome.exe https://tinycc.com --new-window --profile-directory="Default"
+^!>::Run chrome.exe https://tinycc.com --new-window --profile-directory="Default"
 return
+
+^!{::Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Default"
+;johnweis@live.com is Default Profile
+return
+
+^!}::Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
+;john_wfeld@msn.com is Profile 1
+return
+
+^![::Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 4"
+;weisenfeldj@cwu.edu is Profile 4 on home computer
+return
+
+^!]::Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 3"
+;weisenfeldj@spu.edu is Profile 3 on home computer
+return
+
 
 ^!\::Msgbox CTRL+ALT+\ is UNUSED
 return
-
-^!{::Msgbox CTRL+ALT+{ is UNUSED
-return
-
-^!}::Msgbox CTRL+ALT+} is UNUSED
-return
-
 
 
 ;2021 T2 1st Period was Waves this is a Channel
