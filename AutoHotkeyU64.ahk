@@ -153,7 +153,7 @@ X = Gmetrix Admin
 Y = Open ScreenCast-O-Matic Recorder
 Z = Open Zoom to Personal Meeting link
 . = nimble.com in john.weisenfeld@gmail.com profile
-[ = Edge jweisenfeld@psd1.org email Profile 2
+[ = Edge weisenfeldj@cwu.edu email Profile 4
 ] = Edge weisenfeldj@spu.edu email Profile 3 
 { = Edge johnweis@live.com email Default
 } = Edge john_wfeld@msn.com email Profile 1
@@ -188,7 +188,7 @@ F12 = PowerPoint
 MsgBox,
 (
 K = UNUSED
-W = UNUSED
+W = NotePad
 , = UNUSED
 / = UNUSED
 ; = UNUSED
@@ -196,13 +196,15 @@ W = UNUSED
 @ = UNUSED
 # = Emergency Sub Plan #SubPlan
 $ = smile.amazon.com
-percent sign = ILLEGAL
+PERCENT = UNUSED
+& = UNUSED
 ^ = UNUSED
 * = UNUSED
 ~ = UNUSED
 " = UNUSED
 : = ILLEGAL
-
+left paren = UNUSED
+right paren = UNUSED
 )
 return
 
@@ -263,6 +265,13 @@ return
 ;ASCII 63
 ^!?:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory="Default"
 return
+
+;ASCII 64
+^!@:: Run chrome.exe http://www.asciitable.com/ --guest
+return
+
+;ASCII 94
+^!^:: MsgBox, CTRL+ALT+^ is UNUSED
 
 ;ASCII 106
 ^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory="Default"
@@ -378,7 +387,8 @@ return
 ;^!w::MsgBox, 1, "Unused", "This CTRL+ALT+w Shortcut is Unused", 30
 ;^!w::Run chrome.exe http://somup.com/crnXceD6Rg --new-Window --profile-directory="Default"
 ;^!w::Run chrome.exe https://www.youtube.com/c/MikeTholfsen/videos --new-window
-^!w::MsgBox CTRL+ALT+W is UNUSED
+;^!w::MsgBox CTRL+ALT+W is UNUSED
+^!w::Run notepad.exe
 return
 
 ;^!x::Run chrome.exe https://login.theexpertta.com/Login.aspx --new-window
@@ -436,14 +446,15 @@ Msgbox, "I don't know this computer"
 }
 return
 
-
-;^!`::Run chrome.exe https://www.desmos.com/ --new-window
+; ASCII 96
 ^!`::
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=193528&frn=003181138 --new-window --profile-directory="Default"
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=193528#classtoolsmode --new-MainWindow
 return
 
-^!#:: Run chrome https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={0216ee5c-5433-44de-a365-e89231900e1a}&action=edit --new-window --profile-directory="Default"
+; ASCII 35
+^!#:: Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={0216ee5c-5433-44de-a365-e89231900e1a}&action=edit --new-window --profile-directory="Default"
+return
 
 ;^!1::Run chrome.exe http://tiny.cc/2021t11st --new-window
 ;^!1::Run chrome.exe http://tiny.cc/2021t21st --new-window
@@ -566,8 +577,10 @@ return
 ;weisenfeldj@spu.edu is Profile 3 on home computer
 return
 
-
 ^!\::Msgbox CTRL+ALT+\ is UNUSED
+return
+
+^!~::Msgbox CTRL+ALT+~ is UNUSED
 return
 
 
@@ -622,24 +635,40 @@ return
 F10::DllCall("PowrProf\SetSuspendState", "int", 0, "int", 0, "int", 0)
 Return
 
+;these shortcuts that go to a Teams Channel just don't work
 ;^!!::Run chrome.exe https://teams.microsoft.com/l/channel/19%3acd94b0c55f2f4770a43b908fdd701b34%40thread.tacv2/General?groupId=85226ffd-e680-48aa-886d-d1ae83563e03&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d --new-window
-^!!::Run chrome.exe "https://teams.microsoft.com/l/channel/19%3a0aa3de7bfb9941d69022b410f18ba257%40thread.tacv2/General?groupId=7472bc95-8161-4f99-abb1-b0e35d52abfa&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d" --new-window
-return
-
-;direct link to general channel in teams for first class
-^!&::Run chrome.exe https://teams.microsoft.com/l/channel/19%3a0aa3de7bfb9941d69022b410f18ba257%40thread.tacv2/General?groupId=7472bc95-8161-4f99-abb1-b0e35d52abfa&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
-return
-
-;direct link to general channel in teams for first class
+;^!!::Run chrome.exe "https://teams.microsoft.com/l/channel/19%3a0aa3de7bfb9941d69022b410f18ba257%40thread.tacv2/General?groupId=7472bc95-8161-4f99-abb1-b0e35d52abfa&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d" --new-window
+;^!&::Run chrome.exe https://teams.microsoft.com/l/channel/19%3a0aa3de7bfb9941d69022b410f18ba257%40thread.tacv2/General?groupId=7472bc95-8161-4f99-abb1-b0e35d52abfa&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
 ;^!*::Run chrome.exe https://teams.microsoft.com/l/channel/19%3acd94b0c55f2f4770a43b908fdd701b34%40thread.tacv2/General?groupId=85226ffd-e680-48aa-886d-d1ae83563e03&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
+;^!(::Run chrome.exe https://teams.microsoft.com/l/channel/19%3ae6ce62e664234fecb0a0bd09bb23eb25%40thread.tacv2/General?groupId=9f0cad61-fefe-45e5-87ff-c7ddb99efc99&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
+;^!)::Run chrome.exe https://teams.microsoft.com/l/channel/19%3a1a51dce0b69447b89d921b71e7c0a3a1%40thread.tacv2/General?groupId=95d5f52f-b85d-4232-9914-604d02f739e5&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
+
+; ASCII 196
+^!!:: MsgBox CTRL+ALT+! is UNUSED
 return
 
-;direct link to general channel in teams for first class
-^!(::Run chrome.exe https://teams.microsoft.com/l/channel/19%3ae6ce62e664234fecb0a0bd09bb23eb25%40thread.tacv2/General?groupId=9f0cad61-fefe-45e5-87ff-c7ddb99efc99&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
+;ASCII 37
+^!%:: MsgBox CTRL+ALT+PERCENT is UNUSED
 return
 
-;direct link to general channel in teams for first class
-^!)::Run chrome.exe https://teams.microsoft.com/l/channel/19%3a1a51dce0b69447b89d921b71e7c0a3a1%40thread.tacv2/General?groupId=95d5f52f-b85d-4232-9914-604d02f739e5&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
+;ASCII 38
+^!&:: MsgBox CTRL+ALT+& is UNUSED
+return
+
+;ASCII 40
+^!(:: MsgBox CTRL+ALT+( is UNUSED
+return
+
+;ASCII 41
+^!):: MsgBox CTRL+ALT+) is UNUSED
+return
+
+;ASCII 42
+^!*:: MsgBox CTRL+ALT+* is UNUSED
+return
+
+;ASCII 58
+;CTRL+ALT+COLON is ILLEGAL
 return
 
 ;2021 t1 kinematics
