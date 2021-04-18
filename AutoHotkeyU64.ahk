@@ -526,12 +526,12 @@ Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6B6B6B6B6B6B6B6B6B6B&sectionId=185821&frn=003171726&foo=6B&distance=Giovanni.Julianna.Carter --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=172112 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionId=173431 --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionid=184502&frn=003172112&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionid=185821&frn=003173431&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionId=172285 -new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=173432 -new-MainWindow 
 ;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?sectionid=184675&frn=003172285&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
 ;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?sectionid=185822&frn=003173432&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
+;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionid=184502&frn=003172112&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
+;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionid=185821&frn=003173431&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
 return
 
 ;Some In Person PD thing?
