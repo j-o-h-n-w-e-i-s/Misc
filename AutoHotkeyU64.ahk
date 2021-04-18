@@ -200,7 +200,7 @@ PERCENT = UNUSED
 & = UNUSED
 ^ = UNUSED
 * = UNUSED
-~ = UNUSED
+~ = COVID SCREENER
 " = UNUSED
 : = ILLEGAL
 left paren = UNUSED
@@ -589,7 +589,8 @@ return
 ^!\::Msgbox CTRL+ALT+\ is UNUSED
 return
 
-^!~::Msgbox CTRL+ALT+~ is UNUSED
+;^!~::Msgbox CTRL+ALT+~ is UNUSED
+^!~::Run chrome.exe https://learnpsd.psd1.org/screening/employee --new-window --profile-directory="Default"
 return
 
 
