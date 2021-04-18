@@ -267,7 +267,9 @@ return
 return
 
 ;ASCII 64
-^!@:: Run chrome.exe http://www.asciitable.com/ --guest
+^!@::
+Run chrome.exe http://www.asciitable.com/ --guest
+Run chrome.exe https://www.urldecoder.io/ --guest
 return
 
 ;ASCII 94
@@ -280,9 +282,10 @@ return
 
 ;^!k::FormatTime, TimeString, 
 ;MsgBox, The current time and date (time first) is %TimeString%
-^!k::MsgBox, 1, "Unused", "This CTRL+ALT+K Shortcut is Unused", 30
+;^!k::MsgBox, 1, "Unused", "This CTRL+ALT+K Shortcut is Unused", 30
 ;^!k::Run c:\Users\jweisenfeld\Appdata\Roaming\npm\selenium-side-runner c:\users\jweisenfeld\downloads\Demo.side
 ;^!k::Run chrome.exe https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window 
+^!k::Run chrome.exe "https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2020-2021/T3 Distance Learners Parents and Guardians.txt&parent=/personal/jweisenfeld_psd1_org/Documents/2020-2021" --new-window --profile-directory="Default"
 return
 
 ;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
