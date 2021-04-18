@@ -290,7 +290,12 @@ return
 
 ;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
 ;^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory="Default"
-^!l::Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory="Default"
+^!l::
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=184502#classtoolsmode --new-MainWindow
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120#classtoolsmode --new-MainWindow
 return
 
 ;Open Chrome to SOM
@@ -527,7 +532,8 @@ Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6B6B
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=172112 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionId=173431 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionId=172285 -new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=173432 -new-MainWindow 
+Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=173432 -new-MainWindow
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=184502#classtoolsmode -new-MainWindow 
 ;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?sectionid=184675&frn=003172285&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
 ;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?sectionid=185822&frn=003173432&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
 ;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionid=184502&frn=003172112&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
