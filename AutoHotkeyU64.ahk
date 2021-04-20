@@ -2,8 +2,22 @@
 ;#Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
+VarWorkingDir = %A_ScriptDir%
+VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
 ;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
 ;are you seeing this message?
+;MsgBox %VarWorkingDir%, %VarComputerName%
+
+;VarProfileDirectory is the chrome profile directory for the jweisenfeld@psd1.org sign in ...
+if (VarComputerName = "DESKTOP-H9GCS6A")
+{
+VarProfileDirectory = "Default"
+}
+else
+{
+VarProfileDirectory = "Default"    
+}
+
 
 :*:..rcnm::Run chrome.exe  --new-MainWindow
 :*:hpu::http://psd1.us/
@@ -119,12 +133,15 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 Msgbox, %A_ComputerName%
 ;Work is PHTL323004136B
 ;Home is DESKTOP-H9GCS6A
+;Work Laptop is 
 MsgBox, %A_OSVersion%
-;Work is 10.0.19042
-;Home is 
+;Work Z240 is 10.0.19042
+;Home is 10.0.19042
+;Work Laptop
 MsgBox, %A_ScriptDir%
 ;Work is
-;Home is
+;Home is C:\Users\John C. Weisenfeld\Documents\GitHub\Misc
+;Work Laptop is
 MsgBox, 
 (
 CTRL+ALT+
@@ -214,11 +231,11 @@ return
 return
 
 ;Fix Email Signature
-^!b::Run chrome.exe https://outlook.office.com/mail/options/mail/messageContent/signature --new-window --profile-directory="Default"
+^!b::Run chrome.exe https://outlook.office.com/mail/options/mail/messageContent/signature --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;Show Your Email Calendar
-^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory="Default"
+^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!d::MsgBox, 1, "Unused", "This CTRL+ALT+D Shortcut is Unused", 30
@@ -231,12 +248,12 @@ Run explorer.exe "%UserProf%\Downloads"
 return
 
 ;Open Your Email
-^!e::Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory="Default"
+^!e::Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;Open Forms
 ;^!f::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window
-^!f::Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx?origin=shell --new-window --profile-directory="Default"
+^!f::Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx?origin=shell --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;Open Guest Window
@@ -268,13 +285,13 @@ Msgbox, "I don't know this computer"
 }
 return
 
-;^!i::Run chrome.exe https://psd1.helloid.com/#/applications --new-window --profile-directory="Default"
+;^!i::Run chrome.exe https://psd1.helloid.com/#/applications --new-window --profile-directory=%VarProfileDirectory%
 ;^!i::MsgBox, 1, "Unused", "This CTRL+ALT+I Shortcut is Unused", 30
-^!i:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory="Default"
+^!i:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 63
-^!?:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory="Default"
+^!?:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 64
@@ -287,7 +304,7 @@ return
 ^!^:: MsgBox, CTRL+ALT+^ is UNUSED
 
 ;ASCII 106
-^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory="Default"
+^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 
@@ -296,13 +313,13 @@ return
 ;^!k::MsgBox, 1, "Unused", "This CTRL+ALT+K Shortcut is Unused", 30
 ;^!k::Run c:\Users\jweisenfeld\Appdata\Roaming\npm\selenium-side-runner c:\users\jweisenfeld\downloads\Demo.side
 ;^!k::Run chrome.exe https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window 
-^!k::Run chrome.exe "https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2020-2021/T3 Distance Learners Parents and Guardians.txt&parent=/personal/jweisenfeld_psd1_org/Documents/2020-2021" --new-window --profile-directory="Default"
+^!k::Run chrome.exe "https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2020-2021/T3 Distance Learners Parents and Guardians.txt&parent=/personal/jweisenfeld_psd1_org/Documents/2020-2021" --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
-;^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory="Default"
+;^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory=%VarProfileDirectory%
 ^!l::
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory="Default"
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=184502#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
@@ -310,7 +327,7 @@ Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?fo
 return
 
 ;Open Chrome to SOM
-^!m::Run chrome.exe https://screencast-o-matic.com/content/video --new-window --profile-directory="Default"
+^!m::Run chrome.exe https://screencast-o-matic.com/content/video --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;DO NOT USE CTRL+ALT+N, we need that one for OneNote!
@@ -319,7 +336,7 @@ return
 ^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx --new-window
 return
 
-^!o::Run chrome.exe  https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window --profile-directory="Default"
+^!o::Run chrome.exe  https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window --profile-directory=%VarProfileDirectory%
 ;^!o::MsgBox, 1, "Unused", "This CTRL+ALT+O Shortcut is Unused", 30
 return
 
@@ -331,12 +348,12 @@ return
 ;^!q::Run chrome.exe https://tiny.cc/phsscreen --new-window
 ;^!q::Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx?origin=shell --new-window
 ;^!q::MsgBox, 1, "Unused", "This CTRL+ALT+q Shortcut is Unused", 30
-^!q::Run chrome.exe https://www.desmos.com/scientific --new-window --profile-directory="Default"
+^!q::Run chrome.exe https://www.desmos.com/scientific --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;Go to Zoom Report Page for Today
 ;^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report --new-window
-^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report?from=%A_MM%/%A_DD%/2021&to=%A_MM%/%A_DD%/2021 --new-window --profile-directory="Default"
+^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report?from=%A_MM%/%A_DD%/2021&to=%A_MM%/%A_DD%/2021 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
@@ -392,7 +409,7 @@ return
 
 ;^!u::MsgBox, 1, "Unused", "This CTRL+ALT+u Shortcut is Unused", 30
 ;^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=hello&op=translate --new-window
-^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=translate.google.com&op=translate --new-window --profile-directory="Default"
+^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=translate.google.com&op=translate --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!v::MsgBox, 1, "Unused", "This CTRL+ALT+v Shortcut is Unused", 30
@@ -404,14 +421,14 @@ Run explorer.exe "%UsePro%\Videos"
 return
 
 ;^!w::MsgBox, 1, "Unused", "This CTRL+ALT+w Shortcut is Unused", 30
-;^!w::Run chrome.exe http://somup.com/crnXceD6Rg --new-Window --profile-directory="Default"
+;^!w::Run chrome.exe http://somup.com/crnXceD6Rg --new-Window --profile-directory=%VarProfileDirectory%
 ;^!w::Run chrome.exe https://www.youtube.com/c/MikeTholfsen/videos --new-window
 ;^!w::MsgBox CTRL+ALT+W is UNUSED
 ^!w::Run notepad.exe
 return
 
 ;^!x::Run chrome.exe https://login.theexpertta.com/Login.aspx --new-window
-^!x::Run chrome.exe https://www.gmetrix.net/manage/Admin/Default.aspx --new-window --profile-directory="Default"
+^!x::Run chrome.exe https://www.gmetrix.net/manage/Admin/Default.aspx --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!y::
@@ -422,8 +439,8 @@ return
 
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
 
-;^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory="Default"
-^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory="Default"
+;^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory=%VarProfileDirectory%
+^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!,::Msgbox CTRL+ALT+, is UNUSED
@@ -438,7 +455,7 @@ return
 ^!"::Msgbox CTRL+ALT+quote is UNUSED
 return
 
-^!|::Run chrome.exe https://drive.google.com/drive/folders/14Cpds7wKHs7FXZ4TjSyHi2pVXG_uGmdg --new-window --profile-directory="Default"
+^!|::Run chrome.exe https://drive.google.com/drive/folders/14Cpds7wKHs7FXZ4TjSyHi2pVXG_uGmdg --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!=:: Run chrome.exe https://www.youtube.com/watch?v=RqzGzwTY-6w --guest
@@ -467,19 +484,19 @@ return
 
 ; ASCII 96
 ^!`::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=193528&frn=003181138 --new-window --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=193528&frn=003181138 --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=193528#classtoolsmode --new-MainWindow
 return
 
 ; ASCII 35
-^!#:: Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={0216ee5c-5433-44de-a365-e89231900e1a}&action=edit --new-window --profile-directory="Default"
+^!#:: Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={0216ee5c-5433-44de-a365-e89231900e1a}&action=edit --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!1::Run chrome.exe http://tiny.cc/2021t11st --new-window
 ;^!1::Run chrome.exe http://tiny.cc/2021t21st --new-window
 ;2021 Trimester 3 Roll Tool
 ^!1::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1B1B1B1B1B1B1B1B1B1B1B&sectionId=184121&frn=003171730&foo=1B&distance=Josette.Abigail.Mayra --new-MainWindow 
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1B1B1B1B1B1B1B1B1B&sectionId=184121#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1A1A1A1A1A1A1A1A1A&sectionId=184120#classtoolsmode --new-MainWindow
@@ -498,7 +515,7 @@ return
 ;^!2::Run chrome.exe http://tiny.cc/2021t22nd --new-window
 ;2021 Trimester 3 Roll Tool
 ^!2::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826&frn=003171726&distance=Josh --new-window --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826&frn=003171726&distance=Josh --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&sectionId=184116&frn=003171726&distance=Levi --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&sectionId=184116#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
@@ -512,7 +529,7 @@ return
 
 ;2021 Trimester 3 Roll Tool
 ^!3::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3B3B3B3B3B3B3B3B3B3B&sectionId=184119&frn=003171726&foo=3B&distance=Levi --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3B3B3B3B3B3B3B3B3B&sectionId=184119#classtoolsmode --new-MainWindow
@@ -526,19 +543,19 @@ Run chrome.exe https://pschool.psd1.org/teachers/index.html#/classes/assignments
 return
 
 ;a little OneNote page I use to take Roll, CTRL+ALT+R is Zoom Log page, and CTRL+ALT+4 is OneNote page
-^!4::Run chrome.exe http://tiny.cc/rollthisweek --new-window --profile-directory="Default"
+^!4::Run chrome.exe http://tiny.cc/rollthisweek --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!5::Run chrome.exe http://tiny.cc/2021t15th --new-window
 ;^!5::Run chrome.exe http://tiny.cc/2021t25th --new-window
-^!5::Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory="Default"
+^!5::Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!6::Run chrome.exe http://tiny.cc/2021t16th --new-window
 ;^!6::Run chrome.exe http://tiny.cc/2021t26th --new-window
 ;2021 Trimester 3 Roll Tool
 ^!6::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A6A6A6A6A6A6A6A6A&sectionId=184502&frn=003171726&foo=6A&distance=Salvador.Gyovanna.Xavier.Javier.Kylie --new-window --profile-directory="Default"
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A6A6A6A6A6A6A6A6A&sectionId=184502&frn=003171726&foo=6A&distance=Salvador.Gyovanna.Xavier.Javier.Kylie --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6B6B6B6B6B6B6B6B6B6B&sectionId=185821&frn=003171726&foo=6B&distance=Giovanni.Julianna.Carter --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=172112 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionId=173431 --new-MainWindow
@@ -566,22 +583,22 @@ return
 ^!9::Run chrome.exe http://tiny.cc/mrwnanoapps --new-window
 ;return
 
-^!0::Run chrome.exe https://www.certiport.com/portal/SSL/Login.aspx --new-window --profile-directory="Default"
+^!0::Run chrome.exe https://www.certiport.com/portal/SSL/Login.aspx --new-window --profile-directory=%VarProfileDirectory%
 return
 
-^!_::Run chrome.exe https://ust49wa.theexpertta.com/Common/GradeSheetClassAssignments.aspx?m=1&eid=2995 --new-window --profile-directory="Default"
+^!_::Run chrome.exe https://ust49wa.theexpertta.com/Common/GradeSheetClassAssignments.aspx?m=1&eid=2995 --new-window --profile-directory=%VarProfileDirectory%
 return
 
-^!+::Run chrome.exe https://www.positivephysics.org/  --new-window --profile-directory="Default"
+^!+::Run chrome.exe https://www.positivephysics.org/  --new-window --profile-directory=%VarProfileDirectory%
 return
 
-^!<::Run chrome.exe https://tiny.cc --new-window --profile-directory="Default"
+^!<::Run chrome.exe https://tiny.cc --new-window --profile-directory=%VarProfileDirectory%
 return
 
-^!>::Run chrome.exe https://tinycc.com --new-window --profile-directory="Default"
+^!>::Run chrome.exe https://tinycc.com --new-window --profile-directory=%VarProfileDirectory%
 return
 
-^!{::Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Default"
+^!{::Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory=%VarProfileDirectory%
 ;johnweis@live.com is Default Profile
 return
 
@@ -601,36 +618,36 @@ return
 return
 
 ;^!~::Msgbox CTRL+ALT+~ is UNUSED
-^!~::Run chrome.exe https://learnpsd.psd1.org/screening/employee --new-window --profile-directory="Default"
+^!~::Run chrome.exe https://learnpsd.psd1.org/screening/employee --new-window --profile-directory=%VarProfileDirectory%
 return
 
 
 ;2021 T2 1st Period was Waves this is a Channel
-^!F1::Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window --profile-directory="Default"
+^!F1::Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window --profile-directory=%VarProfileDirectory%
 return
 ;2021 T2 2nd Period was PHYS 112 this is a Channel
 ;^!F2::Run chrome.exe https://web.microsoftstream.com/channel/08679eb0-1f93-41c5-86ae-a81fb7cf0879 --new-window
 ;2021 T3 2nd Period was NANO this is a Channel
-^!F2::Run chrome.exe https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e --new-window --profile-directory="Default"
+^!F2::Run chrome.exe https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e --new-window --profile-directory=%VarProfileDirectory%
 return
 ;20201 T2 5th Period was MOS 1 and MOS 2 this is a channel link
-^!F3::Run chrome.exe https://web.microsoftstream.com/channel/683c442e-13be-4066-82cc-4e4661fd9011 --new-window --profile-directory="Default"
+^!F3::Run chrome.exe https://web.microsoftstream.com/channel/683c442e-13be-4066-82cc-4e4661fd9011 --new-window --profile-directory=%VarProfileDirectory%
 return
 ;2021 T2 6th Period was Accelerated Physics this is a Channel
-^!F4::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory="Default"
+^!F4::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;2021 T1 1st Period was Kinematics this was a Group Channel
-^!F5::Run chrome.exe https://web.microsoftstream.com/channel/4cf6dea8-1d63-4784-8025-1e1bf7a3fdad  --new-window --profile-directory="Default"
+^!F5::Run chrome.exe https://web.microsoftstream.com/channel/4cf6dea8-1d63-4784-8025-1e1bf7a3fdad  --new-window --profile-directory=%VarProfileDirectory%
 return
 ;2021 T1 2nd Period was Accelerated Physics (this is a channel)
-^!F6::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory="Default"
+^!F6::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory=%VarProfileDirectory%
 return
 ;2021 T1 5th Period was PHYS 111
-^!F7::Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab  --new-window --profile-directory="Default"
+^!F7::Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab  --new-window --profile-directory=%VarProfileDirectory%
 return
 ;2021 T1 6th Period was Astronomy
-^!F8::Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window --profile-directory="Default"
+^!F8::Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window --profile-directory=%VarProfileDirectory%
 return
 
 
