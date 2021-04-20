@@ -253,8 +253,19 @@ return
 
 ;Open AutoHotkey in VS Code
 ^!h::
+if (A_ComputerName ="DESKTOP-H9GCS6A")
+{
 EnvGet, LocAppDat, LOCALAPPDATA
-Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
+Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
+}
+else if (A_ComputerName = "PHTL323004136B")
+{
+MsgBox, "This computer is down"
+}
+else 
+{
+Msgbox, "I don't know this computer"
+}
 return
 
 ;^!i::Run chrome.exe https://psd1.helloid.com/#/applications --new-window --profile-directory="Default"
@@ -658,7 +669,8 @@ Return
 return
 
 ;ASCII 37
-^!%:: MsgBox CTRL+ALT+PERCENT is UNUSED
+;^!%:: MsgBox CTRL+ALT+PERCENT is UNUSED
+^!%:: Run chrome.exe http://tiny.cc/phsbell --new-window
 return
 
 ;ASCII 38
