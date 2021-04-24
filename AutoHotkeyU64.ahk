@@ -46,6 +46,7 @@ VarProfileDirectory = "Default"
 :*:mtyt::https://www.youtube.com/c/MikeTholfsen/videos
 :*:eayt::https://www.youtube.com/EmergencyAwesome/videos
 :*:myyt::https://www.youtube.com/channel/UCfR4DSbzqIFRleWbhdl7Vyg/videos?view_as=subscriber
+:*:jplyt::https://www.youtube.com/playlist?list=PLTiv_XWHnOZo89xfQyRUub76zNlQTLNrJ
 :*:mpsryt::https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm
 :*:kep3ass::https://screencast-o-matic.com/watch/cYXr3eLw7d
 :*:kep1ass::https://screencast-o-matic.com/watch/cYXrr4LwJo 
@@ -126,6 +127,7 @@ VarProfileDirectory = "Default"
 :*:..paystub::Hi Cathleen (cathleen.oppelt@hca.wa.gov),{Enter}{Enter}Here's my latest paystub.{Enter}{Enter}Thank you!{Enter}{Enter}{Enter}John Weisenfeld for{Enter}HOHID:  200825421WA - JOHANNA WEISENFELD
 :*:..tgcvid::Here's a link to the video from Dr. Shana Kelley / Ted Sargent, University of Toronto.  Lecture XX Video (highlight and put link to MicrosoftStream Video https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e){Enter}Here's a link to the PDF which accompanies this Lecture.  Lecture XX PDF (highlight and then upload document here.){Enter}To get 5 pts credit for this assignment post a reply to this discussion answering the questions below.  Then, for an additional 5 pts, post one reply to the post of one of your classmates.  NOTE:  you won't see their posts until you make your first post.{Enter}1. [Question 1]{Enter}2. [Question 2]
 :*:..tic::Today's assignment is in Canvas.{Enter}{Enter}Please go to https://canvas.instructure.com/courses/2477035 and complete the next module.{Emter}{Enter}NOTE: your grade for this module will go directly into PowerSchool
+:*:..shrug::"¯\_(ツ)_/¯"{U+0124}
 ;LOWER CASE ALPHABET
 
 ;ASCII 39
@@ -204,7 +206,7 @@ F12 = PowerPoint
 )
 MsgBox,
 (
-K = UNUSED
+K = Distance Learners, Parents and Guardians
 W = NotePad
 , = UNUSED
 / = UNUSED
@@ -235,6 +237,12 @@ return
 return
 
 ;Show Your Email Calendar
+;^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory=%VarProfileDirectory% --headless --disable-gpu --screenshot
+;no --new-window
+;^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --profile-directory=%VarProfileDirectory% --headless --disable-gpu --screenshot
+;no --profile-directory
+;^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --headless --disable-gpu --screenshot
+;no disable-gpu
 ^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory=%VarProfileDirectory%
 return
 
@@ -440,7 +448,7 @@ return
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
 
 ;^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory=%VarProfileDirectory%
-^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory=%VarProfileDirectory%
+^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory=%VarProfileDirectory% --window-position=0,0 --window-size=1,1
 return
 
 ^!,::Msgbox CTRL+ALT+, is UNUSED
