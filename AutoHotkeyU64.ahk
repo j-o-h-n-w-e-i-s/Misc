@@ -448,7 +448,7 @@ return
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
 
 ;^!Z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory=%VarProfileDirectory%
-^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory=%VarProfileDirectory% --window-position=0,0 --window-size=1,1
+^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!,::Msgbox CTRL+ALT+, is UNUSED
@@ -457,7 +457,9 @@ return
 ^!/::Msgbox CTRL+ALT+/ is UNUSED
 return
 
-^!;::Msgbox CTRL+ALT+; is UNUSED
+;^!;::Msgbox CTRL+ALT+; is UNUSED
+^!;::
+Run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/phssci/Ef8hb4N85jNNmnYylAEGJ-EB5jqOJr1mYPF4blUputj1zA?e=pLlfb1 --new-window --profile-directory=%VarProfileDirecotry%
 return
 
 ^!"::Msgbox CTRL+ALT+quote is UNUSED
