@@ -128,6 +128,7 @@ VarProfileDirectory = "Default"
 :*:..tgcvid::Here's a link to the video from Dr. Shana Kelley / Ted Sargent, University of Toronto.  Lecture XX Video (highlight and put link to MicrosoftStream Video https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e){Enter}Here's a link to the PDF which accompanies this Lecture.  Lecture XX PDF (highlight and then upload document here.){Enter}To get 5 pts credit for this assignment post a reply to this discussion answering the questions below.  Then, for an additional 5 pts, post one reply to the post of one of your classmates.  NOTE:  you won't see their posts until you make your first post.{Enter}1. [Question 1]{Enter}2. [Question 2]
 :*:..tic::Today's assignment is in Canvas.{Enter}{Enter}Please go to https://canvas.instructure.com/courses/2477035 and complete the next module.{Emter}{Enter}NOTE: your grade for this module will go directly into PowerSchool
 :*:..shrug::"¯\_(ツ)_/¯"{U+0124}
+:*:..eou::--new-window --profile-directory=%VarProfileDirectory%
 ;LOWER CASE ALPHABET
 
 ;ASCII 39
@@ -217,7 +218,7 @@ W = NotePad
 $ = smile.amazon.com
 PERCENT = UNUSED
 & = UNUSED
-^ = UNUSED
+^ = Nearpod Web Site
 * = UNUSED
 ~ = COVID SCREENER
 " = UNUSED
@@ -309,7 +310,8 @@ Run chrome.exe https://www.urldecoder.io/ --guest
 return
 
 ;ASCII 94
-^!^:: MsgBox, CTRL+ALT+^ is UNUSED
+;^!^:: MsgBox, CTRL+ALT+^ is UNUSED
+^!^:: Run chrome.exe https://np1.nearpod.com/reports.php?loadPresentationId=78362411 --new-window --profile-directory=%VarProfileDirectory%
 
 ;ASCII 106
 ^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory=%VarProfileDirectory%
