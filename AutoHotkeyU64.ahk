@@ -487,10 +487,10 @@ if (A_ComputerName = "DESKTOP-H9GCS6A")
     ;Run explorer.exe "C:\GoogleScanned Local"
     ;Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
-Else if (A_ComputerName = "PHTL323004136B")
+Else if (A_ComputerName = "WEISENFELDZ240")
 {
     ;find the profile using chrome://version
-    Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 8"
+    Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
 }
 Else 
 {
