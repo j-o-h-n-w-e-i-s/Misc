@@ -129,6 +129,7 @@ VarProfileDirectory = "Default"
 :*:..tic::Today's assignment is in Canvas.{Enter}{Enter}Please go to https://canvas.instructure.com/courses/2477035 and complete the next module.{Emter}{Enter}NOTE: your grade for this module will go directly into PowerSchool
 :*:..shrug::"¯\_(ツ)_/¯"{U+0124}
 :*:..eou::--new-window --profile-directory=%VarProfileDirectory%
+:*:..sempics::https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjweisenfeld%5Fpsd1%5Forg%2FDocuments%2F2020%2D2021%2FNanotechnology%2FSEM%2DPics
 ;LOWER CASE ALPHABET
 
 ;ASCII 39
