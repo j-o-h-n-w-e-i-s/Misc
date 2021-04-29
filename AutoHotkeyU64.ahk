@@ -347,7 +347,7 @@ return
 ;DO NOT USE CTRL+ALT+N, we need that one for OneNote!
 
 ;Open OneDrive in the browser
-^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx --new-window
+^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2020-2021 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!o::Run chrome.exe  https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window --profile-directory=%VarProfileDirectory%
