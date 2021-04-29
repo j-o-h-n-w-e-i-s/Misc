@@ -136,7 +136,7 @@ VarProfileDirectory = "Default"
 ;ASCII 39
 ^!'::
 Msgbox, %A_ComputerName%
-;Work is PHTL323004136B
+;Work is WEISENFELDZ240
 ;Home is DESKTOP-H9GCS6A
 ;Work Laptop is 
 MsgBox, %A_OSVersion%
@@ -144,7 +144,7 @@ MsgBox, %A_OSVersion%
 ;Home is 10.0.19042
 ;Work Laptop
 MsgBox, %A_ScriptDir%
-;Work is
+;Work is C:\Users\jweisenfeld.WEISENFELDZ240\Documents\GitHub\Misc
 ;Home is C:\Users\John C. Weisenfeld\Documents\GitHub\Misc
 ;Work Laptop is
 MsgBox, 
@@ -286,9 +286,11 @@ if (A_ComputerName ="DESKTOP-H9GCS6A")
 EnvGet, LocAppDat, LOCALAPPDATA
 Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
 }
-else if (A_ComputerName = "PHTL323004136B")
+else if (A_ComputerName = "WEISENFELDZ240")
 {
-MsgBox, "This computer is down"
+;MsgBox, "This computer is down"
+EnvGet, LocAppDat, LOCALAPPDATA
+Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
 }
 else 
 {
