@@ -615,12 +615,38 @@ return
 ^!>::Run chrome.exe https://tinycc.com --new-window --profile-directory=%VarProfileDirectory%
 return
 
-^!{::Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory=%VarProfileDirectory%
+^!{::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory=%VarProfileDirectory%
 ;johnweis@live.com is Default Profile
+}
+Else if (A_ComputerName = "WEISENFELDZ240")
+{
+Run msedge.exe https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM3ZmYAZS04YWZjLWRkADFkLTAwAi0wMAoAEABw0NSrjGipR7g/OA1LmukB --new-window --profile-directory="Profile 1"
+;johnweis@live.com is Default Profile
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
 return
 
-^!}::Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
+^!}::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
 ;john_wfeld@msn.com is Profile 1
+}
+Else if (A_ComputerName = "WEISENFELDZ240")
+{
+Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
+;john_wfeld@msn.com is Profile 1
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
 return
 
 ^![::Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 4"
