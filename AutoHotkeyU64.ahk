@@ -746,7 +746,8 @@ return
 return
 
 ;ASCII 42
-^!*:: MsgBox CTRL+ALT+* is UNUSED
+;^!*:: MsgBox CTRL+ALT+* is UNUSED
+^!*:: Run chrome.exe https://translate.google.com/?sl=fr&tl=en&text=translate.google.com&op=translate --new-window --profile-directory=%VarProfileDirectory% 
 return
 
 ;ASCII 58
