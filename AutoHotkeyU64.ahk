@@ -212,7 +212,8 @@ MsgBox,
 (
 K = Distance Learners, Parents and Guardians
 W = NotePad
-, = UNUSED
+, = Disney+
+. = nimble.com
 / = UNUSED
 ; = Astronomy 2021 T3 COI
 \ = UNUSED
@@ -222,9 +223,9 @@ $ = smile.amazon.com
 PERCENT = UNUSED
 & = UNUSED
 ^ = Nearpod Web Site
-* = UNUSED
+* = Translate French to English
 ~ = COVID SCREENER
-" = UNUSED
+" = Firefox and Flash
 : = ILLEGAL
 left paren = UNUSED
 right paren = UNUSED
@@ -458,7 +459,22 @@ return
 ^!Z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory=%VarProfileDirectory%
 return
 
-^!,::Msgbox CTRL+ALT+, is UNUSED
+;^!,::Msgbox CTRL+ALT+, is UNUSED
+;return
+
+^!,::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-window --profile-directory="Profile 1"
+}
+Else if (A_ComputerName = "WEISENFELDZ240")
+{
+    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-window --profile-directory="Profile 1"
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
 return
 
 ^!/::Msgbox CTRL+ALT+/ is UNUSED
@@ -485,13 +501,14 @@ if (A_ComputerName = "DESKTOP-H9GCS6A")
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
     Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
-    ;Run explorer.exe "C:\GoogleScanned Local"
+    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --profile-directory="Profile 1"
     ;Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
 Else if (A_ComputerName = "WEISENFELDZ240")
 {
     ;find the profile using chrome://version
     Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
+    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --profile-directory="Profile 1"
 }
 Else 
 {
