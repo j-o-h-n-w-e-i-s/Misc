@@ -672,8 +672,21 @@ return
 ;weisenfeldj@cwu.edu is Profile 4 on home computer
 return
 
-^!]::Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 3"
+^!]::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 3"
 ;weisenfeldj@spu.edu is Profile 3 on home computer
+}
+Else if (A_ComputerName = "WEISENFELDZ240")
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
+;weisenfeldj@spu.edu is Profile 4 on work computer
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
 return
 
 ^!\::Msgbox CTRL+ALT+\ is UNUSED
