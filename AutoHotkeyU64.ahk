@@ -482,7 +482,7 @@ return
 
 ;^!;::Msgbox CTRL+ALT+; is UNUSED
 ^!;::
-Run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/phssci/Ef8hb4N85jNNmnYylAEGJ-EB5jqOJr1mYPF4blUputj1zA?e=pLlfb1 --new-window --profile-directory=%VarProfileDirecotry%
+Run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/phssci/Ef8hb4N85jNNmnYylAEGJ-EB5jqOJr1mYPF4blUputj1zA?e=pLlfb1 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!"::Msgbox CTRL+ALT+quote is UNUSED
