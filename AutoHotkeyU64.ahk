@@ -485,7 +485,9 @@ return
 Run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/phssci/Ef8hb4N85jNNmnYylAEGJ-EB5jqOJr1mYPF4blUputj1zA?e=pLlfb1 --new-window --profile-directory=%VarProfileDirecotry%
 return
 
-^!"::Msgbox CTRL+ALT+quote is UNUSED
+;^!"::Msgbox CTRL+ALT+quote is UNUSED
+^!"::
+Run firefox.exe "https://highered.mheducation.com/olcweb/cgi/pluginpop.cgi?it=swf::800::600::/sites/dl/free/0072482621/78778/Kepler_Nav.swf::Keplers Second Law Interactive"
 return
 
 ^!|::Run chrome.exe https://drive.google.com/drive/folders/14Cpds7wKHs7FXZ4TjSyHi2pVXG_uGmdg --new-window --profile-directory=%VarProfileDirectory%
@@ -566,11 +568,11 @@ return
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3B3B3B3B3B3B3B3B3B3B&sectionId=184119&frn=003171726&foo=3B&distance=Levi --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3B3B3B3B3B3B3B3B3B&sectionId=184119#classtoolsmode --new-MainWindow
+;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3B3B3B3B3B3B3B3B3B&sectionId=184119#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/classes/assignments/score_assignment?foo=3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B&sectionId=171729&assignmentId=112757 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/classes/assignments/score_assignment?foo=3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A&sectionId=171728&assignmentId=112757 --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/index.html#/classes/assignments/score_assignment?foo=3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A&sectionId=189326&assignmentId=112757 --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/index.html#/classes/assignments/score_assignment?foo=3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A&sectionId=189328&assignmentId=112757 --new-MainWindow
+;Run chrome.exe https://pschool.psd1.org/teachers/index.html#/classes/assignments/score_assignment?foo=3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A&sectionId=189326&assignmentId=112757 --new-MainWindow
+;Run chrome.exe https://pschool.psd1.org/teachers/index.html#/classes/assignments/score_assignment?foo=3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A&sectionId=189328&assignmentId=112757 --new-MainWindow
 ;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=3A3A3A3A3A3A3A3A3A3A&sectionid=184118&frn=003171728&att_period=3&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6276 --new-MainWindow
 ;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=3B3B3B3B3B3B3B3B3B3B&sectionid=184119&frn=003171729&att_period=3&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6276 --new-MainWindow
 ;Run chrome.exe
