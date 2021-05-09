@@ -4,18 +4,25 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 VarWorkingDir = %A_ScriptDir%
 VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
+VarWorkComputerName := "WEISENFELDZ240"
+VarHomeComputerName := "DESKTOP-H9GCS6A"
 ;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
 ;are you seeing this message?
 ;MsgBox %VarWorkingDir%, %VarComputerName%
 
 ;VarProfileDirectory is the chrome profile directory for the jweisenfeld@psd1.org sign in ...
-if (VarComputerName = "DESKTOP-H9GCS6A")
+if (VarComputerName = VarHomeComputerName)
 {
 VarProfileDirectory = "Default"
 }
+else if (VarComputerName = VarWorkComputerName)
+{
+VarProfileDirectory = "Profile 2"    
+}
 else
 {
-VarProfileDirectory = "Default"    
+MsgBox I don't know this computer using default profile
+VarProfileDirectory = "Default"
 }
 
 
@@ -136,6 +143,9 @@ VarProfileDirectory = "Default"
 
 ;ASCII 39
 ^!'::
+MsgBox, %VarProfileDirectory%
+MsgBox, %VarWorkComputerName%
+MsgBox, %VarHomeComputerName%
 Msgbox, %A_ComputerName%
 ;Work is WEISENFELDZ240
 ;Home is DESKTOP-H9GCS6A
@@ -449,8 +459,9 @@ return
 
 ^!y::
 ;Run C:\Users\jweisenfeld\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe open
-EnvGet, LocAppDat, LOCALAPPDATA
-Run "%LocAppDat%\Screencast-O-Matic\v2\Screencast-O-Matic.exe" open
+;EnvGet, LocAppDat, LOCALAPPDATA
+;Run "%LocAppDat%\Screencast-O-Matic\v2\Screencast-O-Matic.exe" open
+Run C:\Program Files (x86)\Screencast-O-Matic\v2\Screencast-O-Matic.exe
 return
 
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
