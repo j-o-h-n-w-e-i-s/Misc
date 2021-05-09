@@ -224,9 +224,9 @@ K = Distance Learners, Parents and Guardians
 W = NotePad
 , = Disney+
 . = nimble.com
-/ = UNUSED
+/ = ExpressVPN
 ; = Astronomy 2021 T3 COI
-\ = UNUSED
+\ = myApps psd1.helloid.com
 @ = UNUSED
 # = Emergency Sub Plan #SubPlan
 $ = smile.amazon.com
@@ -488,7 +488,8 @@ Msgbox, "I don't know this computer"
 }
 return
 
-^!/::Msgbox CTRL+ALT+/ is UNUSED
+;^!/::Msgbox CTRL+ALT+/ is UNUSED
+^!/::Run "C:\Program Files (x86)\ExpressVPN\expressvpn-ui\ExpressVPN.exe"
 return
 
 ;^!;::Msgbox CTRL+ALT+; is UNUSED
@@ -700,7 +701,8 @@ Msgbox, "I don't know this computer"
 }
 return
 
-^!\::Msgbox CTRL+ALT+\ is UNUSED
+;^!\::Msgbox CTRL+ALT+\ is UNUSED
+^!\:: run chrome.exe https://psd1.helloid.com/app/applications --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!~::Msgbox CTRL+ALT+~ is UNUSED
