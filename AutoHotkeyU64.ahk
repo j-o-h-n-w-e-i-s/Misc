@@ -13,7 +13,7 @@ VarHomeComputerName := "DESKTOP-H9GCS6A"
 ;VarProfileDirectory is the chrome profile directory for the jweisenfeld@psd1.org sign in ...
 if (VarComputerName = VarHomeComputerName)
 {
-VarProfileDirectory = "Default"
+VarProfileDirectory = "Profile 3"
 }
 else if (VarComputerName = VarWorkComputerName)
 {
