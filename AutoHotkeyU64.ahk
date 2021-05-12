@@ -829,6 +829,8 @@ return
 :*:juan912::juan912@students.psd1.org
 :*:pjuan912::er3urf
 :*:andy867::andy867@students.psd1.org
+:*:juan051::juan051@students.psd1.org
+
 :*:pandy867::gtimye
 :*:pandres405::rj655m
 :*:pgiselle700::bziym7
@@ -855,6 +857,7 @@ return
 :*:plogan653::8be5rt
 :*:pleslie448::txnuau
 :*:pdevyn140::9rkrab
+:*:pjuan051::with645
 
 ;20-21 t2 mos-1 and mos-2
 :*:celestine387::celestine387@students.psd1.org
