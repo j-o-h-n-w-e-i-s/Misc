@@ -9,7 +9,7 @@ VarHomeComputerName := "DESKTOP-H9GCS6A"
 ;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
 ;are you seeing this message?
 ;MsgBox %VarWorkingDir%, %VarComputerName%
-;comment 2021-05-12
+;comment 2021-05-12 added to comment
 
 ;VarProfileDirectory is the chrome profile directory for the jweisenfeld@psd1.org sign in ...
 if (VarComputerName = VarHomeComputerName)
