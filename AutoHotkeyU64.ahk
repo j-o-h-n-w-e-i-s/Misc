@@ -410,18 +410,18 @@ return
 
 ;^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
 ^!$::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
     Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 1"
 }
-Else if (A_ComputerName = "PHTL323004136B")
+Else if (A_ComputerName = VarWorkComputerName)
 {
     ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 8" if not then change this
     ;find the profile using chrome://version
-    Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 8"
+    Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 1"
 }
 Else 
 {
