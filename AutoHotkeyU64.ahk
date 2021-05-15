@@ -351,7 +351,7 @@ return
 ;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
 ;^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory=%VarProfileDirectory%
 ^!l::
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory=%PowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=184502#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
@@ -546,7 +546,7 @@ return
 
 ; ASCII 96
 ^!`::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=193528&frn=003181138 --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=193528&frn=003181138 --new-window --profile-directory=%PowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=193528#classtoolsmode --new-MainWindow
 return
 
@@ -558,7 +558,7 @@ return
 ;^!1::Run chrome.exe http://tiny.cc/2021t21st --new-window
 ;2021 Trimester 3 Roll Tool
 ^!1::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window --profile-directory=%PowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1B1B1B1B1B1B1B1B1B1B1B&sectionId=184121&frn=003171730&foo=1B&distance=Josette.Abigail.Mayra --new-MainWindow 
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1B1B1B1B1B1B1B1B1B&sectionId=184121#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1A1A1A1A1A1A1A1A1A&sectionId=184120#classtoolsmode --new-MainWindow
@@ -577,7 +577,7 @@ return
 ;^!2::Run chrome.exe http://tiny.cc/2021t22nd --new-window
 ;2021 Trimester 3 Roll Tool
 ^!2::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826&frn=003171726&distance=Josh --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826&frn=003171726&distance=Josh --new-window --profile-directory=%PowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&sectionId=184116&frn=003171726&distance=Levi --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&sectionId=184116#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
@@ -591,7 +591,7 @@ return
 
 ;2021 Trimester 3 Roll Tool
 ^!3::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window --profile-directory=%PowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3B3B3B3B3B3B3B3B3B3B&sectionId=184119&frn=003171726&foo=3B&distance=Levi --new-MainWindow
 ;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3B3B3B3B3B3B3B3B3B&sectionId=184119#classtoolsmode --new-MainWindow
@@ -617,7 +617,7 @@ return
 ;^!6::Run chrome.exe http://tiny.cc/2021t26th --new-window
 ;2021 Trimester 3 Roll Tool
 ^!6::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A6A6A6A6A6A6A6A6A&sectionId=184502&frn=003171726&foo=6A&distance=Salvador.Gyovanna.Xavier.Javier.Kylie --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A6A6A6A6A6A6A6A6A&sectionId=184502&frn=003171726&foo=6A&distance=Salvador.Gyovanna.Xavier.Javier.Kylie --new-window --profile-directory=%PowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6B6B6B6B6B6B6B6B6B6B&sectionId=185821&frn=003171726&foo=6B&distance=Giovanni.Julianna.Carter --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=172112 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionId=173431 --new-MainWindow
