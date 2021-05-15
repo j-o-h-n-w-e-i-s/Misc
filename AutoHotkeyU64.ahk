@@ -15,15 +15,18 @@ VarHomeComputerName := "DESKTOP-H9GCS6A"
 if (VarComputerName = VarHomeComputerName)
 {
 VarProfileDirectory = "Profile 3"
+PowerSchoolProfile = "Default"
 }
 else if (VarComputerName = VarWorkComputerName)
 {
-VarProfileDirectory = "Profile 2"    
+VarProfileDirectory = "Profile 2"
+PowerSchoolProfile = "Default"    
 }
 else
 {
 MsgBox I don't know this computer using default profile
 VarProfileDirectory = "Default"
+PowerSchoolProfile = "Default"
 }
 
 
@@ -202,6 +205,7 @@ MsgBox,
 4 = 4th Period PowerSchool PowerTeacher
 5 = 5th Period PowerSchool PowerTeacher
 6 = 6th Period PowerSchool PowerTeacher
+7 = eduMedia
 - = OneDrive
 _ = ExpertTA
 + = PositivePhysics
@@ -626,9 +630,10 @@ Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?se
 ;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionid=185821&frn=003173431&att_period=6&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6279 --new-MainWindow
 return
 
-;Some In Person PD thing?
+
 ;^!7::Run chrome.exe https://liveedupsd1.sharepoint.com/:p:/s/PHS/EfknEbDV5TpCvMB_5xX8leEBINMnVmYHZUrwEuKleM7rPg?e=NKQiBc --new-window
-^!7::Msgbox CTRL+ALT+7 is UNUSED
+^!7::
+Run chrome.exe https://www.edumedia-sciences.com/en/search?q=astronomy --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;^!8::Run chrome.exe "https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/Doc.aspx?sourcedoc={112e9d57-2c53-4c9f-a3c0-270b17785df8}&action=edit&wd=target%28Schroedinger%202020.one%7Cdae02f5f-4297-4f1c-8fe3-aa9a04a65ae4%"
