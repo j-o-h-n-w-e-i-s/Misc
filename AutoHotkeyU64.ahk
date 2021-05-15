@@ -665,13 +665,13 @@ return
 ^!{::
 if (A_ComputerName = "DESKTOP-H9GCS6A")
 {
-Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory=%VarProfileDirectory%
+Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Default"
 ;johnweis@live.com is Default Profile
 }
 Else if (A_ComputerName = "WEISENFELDZ240")
 {
 Run msedge.exe https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM3ZmYAZS04YWZjLWRkADFkLTAwAi0wMAoAEABw0NSrjGipR7g/OA1LmukB --new-window --profile-directory="Profile 1"
-;johnweis@live.com is Default Profile
+;johnweis@live.com is Profile 1
 }
 Else 
 {
@@ -696,8 +696,21 @@ Msgbox, "I don't know this computer"
 }
 return
 
-^![::Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 4"
+^![::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
 ;weisenfeldj@cwu.edu is Profile 4 on home computer
+}
+Else if (A_ComputerName = "WEISENFELDZ240")
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
+;weisenfeldj@cwu.edu is Profile 4 on work computer
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
 return
 
 ^!]::
