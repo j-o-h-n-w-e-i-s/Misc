@@ -144,6 +144,7 @@ PowerSchoolProfile = "Default"
 :*:psd1yt::https://www.youtube.com/c/PascoSchools/videos
 :*:meyt::https://www.youtube.com/c/marvel/videos
 :*:..xpressvpn::ETHN6DMM47MCOAX4TX3CC6C
+:*:..htp::How to Pass Mr. Weisenfeld's Microsoft Office Class / Cómo aprobar la clase de Microsoft Office del Sr. Weisenfeld
 ;LOWER CASE ALPHABET
 
 ;ASCII 39
