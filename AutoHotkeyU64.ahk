@@ -144,11 +144,8 @@ PowerSchoolProfile = "Default"
 :*:psd1yt::https://www.youtube.com/c/PascoSchools/videos
 :*:meyt::https://www.youtube.com/c/marvel/videos
 :*:..xpressvpn::ETHN6DMM47MCOAX4TX3CC6C
-<<<<<<< HEAD
 :*:..bday::H A P P Y  B I R T H D A Y {U+0021} {U+0021} {U+0021}
-=======
-:*:..htp::How to Pass Mr. Weisenfeld's Microsoft Office Class / Cómo aprobar la clase de Microsoft Office del Sr. Weisenfeld
->>>>>>> 8e4d0c67b5892e3fdcf377448ace79ee50d62575
+:*:..htp::How to Pass Mr. Weisenfeld's Microsoft Office Class / C{U+00F3}mo aprobar la clase de Microsoft Office del Sr. Weisenfeld
 ;LOWER CASE ALPHABET
 
 ;ASCII 39
