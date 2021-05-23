@@ -144,6 +144,7 @@ PowerSchoolProfile = "Default"
 :*:psd1yt::https://www.youtube.com/c/PascoSchools/videos
 :*:meyt::https://www.youtube.com/c/marvel/videos
 :*:..xpressvpn::ETHN6DMM47MCOAX4TX3CC6C
+:*:..bday::H A P P Y  B I R T H D A Y {U+0021} {U+0021} {U+0021}
 ;LOWER CASE ALPHABET
 
 ;ASCII 39
