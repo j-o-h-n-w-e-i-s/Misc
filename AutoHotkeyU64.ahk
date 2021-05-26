@@ -651,6 +651,8 @@ return
 ^!9::Run chrome.exe http://tiny.cc/mrwnanoapps --new-window
 ;return
 
+
+
 ^!0::Run chrome.exe https://www.certiport.com/portal/SSL/Login.aspx --new-window --profile-directory=%VarProfileDirectory%
 return
 
@@ -816,7 +818,11 @@ return
 return
 
 ;ASCII 40
-^!(:: MsgBox CTRL+ALT+( is UNUSED
+;^!(:: MsgBox CTRL+ALT+( is UNUSED
+^!(:: 
+Run, chrome.exe https://scholar.google.com --new-window --profile-directory=%VarProfileDirectory%
+Run, chrome.exe https://www.mendeley.com/reference-manager/library/all-references/ -new-MainWindow
+Run, chrome.exe https://sci-hub.se/ -new-MainWindow
 return
 
 ;ASCII 41
