@@ -826,7 +826,9 @@ Run, chrome.exe https://sci-hub.se/ -new-MainWindow
 return
 
 ;ASCII 41
-^!):: MsgBox CTRL+ALT+) is UNUSED
+;^!):: MsgBox CTRL+ALT+) is UNUSED
+^!):: 
+Run, chrome.exe https://journals.ashs.org/ --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 42
