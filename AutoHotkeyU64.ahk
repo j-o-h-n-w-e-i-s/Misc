@@ -158,11 +158,13 @@ return
 ^!SPACE:: Msgbox CTRL+ALT+SPACE is unused
 return
 
-^!RSHIFT:: Msgbox CTRL+ALT+RSHIFT is unused
-return
+;Whoops!  Don't intercept LSHIFT or RSHIFT modifiers!!
+;^!RSHIFT:: Msgbox CTRL+ALT+RSHIFT is unused
+;return
 
-^!LSHIFT:: Msgbox CTRL+ALT+LSHIFT is unused
-return
+;Whoops!  Don't intercept LSHIFT or RSHIFT modifiers!!
+;^!LSHIFT:: Msgbox CTRL+ALT+LSHIFT is unused
+;return
 
 ^!CAPSLOCK:: Msgbox CTRL+ALT+CAPSLOCK is unused
 return
