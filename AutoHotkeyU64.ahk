@@ -274,7 +274,7 @@ E = open Outlook Email
 F = open Microsoft Forms
 G = open Chrome Guest window
 H = open AutoHotKeyU64.ahk in Visual Studio Code
-I = open PHS SharePoint
+I = open some nanotech web sites
 J = open Canvas
 K = open Distance Learners Parents and Guardians TXT
 L = T3 Seating Charts Document
@@ -697,7 +697,12 @@ return
 
 ;^!i::Run chrome.exe https://psd1.helloid.com/#/applications --new-window --profile-directory=%VarProfileDirectory%
 ;^!i::MsgBox, 1, "Unused", "This CTRL+ALT+I Shortcut is Unused", 30
-^!i:: Run chrome.exe https://liveedupsd1.sharepoint.com/sites/PHS --new-window --profile-directory=%VarProfileDirectory%
+^!i:: 
+Run, chrome.exe https://sei.nnin.org/ --new-window --profile-directory=%VarProfileDirectory%
+Run, chrome.exe https://www.nnci.net --new-MainWindow
+Run, chrome.exe https://www.nano.gov --new-MainWindow
+Run, chrome.exe https://www.nano4me.org --new-MainWindow
+Run, chrome.exe https://visualping.io --new-MainWindow
 return
 
 ;ASCII 106
@@ -725,6 +730,15 @@ return
 ;Open Chrome to SOM
 ^!m::Run chrome.exe https://screencast-o-matic.com/content/video --new-window --profile-directory=%VarProfileDirectory%
 return
+
+;How would you use these?
+^!<+m::Msgbox CTRL+ALT+LSHIFT+m
+return
+
+;How would you use these?
+^!>+m::Msgbox CTRL+ALT+RSHIFT+m
+return
+
 
 ;DO NOT USE CTRL+ALT+N, we need that one for OneNote!
 
