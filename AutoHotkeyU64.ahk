@@ -29,7 +29,6 @@ VarProfileDirectory = "Default"
 PowerSchoolProfile = "Default"
 }
 
-
 :*:..rcnm::Run chrome.exe  --new-MainWindow
 :*:hpu::http://psd1.us/
 :*:tcc::http://tiny.cc/  
@@ -640,25 +639,6 @@ Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionI
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=193528#classtoolsmode --new-MainWindow
 return
 
-
-;ASCII 114 r
-;ASCII 115 s
-;ASCII 116 t
-;ASCII 117 u
-;ASCII 118 v
-;ASCII 119 w
-;ASCII 120 x
-;ASCII 121 y
-;ASCII 122 z
-
-;ASCII 123 {
-
-;ASCII 124 |
-
-;ASCII 125 }
-
-;ASCII 126 ~
-
 ;ASCII 97 a
 ;Run AutoHotkey
 ;^!a::Run "C:\Users\jweisenfeld\OneDrive - Pasco School District #1\Documents\AutoHotkey\AutoHotkeyU64.exe"
@@ -860,6 +840,7 @@ EnvGet, UsePro, USERPROFILE
 Run explorer.exe "%UsePro%\Videos"
 return
 
+;ASCII 119 w
 ;^!w::MsgBox, 1, "Unused", "This CTRL+ALT+w Shortcut is Unused", 30
 ;^!w::Run chrome.exe http://somup.com/crnXceD6Rg --new-Window --profile-directory=%VarProfileDirectory%
 ;^!w::Run chrome.exe https://www.youtube.com/c/MikeTholfsen/videos --new-window
@@ -867,10 +848,12 @@ return
 ^!w::Run notepad.exe
 return
 
+;ASCII 120 x
 ;^!x::Run chrome.exe https://login.theexpertta.com/Login.aspx --new-window
 ^!x::Run chrome.exe https://www.gmetrix.net/manage/Admin/Default.aspx --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 121 y
 ^!y::
 if (A_ComputerName = VarHomeComputerName)
 {
@@ -886,10 +869,12 @@ Msgbox, "I don't know this computer"
 }
 return
 
+;ASCII 122 z
 ;^!z::Run chrome.exe http://tiny.cc/mrwzoom --new-window --profile-directory=%VarProfileDirectory%
 ^!z::Run chrome.exe https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09 --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 123 {
 ^!{::
 if (A_ComputerName = "DESKTOP-H9GCS6A")
 {
@@ -907,9 +892,11 @@ Msgbox, "I don't know this computer"
 }
 return
 
+;ASCII 124 |
 ^!|::Run chrome.exe https://drive.google.com/drive/folders/14Cpds7wKHs7FXZ4TjSyHi2pVXG_uGmdg --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 125 }
 ^!}::
 if (A_ComputerName = "DESKTOP-H9GCS6A")
 {
@@ -927,8 +914,7 @@ Msgbox, "I don't know this computer"
 }
 return
 
-
-
+;ASCII 126 ~
 ;^!~::Msgbox CTRL+ALT+~ is UNUSED
 ^!~::Run chrome.exe https://learnpsd.psd1.org/screening/employee --new-window --profile-directory=%VarProfileDirectory%
 return
