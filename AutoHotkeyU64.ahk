@@ -147,6 +147,11 @@ PowerSchoolProfile = "Default"
 :*:..bday::H A P P Y  B I R T H D A Y {U+0021} {U+0021} {U+0021}
 ;:*:..htp::How to Pass Mr. Weisenfeld's Microsoft Office Class / C{U+00F3}mo aprobar la clase de Microsoft Office del Sr. Weisenfeld
 :*:..htp::How to Pass Mr. Weisenfeld's Class / C{U+00F3}mo aprobar la clase del Sr. Weisenfeld
+:*:f2a::foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&
+:*:f2b::foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&
+:*:f3a::foo=3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A&
+:*:f3b::foo=3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B&
+
 ;LOWER CASE ALPHABET
 
 ^!TAB:: Msgbox CTRL+ALT+TAB is unused
@@ -240,6 +245,15 @@ return
 ;^!%:: MsgBox CTRL+ALT+PERCENT is UNUSED
 ^!%:: 
 Run, chrome.exe http://tiny.cc/phsbell --new-window --profile-directory=%VarProfileDirectory%
+Run, chrome.exe http://www.linkedin.com/in/weisenfeldj --new-MainWindow
+Run, chrome.exe http://tiny.cc/phscounselors --new-MainWindow
+Run, chrome.exe http://psd1.us/calendar --new-MainWindow
+Run, chrome.exe https://calendly.com/jweisenfeld/ofchrs --new-MainWindow
+Run, chrome.exe http://tiny.cc/phsfloorplan --new-MainWindow
+Run, chrome.exe http://tiny.cc/phsscience --new-MainWindow
+Run, chrome.exe http://tiny.cc/phscte --new-MainWindow
+Run, chrome.exe https://www.psd1.org/pascohighschool --new-MainWindow
+Run, chrome.exe https://www.psd1.org/ --new-MainWindow
 return
 
 ;ASCII 38 &
@@ -567,14 +581,48 @@ Run chrome.exe https://www.howtogeek.com/409581/how-to-write-an-autohotkey-scrip
 return
 
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
-;ASCII 65 A ;ASCII 90 Z
-;SEE 97-122
+;ASCII 65 A ;ASCII 90 Z ;SEE 97-122
 
 ;ASCII 91 [
+^![::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
+;weisenfeldj@cwu.edu is Profile 4 on home computer
+}
+Else if (A_ComputerName = "WEISENFELDZ240")
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
+;weisenfeldj@cwu.edu is Profile 4 on work computer
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
+return
 
 ;ASCII 92 \
+;^!\::Msgbox CTRL+ALT+\ is UNUSED
+^!\:: run chrome.exe https://psd1.helloid.com/app/applications --new-window --profile-directory=%VarProfileDirectory%
+return
 
 ;ASCII 93 ]
+^!]::
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 3"
+;weisenfeldj@spu.edu is Profile 3 on home computer
+}
+Else if (A_ComputerName = "WEISENFELDZ240")
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
+;weisenfeldj@spu.edu is Profile 4 on work computer
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
+return
 
 ;ASCII 94 ^
 ;^!^:: MsgBox, CTRL+ALT+^ is UNUSED
@@ -592,23 +640,7 @@ Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionI
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=193528#classtoolsmode --new-MainWindow
 return
 
-;ASCII 97 a
-;ASCII 98 b
-;ASCII 99 c
-;ASCII 100 d
-;ASCII 101 e
-;ASCII 102 f
-;ASCII 103 g
-;ASCII 104 h
-;ASCII 105 i
-;ASCII 106 j
-;ASCII 107 k
-;ASCII 108 l
-;ASCII 109 m
-;ASCII 110 n
-;ASCII 111 o
-;ASCII 112 p
-;ASCII 113 q
+
 ;ASCII 114 r
 ;ASCII 115 s
 ;ASCII 116 t
@@ -627,15 +659,18 @@ return
 
 ;ASCII 126 ~
 
+;ASCII 97 a
 ;Run AutoHotkey
 ;^!a::Run "C:\Users\jweisenfeld\OneDrive - Pasco School District #1\Documents\AutoHotkey\AutoHotkeyU64.exe"
 ^!a::Run "AutoHotkeyU64.ahk"
 return
 
+;ASCII 98 b
 ;Fix Email Signature
 ^!b::Run chrome.exe https://outlook.office.com/mail/options/mail/messageContent/signature --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 99 c
 ;Show Your Email Calendar
 ;^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory=%VarProfileDirectory% --headless --disable-gpu --screenshot
 ;no --new-window
@@ -646,6 +681,7 @@ return
 ^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 100 d
 ;^!d::MsgBox, 1, "Unused", "This CTRL+ALT+D Shortcut is Unused", 30
 ;^!d::Run java -jar c:\users\jweisenfeld\downloads\selenese-runner.jar --config c:\users\jweisenfeld\downloads\selenese.config --no-exit c:\users\jweisenfeld\downloads\AHKConnect.side
 ;^!d::Run explorer.exe "C:\Users\JWeisenfeld\Downloads"
@@ -655,15 +691,18 @@ EnvGet, UserProf, USERPROFILE
 Run explorer.exe "%UserProf%\Downloads"
 return
 
+;ASCII 101 e
 ;Open Your Email
 ^!e::Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 102 f
 ;Open Forms
 ;^!f::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window
 ^!f::Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx?origin=shell --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 103 g
 ;Open Guest Window
 ;^!g::Run chrome.exe http://psd1.helloid.com --guest
 ;^!g::Run chrome.exe http://www.gmetrix.net --guest
@@ -676,25 +715,27 @@ Run, chrome.exe http://tiny.cc/phsps --guest
 Run, chrome.exe http://tiny.cc/mrwnano --guest
 return
 
+;ASCII 104 h
 ;Open AutoHotkey in VS Code
 ^!h::
+EnvGet, LocAppDat, LOCALAPPDATA    
 if (A_ComputerName ="DESKTOP-H9GCS6A")
-{
-EnvGet, LocAppDat, LOCALAPPDATA
-Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
-}
+    {
+        Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
+    }
 else if (A_ComputerName = "WEISENFELDZ240")
-{
-;MsgBox, "This computer is down"
-EnvGet, LocAppDat, LOCALAPPDATA
-Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
-}
+    {
+        Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
+    }
 else 
-{
-Msgbox, "I don't know this computer"
-}
+    {
+        Msgbox, "I don't know this computer"
+    }
+Run "%LocAppDat%\GitHubDesktop\GitHubDesktop.exe"
+;C:\Users\jweisenfeld.WEISENFELDZ240\AppData\Local\GitHubDesktop\GitHubDesktop.exe
 return
 
+;ASCII 105 I
 ;^!i::Run chrome.exe https://psd1.helloid.com/#/applications --new-window --profile-directory=%VarProfileDirectory%
 ;^!i::MsgBox, 1, "Unused", "This CTRL+ALT+I Shortcut is Unused", 30
 ^!i:: 
@@ -705,10 +746,11 @@ Run, chrome.exe https://www.nano4me.org --new-MainWindow
 Run, chrome.exe https://visualping.io --new-MainWindow
 return
 
-;ASCII 106
+;ASCII 106 J
 ^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 107 k
 ;^!k::FormatTime, TimeString, 
 ;MsgBox, The current time and date (time first) is %TimeString%
 ;^!k::MsgBox, 1, "Unused", "This CTRL+ALT+K Shortcut is Unused", 30
@@ -717,6 +759,7 @@ return
 ^!k::Run chrome.exe "https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2020-2021/T3 Distance Learners Parents and Guardians.txt&parent=/personal/jweisenfeld_psd1_org/Documents/2020-2021" --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 108 L
 ;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
 ;^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory=%VarProfileDirectory%
 ^!l::
@@ -727,6 +770,7 @@ Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?fo
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120#classtoolsmode --new-MainWindow
 return
 
+;ASCII 109 M
 ;Open Chrome to SOM
 ^!m::Run chrome.exe https://screencast-o-matic.com/content/video --new-window --profile-directory=%VarProfileDirectory%
 return
@@ -739,29 +783,37 @@ return
 ^!>+m::Msgbox CTRL+ALT+RSHIFT+m
 return
 
-
+;ASCII 110 n
 ;DO NOT USE CTRL+ALT+N, we need that one for OneNote!
 
+;ASCII 111 o
 ^!o::Run chrome.exe  https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window --profile-directory=%VarProfileDirectory%
 ;^!o::MsgBox, 1, "Unused", "This CTRL+ALT+O Shortcut is Unused", 30
 return
 
+;ASCII 112 p
 ;Open MSPaint
 ;^!p::Run, mspaint.exe, $Max
 ^!p::Run, mspaint.exe
 return
 
+;ASCII 113 q
 ;^!q::Run chrome.exe https://tiny.cc/phsscreen --new-window
 ;^!q::Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx?origin=shell --new-window
 ;^!q::MsgBox, 1, "Unused", "This CTRL+ALT+q Shortcut is Unused", 30
 ^!q::Run chrome.exe https://www.desmos.com/scientific --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 114 r
 ;Go to Zoom Report Page for Today
 ;^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report --new-window
-^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report?from=%A_MM%/%A_DD%/2021&to=%A_MM%/%A_DD%/2021 --new-window --profile-directory=%VarProfileDirectory%
+^!r::
+Run chrome.exe https://psd1-org.zoom.us/account/my/report?from=%A_MM%/%A_DD%/2021&to=%A_MM%/%A_DD%/2021 --new-window --profile-directory=%VarProfileDirectory%
+EnvGet, UsePro, USERPROFILE
+Run explorer.exe "%UsePro%\Documents\Zoom"
 return
 
+;ASCII 115 s
 ;^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
 ^!s::
 if (A_ComputerName = "DESKTOP-H9GCS6A")
@@ -787,16 +839,19 @@ Msgbox, "I don't know this computer"
 }
 return
 
+;ASCII 116 t
 ^!t::
 EnvGet, LocAppDat, LOCALAPPDATA
 Run "%LocAppDat%\Microsoft\Teams\Update.exe" --processStart "Teams.exe"
 return
 
+;ASCII 117 u
 ;^!u::MsgBox, 1, "Unused", "This CTRL+ALT+u Shortcut is Unused", 30
 ;^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=hello&op=translate --new-window
 ^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=translate.google.com&op=translate --new-window --profile-directory=%VarProfileDirectory%
 return
 
+;ASCII 118 v
 ;^!v::MsgBox, 1, "Unused", "This CTRL+ALT+v Shortcut is Unused", 30
 ;^!v::MsgBox, "Woo"
 ; Open Videos Folder in Windows Explorer
@@ -873,57 +928,6 @@ Msgbox, "I don't know this computer"
 return
 
 
-
-
-
-
-:*:f2a::foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&
-:*:f2b::foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&
-:*:f3a::foo=3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A&
-:*:f3b::foo=3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B&
-
-
-
-
-
-
-^![::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
-{
-    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
-;weisenfeldj@cwu.edu is Profile 4 on home computer
-}
-Else if (A_ComputerName = "WEISENFELDZ240")
-{
-    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
-;weisenfeldj@cwu.edu is Profile 4 on work computer
-}
-Else 
-{
-Msgbox, "I don't know this computer"
-}
-return
-
-^!]::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
-{
-    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 3"
-;weisenfeldj@spu.edu is Profile 3 on home computer
-}
-Else if (A_ComputerName = "WEISENFELDZ240")
-{
-    Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
-;weisenfeldj@spu.edu is Profile 4 on work computer
-}
-Else 
-{
-Msgbox, "I don't know this computer"
-}
-return
-
-;^!\::Msgbox CTRL+ALT+\ is UNUSED
-^!\:: run chrome.exe https://psd1.helloid.com/app/applications --new-window --profile-directory=%VarProfileDirectory%
-return
 
 ;^!~::Msgbox CTRL+ALT+~ is UNUSED
 ^!~::Run chrome.exe https://learnpsd.psd1.org/screening/employee --new-window --profile-directory=%VarProfileDirectory%
