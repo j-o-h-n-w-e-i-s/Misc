@@ -868,7 +868,19 @@ return
 
 ;ASCII 121 y
 ^!y::
-Run, "C:\Program Files (x86)\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+if (A_ComputerName = VarHomeComputerName)
+    {
+        Run "C:\Users\John C. Weisenfeld\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+    }
+Else if (A_ComputerName = VarWorkComputerName)
+    {
+        Run "C:\Program Files (x86)\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+    }
+Else 
+    {
+        Msgbox, "I don't know this computer"
+        Run, "C:\Program Files (x86)\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+    }
 return
 
 ;ASCII 122 z
