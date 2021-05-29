@@ -6,6 +6,7 @@ VarWorkingDir = %A_ScriptDir%
 VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
 VarWorkComputerName := "WEISENFELDZ240"
 VarHomeComputerName := "DESKTOP-H9GCS6A"
+EnvGet, UserProf, USERPROFILE
 ;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
 ;are you seeing this message?
 ;MsgBox %VarWorkingDir%, %VarComputerName%
@@ -574,7 +575,9 @@ return
 return
 
 ;ASCII 61 =
-^!=:: Run chrome.exe https://www.youtube.com/watch?v=RqzGzwTY-6w --guest
+^!=:: 
+;Run chrome.exe https://www.youtube.com/watch?v=RqzGzwTY-6w --guest
+Run "%UserProf%\Documents\Smoothed Brown Noise 8-Hours.mp3"
 return
 
 ;ASCII 62 >
@@ -679,7 +682,7 @@ return
 ;^!d::Run java -jar c:\users\jweisenfeld\downloads\selenese-runner.jar --config c:\users\jweisenfeld\downloads\selenese.config --no-exit c:\users\jweisenfeld\downloads\AHKConnect.side
 ;^!d::Run explorer.exe "C:\Users\JWeisenfeld\Downloads"
 ^!d::
-EnvGet, UserProf, USERPROFILE
+
 ;MsgBox, User Profile Environmetn Variable is:  %UserProf%
 Run explorer.exe "%UserProf%\Downloads"
 return
@@ -718,7 +721,8 @@ if (A_ComputerName ="DESKTOP-H9GCS6A")
     }
 else if (A_ComputerName = "WEISENFELDZ240")
     {
-        Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
+        Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
+        Run explorer.exe "C:\Users\jweisenfeld.WEISENFELDZ240\Documents\GitHub\Misc"  
     }
 else 
     {
@@ -802,8 +806,7 @@ return
 ;^!r::Run chrome.exe https://psd1-org.zoom.us/account/my/report --new-window
 ^!r::
 Run chrome.exe https://psd1-org.zoom.us/account/my/report?from=%A_MM%/%A_DD%/2021&to=%A_MM%/%A_DD%/2021 --new-window --profile-directory=%VarProfileDirectory%
-EnvGet, UsePro, USERPROFILE
-Run explorer.exe "%UsePro%\Documents\Zoom"
+Run explorer.exe "%UseProf%\Documents\Zoom"
 return
 
 ;ASCII 115 s
@@ -849,8 +852,7 @@ return
 ;^!v::MsgBox, "Woo"
 ; Open Videos Folder in Windows Explorer
 ^!v::
-EnvGet, UsePro, USERPROFILE
-Run explorer.exe "%UsePro%\Videos"
+Run explorer.exe "%UserProf%\Videos"
 return
 
 ;ASCII 119 w
@@ -961,8 +963,16 @@ return
 ;"C:\Program Files\Microsoft Office\root\Office16\onenotem.exe"
 return
 
+^!+F9::Msgbox, CTRL+ALT+SHIFT+F9 is not defined
+return
+
 ^!F10::Run winword.exe
 return
+
+^!+F10::
+;open word online in the current browser
+Run chrome.exe https://www.office.com/launch/word?auth=2 --new-window --profile-directory=%VarProfileDirectory%
+return 
 
 ^!F11::Run excel.exe
 return
