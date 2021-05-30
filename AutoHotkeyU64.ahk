@@ -745,6 +745,8 @@ Run, chrome.exe https://sei.nnin.org/ --new-window --profile-directory=%VarProfi
 Run, chrome.exe https://www.nnci.net --new-MainWindow
 Run, chrome.exe https://www.nano.gov --new-MainWindow
 Run, chrome.exe https://www.nano4me.org --new-MainWindow
+Run, chrome.exe https://micronanoeducation.org/ --new-MainWindow
+Run, chrome.exe https://ate.is/MNT-EC --new-MainWindow
 Run, chrome.exe https://visualping.io --new-MainWindow
 return
 
