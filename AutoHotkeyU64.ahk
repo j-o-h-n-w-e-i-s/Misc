@@ -155,7 +155,7 @@ PowerSchoolProfile = "Default"
 :*:..eou::--new-window --profile-directory=%VarProfileDirectory%
 :*:..sempics::https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjweisenfeld%5Fpsd1%5Forg%2FDocuments%2F2020%2D2021%2FNanotechnology%2FSEM%2DPics
 ;YouTube Channels
-:*:nniyt::https://www.youtube.com/channel/UCwO7o2ZT-ATkbl0KrJXXhdA
+:*:nniyt::https://www.youtube.com/c/NanoTubeTheNationalNanotechnologyInitiative/videos
 :*:psd1yt::https://www.youtube.com/c/PascoSchools/videos
 :*:meyt::https://www.youtube.com/c/marvel/videos
 :*:..xpressvpn::ETHN6DMM47MCOAX4TX3CC6C
