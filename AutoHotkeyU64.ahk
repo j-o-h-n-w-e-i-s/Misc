@@ -844,6 +844,31 @@ EnvGet, LocAppDat, LOCALAPPDATA
 Run "%LocAppDat%\Microsoft\Teams\Update.exe" --processStart "Teams.exe"
 return
 
+^!+t::Msgbox CTRL+ALT+SHIFT+T is unused
+return
+
+#!t::Msgbox WIN+ALT+T is unused
+return
+
+#!^t::Msgbox WIN+ALT+SHIFT+T is unused
+return
+
+#^t::Msgbox WIN+CTRL+T is unused
+return
+
+#^+t::Msgbox WIN+CTRL+SHIFT+T is unused
+return
+
+#^!+t::Msgbox WIN+CTRL+ALT+SHIFT+T is unused
+return
+
+<#>^<!>+t::Msgbox LWIN+RCTRL+LALT+RSHIFT+T is unused
+return
+
+>#<^>!<+t::Msgbox RWIN+LCTRL+RALT+LSHIFT+T is unused
+return
+
+
 ;ASCII 117 u
 ;^!u::MsgBox, 1, "Unused", "This CTRL+ALT+u Shortcut is Unused", 30
 ;^!u::Run chrome.exe https://translate.google.com/?sl=auto&tl=es&text=hello&op=translate --new-window
@@ -978,7 +1003,9 @@ return
 ;"C:\Program Files\Microsoft Office\root\Office16\onenotem.exe"
 return
 
-^!+F9::Msgbox, CTRL+ALT+SHIFT+F9 is not defined
+^!+F9::
+;Msgbox, CTRL+ALT+SHIFT+F9 is not defined
+Run, chrome.exe https://www.office.com/launch/onenote?auth=2 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!F10::Run winword.exe
@@ -992,8 +1019,19 @@ return
 ^!F11::Run excel.exe
 return
 
+^!+F11::
+;Msgbox, CTRL+ALT+SHIFT+F11 is not defined
+Run, chrome.exe https://www.office.com/launch/excel?auth=2 --new-window --profile-directory=%VarProfileDirectory%
+return
+
 ^!F12::Run powerpnt.exe
 return
+
+^!+F12::
+;Msgbox, CTRL+ALT+SHIFT+F12 is not defined
+Run, chrome.exe https://www.office.com/launch/powerpoint?auth=2 --new-window --profile-directory=%VarProfileDirectory%
+return
+
 
 ; Parameter #1: Pass 1 instead of 0 to hibernate rather than suspend.
 ; Parameter #2: Pass 1 instead of 0 to suspend immediately rather than asking each application for permission.
