@@ -742,6 +742,9 @@ return
 ;^!i::MsgBox, 1, "Unused", "This CTRL+ALT+I Shortcut is Unused", 30
 ^!i:: 
 Run, chrome.exe https://sei.nnin.org/ --new-window --profile-directory=%VarProfileDirectory%
+Run, chrome.exe https://www.youtube.com/playlist?list=PLy4wjGabGUTbzen-YVrWrDVWJvXAvtlda --new-MainWindow
+Run, chrome.exe https://www.youtube.com/playlist?list=PLy4wjGabGUTZsoVAFSJpGkV-4J_y3AzXB --new-MainWindow
+Run, chrome.exe https://visualping.io --new-MainWindow
 Run, chrome.exe https://www.nnci.net --new-MainWindow
 Run, chrome.exe https://www.nano.gov --new-MainWindow
 Run, chrome.exe https://www.nano4me.org --new-MainWindow
