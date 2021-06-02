@@ -722,7 +722,8 @@ return
 EnvGet, LocAppDat, LOCALAPPDATA    
 if (A_ComputerName ="DESKTOP-H9GCS6A")
     {
-        Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"  
+        Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
+        Run explorer.exe "C:\Users\John C. Weisenfeld\Documents\GitHub\Misc"  
     }
 else if (A_ComputerName = "WEISENFELDZ240")
     {
