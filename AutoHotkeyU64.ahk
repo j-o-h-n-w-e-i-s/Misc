@@ -752,6 +752,7 @@ Run, chrome.exe https://www.nano.gov --new-MainWindow
 Run, chrome.exe https://www.nano4me.org --new-MainWindow
 Run, chrome.exe https://micronanoeducation.org/ --new-MainWindow
 Run, chrome.exe https://ate.is/MNT-EC --new-MainWindow
+Run, chrome.exe https://www.mntesig.net --new-MainWindow 
 Run, chrome.exe https://visualping.io --new-MainWindow
 return
 
