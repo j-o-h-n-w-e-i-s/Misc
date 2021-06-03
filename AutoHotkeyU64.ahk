@@ -172,8 +172,8 @@ PowerSchoolProfile = "Default"
 
 ;LOWER CASE ALPHABET
 
-^!TAB:: Msgbox CTRL+ALT+TAB is unused
-return
+;^!TAB:: Msgbox CTRL+ALT+TAB is unused
+;return
 
 ^!ESC:: Msgbox CTRL+ALT+ESC is unused
 return
