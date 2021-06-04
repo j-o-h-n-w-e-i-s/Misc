@@ -7,9 +7,11 @@ Connect-MsolService -Credential $UserCredential
 Write-Host "Running get_all_groups"
 $Today = Get-Date -Format "yyyy-MM-dd-'H'HH-'M'mm"
 Write-Host $Today   
-Get-MsolGroup -All | Export-Csv .\all-groups-$Today.csv
+#Get-MsolGroup -All | Export-Csv .\all-groups-$Today.csv
+Get-MsolGroup -All | Export-Csv .\all-groups.csv
 #  Get all psd1.org users
 Write-Host "Running get_all_users"
 $Today = Get-Date -Format "yyyy-MM-dd-'H'HH-'M'mm"
 Write-Host $Today
-Get-MsolUser -All | Export-Csv .\all-users-$Today.csvY
+# Get-MsolUser -All | Export-Csv .\all-users-$Today.csvY
+Get-MsolUser -All | Export-Csv .\all-users.csvY
