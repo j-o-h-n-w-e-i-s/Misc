@@ -13,5 +13,5 @@ Get-MsolGroup -All | Export-Csv .\all-groups.csv
 Write-Host "Running get_all_users"
 $Today = Get-Date -Format "yyyy-MM-dd-'H'HH-'M'mm"
 Write-Host $Today
-# Get-MsolUser -All | Export-Csv .\all-users-$Today.csvY
-Get-MsolUser -All | Export-Csv .\all-users.csvY
+# Get-MsolUser -All | Export-Csv .\all-users-$Today.csv
+Get-MsolUser -All | Export-Csv .\all-users.csv
