@@ -602,6 +602,7 @@ return
 Run chrome.exe http://www.asciitable.com/ --guest
 Run chrome.exe https://www.urldecoder.io/ --guest
 Run chrome.exe https://www.howtogeek.com/409581/how-to-write-an-autohotkey-script/ --guest
+Run chrome.exe https://defkey.com/ --guest
 return
 
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
