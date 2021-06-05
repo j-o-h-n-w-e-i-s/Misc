@@ -79,8 +79,9 @@ PowerSchoolProfile = "Default"
 :*:..2day::FormatTime(A_Now, YYYYMMDDHH24MISS, Format)
 :*:..cal::https://drive.google.com/file/d/1LzpVkKvGK7OKHWJ0dzDm4ZH0AdaWAZi2/view?usp=sharing
 :*:..sched::http://psd1.us/ahl2
-;:*:..lkey::LKEY-97689-51061-T1MRWNPA
-:*:..lkey::LKEY-91848-14860-T3MRWNPA
+;:*:..lkey::LKEY-97689-51061-T1MRWNPA;All Used Up
+;:*:..lkey::LKEY-91848-14860-T3MRWNPA;All Used Up
+:*:..lkey::LKEY-48330-89944-8TH2021
 :*:..wenlkey::LKEY-91657-33795-CACWEN
 :*:..2lkey::LKEY-51768-06216-ks2021
 :*:..3lkey::LKEY-69204-36115-ks2021
