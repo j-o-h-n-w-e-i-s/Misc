@@ -167,8 +167,8 @@ PowerSchoolProfile = "Default"
 :*:f3a::foo=3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A&
 :*:f3b::foo=3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B&
 :*:..freemake::DA5E5AC4550B6F7130652BCC80E7C15F
-:*:..ntrprz::enterprise@psd1.org
-:*:..pntrprz::enterprisepsd1
+:*:ntrprz::enterprise@psd1.org
+:*:pntrprz::enterprisepsd1
 :*:..linkcrew::I just nominated you for Link Crew!  Below are a little specifics.  Please email tfurth@psd1.org if you have further questions.
 
 ;LOWER CASE ALPHABET
