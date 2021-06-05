@@ -191,7 +191,8 @@ return
 ;^!LSHIFT:: Msgbox CTRL+ALT+LSHIFT is unused
 ;return
 
-^!CAPSLOCK:: Msgbox CTRL+ALT+CAPSLOCK is unused
+;^!CAPSLOCK:: Msgbox CTRL+ALT+CAPSLOCK is unused
+^!CAPSLOCK::Run "AutoHotkeyU64.ahk"
 return
 
 ^!LWIN:: Msgbox CTRL+ALT+LWIN is unused
@@ -665,7 +666,8 @@ return
 ;ASCII 97 a
 ;Run AutoHotkey
 ;^!a::Run "C:\Users\jweisenfeld\OneDrive - Pasco School District #1\Documents\AutoHotkey\AutoHotkeyU64.exe"
-^!a::Run "AutoHotkeyU64.ahk"
+;^!a::Run "AutoHotkeyU64.ahk"
+^!a::Msgbox CTRL+ALT+A is unused.
 return
 
 ;ASCII 98 b
