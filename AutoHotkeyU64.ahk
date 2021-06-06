@@ -228,14 +228,28 @@ return
 return
 
 ;ASCII 33 !
-^!!:: MsgBox CTRL+ALT+! is UNUSED
+^!!::
+if (A_ComputerName = VarHomeComputerName)
+{
+    ;Msgbox, %A_ComputerName%
+    ;Work is PHTL323004136B
+    ;Home is DESKTOP-H9GCS6A
+    Run chrome.exe https://www.gmetrix.net --new-window --profile-directory="Profile 3"
+}
+Else if (A_ComputerName = VarWorkComputerName)
+{
+    ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 8" if not then change this
+    ;find the profile using chrome://version
+    Run chrome.exe https://www.gmetrix.net --new-window --profile-directory="Profile 3"
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
 return
 
 ;ASCII 34 "
-;^!"::Msgbox CTRL+ALT+quote is UNUSED
-^!"::
-Run firefox.exe "https://highered.mheducation.com/olcweb/cgi/pluginpop.cgi?it=swf::800::600::/sites/dl/free/0072482621/78778/Kepler_Nav.swf::Keplers Second Law Interactive"
-return
+^!"::Msgbox CTRL+ALT+quote is UNUSED
 
 ;ASCII 35 #
 ;Emergency Sub Plan Document
@@ -693,7 +707,6 @@ return
 ;^!d::Run java -jar c:\users\jweisenfeld\downloads\selenese-runner.jar --config c:\users\jweisenfeld\downloads\selenese.config --no-exit c:\users\jweisenfeld\downloads\AHKConnect.side
 ;^!d::Run explorer.exe "C:\Users\JWeisenfeld\Downloads"
 ^!d::
-
 ;MsgBox, User Profile Environmetn Variable is:  %UserProf%
 Run explorer.exe "%UserProf%\Downloads"
 return
@@ -973,6 +986,24 @@ Else
 Msgbox, "I don't know this computer"
 }
 return
+
+#^!}:: ;WIN+CTRL+ALT+}
+if (A_ComputerName = "DESKTOP-H9GCS6A")
+{
+Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
+;john_wfeld@msn.com is Profile 1
+}
+Else if (A_ComputerName = "WEISENFELDZ240")
+{
+Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
+;john_wfeld@msn.com is Profile 1
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
+return
+
 
 ;ASCII 126 ~
 ;^!~::Msgbox CTRL+ALT+~ is UNUSED
