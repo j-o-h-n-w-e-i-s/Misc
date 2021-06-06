@@ -171,6 +171,7 @@ PowerSchoolProfile = "Default"
 :*:ntrprz::enterprise@psd1.org
 :*:pntrprz::enterprisepsd1
 :*:..linkcrew::I just nominated you for Link Crew!  Below are a little specifics.  Please email tfurth@psd1.org if you have further questions.
+:*:..perusall::WEISENFELD-BNU7Y
 
 ;LOWER CASE ALPHABET
 
@@ -405,6 +406,7 @@ return
 Run, chrome.exe https://scholar.google.com --new-window --profile-directory=%VarProfileDirectory%
 Run, chrome.exe https://www.mendeley.com/reference-manager/library/all-references/ -new-MainWindow
 Run, chrome.exe https://sci-hub.se/ -new-MainWindow
+Run, chrome.exe https://app.perusall.com/courses/nanotechnology-research-papers/_/dashboard/startup -new-MainWindow
 return
 
 ;ASCII 41 )
