@@ -85,7 +85,8 @@ PowerSchoolProfile = "Default"
 :*:..wenlkey::LKEY-91657-33795-CACWEN
 :*:..2lkey::LKEY-51768-06216-ks2021
 :*:..3lkey::LKEY-69204-36115-ks2021
-:*:..mos::94512-PSD1-58243
+;:*:..mos::94512-PSD1-58243; TOO MANY USERS
+:*:..mos::42222-MOS2021-89256
 ;:*:..mos::77074-MOSTRI2-31445 ;used up!!!
 :*:jwe::jweisenfeld@psd1.org
 :*:pjwe::Whe60187!
