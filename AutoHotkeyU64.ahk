@@ -448,14 +448,16 @@ if (A_ComputerName = "DESKTOP-H9GCS6A")
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
     Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
-    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --profile-directory="Profile 1"
+    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
+    Run chrome.exe https://www.facebook.com --new-MainWindow
     ;Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
 Else if (A_ComputerName = "WEISENFELDZ240")
 {
     ;find the profile using chrome://version
     Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
-    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --profile-directory="Profile 1"
+    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
+    Run chrome.exe https://www.facebook.com --new-MainWindow
 }
 Else 
 {
