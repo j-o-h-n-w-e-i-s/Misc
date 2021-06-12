@@ -160,6 +160,7 @@ PowerSchoolProfile = "Default"
 :*:nniyt::https://www.youtube.com/c/NanoTubeTheNationalNanotechnologyInitiative/videos
 :*:psd1yt::https://www.youtube.com/c/PascoSchools/videos
 :*:meyt::https://www.youtube.com/c/marvel/videos
+:*:seyt::https://www.youtube.com/c/StarWarsExplained/videos
 :*:..xpressvpn::ETHN6DMM47MCOAX4TX3CC6C
 :*:..bday::H A P P Y  B I R T H D A Y {U+0021} {U+0021} {U+0021}
 ;:*:..htp::How to Pass Mr. Weisenfeld's Microsoft Office Class / C{U+00F3}mo aprobar la clase de Microsoft Office del Sr. Weisenfeld
