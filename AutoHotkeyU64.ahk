@@ -296,7 +296,9 @@ Run, chrome.exe https://www.psd1.org/ --new-MainWindow
 return
 
 ;ASCII 38 &
-^!&:: MsgBox CTRL+ALT+& is UNUSED
+;^!&:: MsgBox CTRL+ALT+& is UNUSED
+^!&:: 
+Run, chrome.exe https://app.perusall.com/courses/nanotechnology-research-papers/_/dashboard/startup --new-window --profile-directory=%VarProfileDirectory% 
 return
 
 ;ASCII 39 '
