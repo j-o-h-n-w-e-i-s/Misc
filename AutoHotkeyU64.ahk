@@ -940,7 +940,7 @@ return
 ^!y::
 if (A_ComputerName = VarHomeComputerName)
     {
-        Run "C:\Users\John C. Weisenfeld\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+        Run "C:\Users\johnw\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
     }
 Else if (A_ComputerName = VarWorkComputerName)
     {
