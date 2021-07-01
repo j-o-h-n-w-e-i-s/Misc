@@ -16,7 +16,7 @@ EnvGet, UserProf, USERPROFILE
 ;VarProfileDirectory is the chrome profile directory for the jweisenfeld@psd1.org sign in ...
 if (VarComputerName = VarHomeComputerName)
 {
-VarProfileDirectory = "Default"
+VarProfileDirectory = "Default" ; uses hg32435@gmail.com a gmail ID linked forever to jweisenfeld@psd1.org
 PowerSchoolProfile = "Profile 1" ;so that autorefresh on PowerSchool doesn't use the same browser profile as the rest of your work.
 }
 else if (VarComputerName = VarWorkComputerName)
@@ -447,17 +447,17 @@ return
 
 ;ASCII 46 . nimble.com
 ^!.::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
+    Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 2"
     Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
     Run chrome.exe https://www.facebook.com --new-MainWindow
     ;Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
-Else if (A_ComputerName = "WEISENFELDZ240")
+Else if (A_ComputerName = %VarWorkComputerName%)
 {
     ;find the profile using chrome://version
     Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
@@ -750,12 +750,12 @@ return
 ;Open AutoHotkey in VS Code
 ^!h::
 EnvGet, LocAppDat, LOCALAPPDATA    
-if (A_ComputerName ="DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
     {
         Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
-        Run explorer.exe "C:\Users\John C. Weisenfeld\Documents\GitHub\Misc"  
+        Run explorer.exe "D:\GitHub\Misc"  
     }
-else if (A_ComputerName = "WEISENFELDZ240")
+else if (A_ComputerName = VarWorkComputerName)
     {
         Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
         Run explorer.exe "C:\Users\jweisenfeld.WEISENFELDZ240\Documents\GitHub\Misc"  
