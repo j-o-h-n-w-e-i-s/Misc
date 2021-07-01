@@ -5,7 +5,8 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 VarWorkingDir = %A_ScriptDir%
 VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
 VarWorkComputerName := "WEISENFELDZ240"
-VarHomeComputerName := "DESKTOP-H9GCS6A"
+VarHomeComputerName := "DESKTOP-GR6JT14"
+;VarHomeComputerName := "DESKTOP-H9GCS6A" ;This was the the Alienware A51
 EnvGet, UserProf, USERPROFILE
 ;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
 ;are you seeing this message?
@@ -15,8 +16,8 @@ EnvGet, UserProf, USERPROFILE
 ;VarProfileDirectory is the chrome profile directory for the jweisenfeld@psd1.org sign in ...
 if (VarComputerName = VarHomeComputerName)
 {
-VarProfileDirectory = "Profile 3"
-PowerSchoolProfile = "Default"
+VarProfileDirectory = "Default"
+PowerSchoolProfile = "Profile 1" ;so that autorefresh on PowerSchool doesn't use the same browser profile as the rest of your work.
 }
 else if (VarComputerName = VarWorkComputerName)
 {
