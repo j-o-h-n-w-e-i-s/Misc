@@ -267,7 +267,7 @@ if (A_ComputerName = VarHomeComputerName)
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 1"
+    Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 2"
 }
 Else if (A_ComputerName = VarWorkComputerName)
 {
