@@ -6,6 +6,7 @@ VarWorkingDir = %A_ScriptDir%
 VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
 VarWorkComputerName := "WEISENFELDZ240"
 VarHomeComputerName := "DESKTOP-GR6JT14"
+VarHomeJohnDotProfileName := "Profile 2" ;this is the chrome profile for john.weisenfeld@gmail.com on that computer
 ;VarHomeComputerName := "DESKTOP-H9GCS6A" ;This was the the Alienware A51
 EnvGet, UserProf, USERPROFILE
 ;this file is in GitHub Repository j-o-h-n-w-e-i-s, need to install Git, GitHub Desktop, VS Code
@@ -455,7 +456,6 @@ if (A_ComputerName = VarHomeComputerName)
     Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 2"
     Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
     Run chrome.exe https://www.facebook.com --new-MainWindow
-    ;Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
 Else if (A_ComputerName = %VarWorkComputerName%)
 {
@@ -860,9 +860,9 @@ if (A_ComputerName = VarHomeComputerName)
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory="Profile 1"
-    Run explorer.exe "C:\GoogleScanned Local"
-    Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
+    Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory=VarHomeJohnDotProfileName
+    Run explorer.exe "D:\GoogleScanned"
+    Run "D:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
 Else if (A_ComputerName = "PHTL323004136B")
 {
