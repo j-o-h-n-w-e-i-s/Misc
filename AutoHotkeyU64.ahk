@@ -18,18 +18,19 @@ EnvGet, UserProf, USERPROFILE
 if (VarComputerName = VarHomeComputerName)
 {
 VarProfileDirectory = "Default" ; uses hg32435@gmail.com a gmail ID linked forever to jweisenfeld@psd1.org
-PowerSchoolProfile = "Profile 1" ;so that autorefresh on PowerSchool doesn't use the same browser profile as the rest of your work.
+VarPowerSchoolProfile = "Profile 1" ;so that autorefresh on PowerSchool doesn't use the same browser profile as the rest of your work.
+VarPersonalGmailProfile = "Profile 2"
 }
 else if (VarComputerName = VarWorkComputerName)
 {
 VarProfileDirectory = "Profile 2"
-PowerSchoolProfile = "Default"    
+VarPowerSchoolProfile = "Default"    
 }
 else
 {
 MsgBox I don't know this computer using default profile
 VarProfileDirectory = "Default"
-PowerSchoolProfile = "Default"
+VarPowerSchoolProfile = "Default"
 }
 
 ;if (A_ComputerName = VarHomeComputerName)
@@ -485,7 +486,7 @@ else
     {
         MsgBox I don't know this computer using default profile
         VarProfileDirectory = "Default"
-        PowerSchoolProfile = "Default"
+        VarPowerSchoolProfile = "Default"
     }
 return
 
@@ -498,7 +499,7 @@ return
 ;^!1::Run chrome.exe http://tiny.cc/2021t21st --new-window
 ;2021 Trimester 3 Roll Tool
 ^!1::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window --profile-directory=%PowerSchoolProfile%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window --profile-directory=%VarPowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1B1B1B1B1B1B1B1B1B1B1B&sectionId=184121&frn=003171730&foo=1B&distance=Josette.Abigail.Mayra --new-MainWindow 
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1B1B1B1B1B1B1B1B1B&sectionId=184121#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1A1A1A1A1A1A1A1A1A&sectionId=184120#classtoolsmode --new-MainWindow
@@ -513,7 +514,7 @@ return
 ;^!2::Run chrome.exe http://tiny.cc/2021t22nd --new-window
 ;2021 Trimester 3 Roll Tool
 ^!2::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826&frn=003171726&distance=Josh --new-window --profile-directory=%PowerSchoolProfile%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826&frn=003171726&distance=Josh --new-window --profile-directory=%VarPowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&sectionId=184116&frn=003171726&distance=Levi --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B&sectionId=184116#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
@@ -528,7 +529,7 @@ return
 ;ASCII 51 3
 ;2021 Trimester 3 Roll Tool
 ^!3::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window --profile-directory=%PowerSchoolProfile%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3A3A3A3A3A3A3A3A3A3A&sectionId=184118&frn=003171726&distance=Josh --new-window --profile-directory=%VarPowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=3B3B3B3B3B3B3B3B3B3B&sectionId=184119&frn=003171726&foo=3B&distance=Levi --new-MainWindow
 ;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3B3B3B3B3B3B3B3B3B&sectionId=184119#classtoolsmode --new-MainWindow
@@ -545,14 +546,14 @@ return
 ;a little OneNote page I use to take Roll, CTRL+ALT+R is Zoom Log page, and CTRL+ALT+4 is OneNote page
 ;^!4::Run chrome.exe http://tiny.cc/rollthisweek --new-window --profile-directory=%VarProfileDirectory%
 ;^!4::Msgbox CTRL+ALT+4 is unused
-^!4::Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%PowerSchoolProfile%
+^!4::Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%VarPowerSchoolProfile%
 return
 
 ;ASCII 53 5
 ;^!5::Run chrome.exe http://tiny.cc/2021t15th --new-window
 ;^!5::Run chrome.exe http://tiny.cc/2021t25th --new-window
 ;^!5::Msgbox CTRL+ALT+5 is unused
-^!5::Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%PowerSchoolProfile%
+^!5::Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%VarPowerSchoolProfile%
 return
 
 ;ASCII 54 6
@@ -560,7 +561,7 @@ return
 ;^!6::Run chrome.exe http://tiny.cc/2021t26th --new-window
 ;2021 Trimester 3 Roll Tool
 ^!6::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A6A6A6A6A6A6A6A6A&sectionId=184502&frn=003171726&foo=6A&distance=Salvador.Gyovanna.Xavier.Javier.Kylie --new-window --profile-directory=%PowerSchoolProfile%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6A6A6A6A6A6A6A6A6A6A&sectionId=184502&frn=003171726&foo=6A&distance=Salvador.Gyovanna.Xavier.Javier.Kylie --new-window --profile-directory=%VarPowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=6B6B6B6B6B6B6B6B6B6B&sectionId=185821&frn=003171726&foo=6B&distance=Giovanni.Julianna.Carter --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=172112 --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=6B6B6B6B6B6B6B6B6B6B6B&sectionId=173431 --new-MainWindow
@@ -684,7 +685,7 @@ return
 ;ASCII 96 `
 ;E/I Attendance
 ^!`::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=193528&frn=003181138 --new-window --profile-directory=%PowerSchoolProfile%
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=193528&frn=003181138 --new-window --profile-directory=%VarPowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=193528#classtoolsmode --new-MainWindow
 return
 
@@ -803,7 +804,7 @@ return
 ;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
 ;^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory=%VarProfileDirectory%
 ^!l::
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory=%PowerSchoolProfile%
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory=%VarPowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=184502#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
@@ -860,7 +861,7 @@ if (A_ComputerName = VarHomeComputerName)
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory=VarHomeJohnDotProfileName
+    Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory=%VarPersonalGmailProfile%
     Run explorer.exe "D:\GoogleScanned"
     Run "D:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
@@ -920,7 +921,14 @@ return
 ;^!v::MsgBox, "Woo"
 ; Open Videos Folder in Windows Explorer
 ^!v::
-Run explorer.exe "%UserProf%\Videos"
+if (A_ComputerName = VarHomeComputerName)
+{
+    Run explorer.exe "D:\Video"
+} 
+else if (A_ComputerName = VarWorkComputerName)
+{
+    Run explorer.exe "%UserProf%\Videos"
+}
 return
 
 ;ASCII 119 w
