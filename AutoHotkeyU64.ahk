@@ -426,11 +426,11 @@ return
 
 ;ASCII 44 ,
 ^!,::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
     Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-window --profile-directory="Profile 1"
 }
-Else if (A_ComputerName = "WEISENFELDZ240")
+Else if (A_ComputerName = VarWorkComputerName)
 {
     Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-window --profile-directory="Profile 1"
 }
@@ -633,12 +633,12 @@ return
 
 ;ASCII 91 [
 ^![::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
     Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
 ;weisenfeldj@cwu.edu is Profile 4 on home computer
 }
-Else if (A_ComputerName = "WEISENFELDZ240")
+Else if (A_ComputerName = VarWorkComputerName)
 {
     Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
 ;weisenfeldj@cwu.edu is Profile 4 on work computer
@@ -656,12 +656,12 @@ return
 
 ;ASCII 93 ]
 ^!]::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
     Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 3"
 ;weisenfeldj@spu.edu is Profile 3 on home computer
 }
-Else if (A_ComputerName = "WEISENFELDZ240")
+Else if (A_ComputerName = VarWorkComputerName)
 {
     Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
 ;weisenfeldj@spu.edu is Profile 4 on work computer
@@ -855,7 +855,7 @@ return
 ;ASCII 115 s
 ;^!s::Run chrome.exe http://psd1-org.zoom.us/profile/setting --new-window
 ^!s::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
@@ -960,12 +960,12 @@ return
 
 ;ASCII 123 {
 ^!{::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
 Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Default"
 ;johnweis@live.com is Default Profile
 }
-Else if (A_ComputerName = "WEISENFELDZ240")
+Else if (A_ComputerName = VarWorkComputerName)
 {
 Run msedge.exe https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM3ZmYAZS04YWZjLWRkADFkLTAwAi0wMAoAEABw0NSrjGipR7g/OA1LmukB --new-window --profile-directory="Profile 1"
 ;johnweis@live.com is Profile 1
@@ -982,12 +982,12 @@ return
 
 ;ASCII 125 }
 ^!}::
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
 Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
 ;john_wfeld@msn.com is Profile 1
 }
-Else if (A_ComputerName = "WEISENFELDZ240")
+Else if (A_ComputerName = VarWorkComputerName)
 {
 Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
 ;john_wfeld@msn.com is Profile 1
@@ -999,12 +999,12 @@ Msgbox, "I don't know this computer"
 return
 
 #^!}:: ;WIN+CTRL+ALT+}
-if (A_ComputerName = "DESKTOP-H9GCS6A")
+if (A_ComputerName = VarHomeComputerName)
 {
 Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
 ;john_wfeld@msn.com is Profile 1
 }
-Else if (A_ComputerName = "WEISENFELDZ240")
+Else if (A_ComputerName = VarWorkComputerName)
 {
 Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
 ;john_wfeld@msn.com is Profile 1
