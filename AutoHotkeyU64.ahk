@@ -458,7 +458,7 @@ if (A_ComputerName = VarHomeComputerName)
     Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
     Run chrome.exe https://www.facebook.com --new-MainWindow
 }
-Else if (A_ComputerName = %VarWorkComputerName%)
+Else if (A_ComputerName = VarWorkComputerName)
 {
     ;find the profile using chrome://version
     Run chrome.exe https://www.nimble.com --new-window --profile-directory="Profile 1"
