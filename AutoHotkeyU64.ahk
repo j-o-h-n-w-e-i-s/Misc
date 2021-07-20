@@ -693,7 +693,12 @@ return
 ;Run AutoHotkey
 ;^!a::Run "C:\Users\jweisenfeld\OneDrive - Pasco School District #1\Documents\AutoHotkey\AutoHotkeyU64.exe"
 ;^!a::Run "AutoHotkeyU64.ahk"
-^!a::Msgbox CTRL+ALT+A is unused.
+;^!a::Msgbox CTRL+ALT+A is unused.
+^!a::
+Run chrome.exe https://www.youtube.com/c/JonBergmann1/videos --new-Window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://www.youtube.com/EmergencyAwesome/videos --new-MainWindow 
+Run chrome.exe https://www.youtube.com/c/marvel/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/c/StarWarsExplained/videos --new-MainWindow
 return
 
 ;ASCII 98 b
