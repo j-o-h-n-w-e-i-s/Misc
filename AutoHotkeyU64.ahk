@@ -94,6 +94,7 @@ VarPowerSchoolProfile = "Default"
 :*:jwe::jweisenfeld@psd1.org
 :*:pjwe::Whe60187!
 :*:..best::http://tiny.cc/phsbestpractices
+:*:..equity::13c0ebeb.psd1.org@amer.teams.ms
 :*:xyg::https://outlook.office.com/people/group/psd1.org/[alias] 
 :*:@st::@students.psd1.org
 :*:..enter::enterprise@psd1.org
