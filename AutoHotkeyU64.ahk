@@ -5,7 +5,7 @@ SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 VarWorkingDir = %A_ScriptDir%
 VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
 VarWorkComputerName := "WEISENFELDZ240"
-VarHomeComputerName := "DESKTOP-GR6JT14"
+VarHomeComputerName := "DESKTOP-49MKQTR"
 VarHomeJohnDotProfileName := "Profile 2" ;this is the chrome profile for john.weisenfeld@gmail.com on that computer
 ;VarHomeComputerName := "DESKTOP-H9GCS6A" ;This was the the Alienware A51
 EnvGet, UserProf, USERPROFILE
