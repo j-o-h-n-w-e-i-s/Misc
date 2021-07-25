@@ -17,9 +17,9 @@ EnvGet, UserProf, USERPROFILE
 ;VarProfileDirectory is the chrome profile directory for the jweisenfeld@psd1.org sign in ...
 if (VarComputerName = VarHomeComputerName)
 {
-VarProfileDirectory = "Default" ; uses hg32435@gmail.com a gmail ID linked forever to jweisenfeld@psd1.org
-VarPowerSchoolProfile = "Profile 1" ;so that autorefresh on PowerSchool doesn't use the same browser profile as the rest of your work.
-VarPersonalGmailProfile = "Profile 2"
+VarProfileDirectory = "Profile 1" ; uses hg32435@gmail.com a gmail ID linked forever to jweisenfeld@psd1.org
+VarPowerSchoolProfile = "Profile 2" ;email is jweisenfeld@psd1.net so that autorefresh on PowerSchool doesn't use the same browser profile as the rest of your work.
+VarPersonalGmailProfile = "Default"; email is john.weisenfeld@gmail.com
 }
 else if (VarComputerName = VarWorkComputerName)
 {
