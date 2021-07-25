@@ -17,9 +17,9 @@ EnvGet, UserProf, USERPROFILE
 ;VarProfileDirectory is the chrome profile directory for the jweisenfeld@psd1.org sign in ...
 if (VarComputerName = VarHomeComputerName)
 {
-VarProfileDirectory = "Profile 1" ; uses hg32435@gmail.com a gmail ID linked forever to jweisenfeld@psd1.org
+VarProfileDirectory = "Profile 1" ;uses hg32435@gmail.com a gmail ID linked forever to jweisenfeld@psd1.org
 VarPowerSchoolProfile = "Profile 2" ;email is jweisenfeld@psd1.net so that autorefresh on PowerSchool doesn't use the same browser profile as the rest of your work.
-VarPersonalGmailProfile = "Default"; email is john.weisenfeld@gmail.com
+VarPersonalGmailProfile = "Default" ;email is john.weisenfeld@gmail.com
 }
 else if (VarComputerName = VarWorkComputerName)
 {
@@ -456,7 +456,7 @@ if (A_ComputerName = VarHomeComputerName)
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://www.nimble.com --new-window --profile-directory=%VarPersonalGmailProfile%
+    Run chrome.exe https://app.nimble.com/#app/b/homepage --new-window --profile-directory=%VarPersonalGmailProfile%
     Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
     Run chrome.exe https://www.facebook.com --new-MainWindow
     Run chrome.exe https://www.twitter.com --new-MainWindow
