@@ -456,7 +456,7 @@ if (A_ComputerName = VarHomeComputerName)
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://www.nimble.com --new-window --profile-directory=VarPersonalGmailProfile
+    Run chrome.exe https://www.nimble.com --new-window --profile-directory=%VarPersonalGmailProfile%
     Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
     Run chrome.exe https://www.facebook.com --new-MainWindow
     Run chrome.exe https://www.twitter.com --new-MainWindow
@@ -464,7 +464,7 @@ if (A_ComputerName = VarHomeComputerName)
 Else if (A_ComputerName = VarWorkComputerName)
 {
     ;find the profile using chrome://version
-    Run chrome.exe https://www.nimble.com --new-window --profile-directory=VarPersonalGmailProfile
+    Run chrome.exe https://www.nimble.com --new-window --profile-directory=%VarPersonalGmailProfile%
     Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
     Run chrome.exe https://www.facebook.com --new-MainWindow
     Run chrome.exe https://www.twitter.com --new-MainWindow
