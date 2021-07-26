@@ -206,7 +206,9 @@ return
 ^!CAPSLOCK::Run "AutoHotkeyU64.ahk"
 return
 
-^!LWIN:: Msgbox CTRL+ALT+LWIN is unused
+;^!LWIN:: Msgbox CTRL+ALT+LWIN is unused
+^!LWIN:: 
+Run chrome.exe https://app.nimble.com/#app/b/homepage --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
 ^!RWIN:: Msgbox CTRL+ALT+RWIN is unused
