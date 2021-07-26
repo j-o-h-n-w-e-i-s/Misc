@@ -74,7 +74,8 @@ VarPowerSchoolProfile = "Default"
 :*:mtyt::https://www.youtube.com/c/MikeTholfsen/videos
 :*:eayt::https://www.youtube.com/EmergencyAwesome/videos
 :*:myyt::https://www.youtube.com/channel/UCfR4DSbzqIFRleWbhdl7Vyg/videos?view_as=subscriber
-:*:jplyt::https://www.youtube.com/playlist?list=PLTiv_XWHnOZo89xfQyRUub76zNlQTLNrJ
+;:*:jplyt::https://www.youtube.com/playlist?list=PLTiv_XWHnOZo89xfQyRUub76zNlQTLNrJ
+:*:jplyt::https://www.youtube.com/c/NASAJPL/videos
 :*:mpsryt::https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm
 :*:kep3ass::https://screencast-o-matic.com/watch/cYXr3eLw7d
 :*:kep1ass::https://screencast-o-matic.com/watch/cYXrr4LwJo 
