@@ -243,13 +243,13 @@ if (A_ComputerName = VarHomeComputerName)
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://www.gmetrix.net --new-window --profile-directory="Profile 3"
+    Run chrome.exe https://www.gmetrix.net --new-window --profile-directory=%VarProfileDirectory%
 }
 Else if (A_ComputerName = VarWorkComputerName)
 {
     ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 8" if not then change this
     ;find the profile using chrome://version
-    Run chrome.exe https://www.gmetrix.net --new-window --profile-directory="Profile 3"
+    Run chrome.exe https://www.gmetrix.net --new-window --profile-directory=%VarProfileDirectory%
 }
 Else 
 {
@@ -272,13 +272,13 @@ if (A_ComputerName = VarHomeComputerName)
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 2"
+    Run chrome.exe https://smile.amazon.com --new-window --profile-directory=%VarPersonalGmailProfile%
 }
 Else if (A_ComputerName = VarWorkComputerName)
 {
     ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 8" if not then change this
     ;find the profile using chrome://version
-    Run chrome.exe https://smile.amazon.com --new-window --profile-directory="Profile 1"
+    Run chrome.exe https://smile.amazon.com --new-window --profile-directory=%VarPersonalGmailProfile%
 }
 Else 
 {
