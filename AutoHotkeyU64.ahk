@@ -211,7 +211,9 @@ return
 Run chrome.exe https://app.nimble.com/#app/b/homepage --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
-^!RWIN:: Msgbox CTRL+ALT+RWIN is unused
+;^!RWIN:: Msgbox CTRL+ALT+RWIN is unused
+^!RWIN::
+Run chrome.exe https://tiny.cc/2022countdown --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
 ^!BS:: Msgbox CTRL+ALT+BS is unused
