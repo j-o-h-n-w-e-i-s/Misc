@@ -1,0 +1,516 @@
+FirstName,LastName,Relationship,Email,Tag StudentID,Contact Phone,Phone Type,Tag Year-Tri-Period-Parent-Guardian
+Raymundo ,Arango,Father,reyna_arango92@yahoo.com (Current),28516,509-543-4253 ,Work,21-22-T1-1-PG
+Raymundo ,Arango,Father,--,28516,509-554-9998 ,Home,21-22-T1-1-PG
+Raymundo ,Arango,Father,--,28516,509-543-4252 ,Work,21-22-T1-1-PG
+Raymundo ,Arango,Father,--,28516,509-545-8177 ,Home,21-22-T1-1-PG
+Juana ,Mejia,Mother,Juanamejia20@hotmail.com (Current - Primary),28516,509-554-9998 ,Mobile,21-22-T1-1-PG
+Juana ,Mejia,Mother,--,28516,509-545-8177 ,Home,21-22-T1-1-PG
+Maria ,Baragas,Friend,--,28516,509-542-9455 ,Home,21-22-T1-1-PG
+Reyna ,Arango,Sister,--,28516,509-545-4390 ,Home,21-22-T1-1-PG
+Jose ,Armenta,Father,armentajose94@yahoo.com (Current - Primary),41796,541-216-3158 ,Home,21-22-T1-1-PG
+Laura ,Armenta,Mother,laurasainz11@aol.com (Current - Primary),41796,818-430-0499 ,Home,21-22-T1-1-PG
+Amanda ,Kelly,Mother,amandadanielle1024@yahoo.com (Current - Primary),36175,509-412-0361 ,Home,21-22-T1-1-PG
+Amanda ,Kelly,Mother,--,36175,509-412-0715 ,Work,21-22-T1-1-PG
+Amanda ,Kelly,Mother,--,36175,509-222-1275 ,Work,21-22-T1-1-PG
+Rueben ,Godino,Father,rueben.g_55@yahoo.com (Current - Primary),36175,509-412-4039 ,Home,21-22-T1-1-PG
+Andrea ,Edwards,Mother,annie_jacobs@hotmail.com (Current - Primary),31462,509-378-7555 ,Mobile,21-22-T1-1-PG
+Andrea ,Edwards,Mother,--,31462,509-220-7287 ,Mobile,21-22-T1-1-PG
+Kory ,Edwards,Father,annie_jacobs@hotmail.com (Current - Primary),31462,509-220-7287 ,Mobile,21-22-T1-1-PG
+Kory ,Edwards,Father,--,31462,509-378-7555 ,Home,21-22-T1-1-PG
+Jerry ,Edwards,Grandfather,--,31462,360-795-6200 ,Home,21-22-T1-1-PG
+Robin ,Jacobs,Grandmother,--,31462,509-951-4729 ,Home,21-22-T1-1-PG
+Edwards ,Jerry,Grandfather,--,31462,360-795-6200 ,Other,21-22-T1-1-PG
+Lora ,Fritz,Mother,lfritz@psd1.org (Current),25720,509-528-1805 ,Mobile,21-22-T1-1-PG
+Brad ,Fritz,Father,bradley.fritz@pnnl.gov (Current - Primary),25720,509-528-2255 ,Home,21-22-T1-1-PG
+Brad ,Fritz,Father,--,25720,509-371-7119 ,Work,21-22-T1-1-PG
+Xiuzhen ,Zhao,Mother,--,25816,509-302-5465 ,Work,21-22-T1-1-PG
+Xiuzhen ,Zhao,Mother,--,25816,509-547-4406 ,Home,21-22-T1-1-PG
+Wansen ,Huang,Father,--,25816,509-547-4406 ,Home,21-22-T1-1-PG
+Wansen ,Huang,Father,--,25816,509-545-6324 ,Work,21-22-T1-1-PG
+Juan C ,Sanchez,Other,honda_gsr@hotnail.com (Current - Primary),52004,509-412-1506 ,Home,21-22-T1-1-PG
+Juan C ,Sanchez,Other,--,52004,509-251-1111 ,Home,21-22-T1-1-PG
+Miguel ,Huerta,Brother,--,52004,702-601-7965 ,Home,21-22-T1-1-PG
+Norma ,Ruiz,Mother,nruizgreen04@yahoo.com (Current),52004,702-637-5399 ,Mobile,21-22-T1-1-PG
+Norma ,Ruiz,Mother,--,52004,509-412-1506 ,Home,21-22-T1-1-PG
+Norma ,Ruiz,Mother,--,52004,509-727-9997 ,Home,21-22-T1-1-PG
+Norma ,Ruiz,Mother,--,52004,509-736-1750 ,Home,21-22-T1-1-PG
+Rosio ,Mrs. Ruiz,Aunt,--,52004,702-630-9199 ,Mobile - Preferred,21-22-T1-1-PG
+Heather ,Kubalek,Mother,hkubalek@hotmail.com (Current - Primary),39608,509-521-4197 ,Mobile - Preferred,21-22-T1-1-PG
+Brent ,Kubalek,Father,hkubalek@hotmail.com (Current - Primary),39608,509-302-1454 ,Work,21-22-T1-1-PG
+Brent ,Kubalek,Father,kubalekb@pasco-wa.gov (Additional),39608,509-545-0938 ,Home,21-22-T1-1-PG
+Brent ,Kubalek,Father,--,39608,509-543-5790 ,Work,21-22-T1-1-PG
+Amy ,Frederickson,Friend,abfreds@hotmail.com (Current - Primary),39608,509-952-0504 ,Home,21-22-T1-1-PG
+Maria ,Rodriguez,Mother,--,28685,509-542-1089 ,Home,21-22-T1-1-PG
+Brenda ,Rodriguez,Other,--,28685,509-521-6896 ,Home,21-22-T1-1-PG
+Crystal ,Rodriguez,Sister,--,28685,509-521-5919 ,Home,21-22-T1-1-PG
+Rocio ,Rodriguez,Aunt,--,28685,509-546-7769 ,Home,21-22-T1-1-PG
+Rocio ,Rodriguez,Aunt,--,28685,509-531-4859 ,Mobile,21-22-T1-1-PG
+Jorge ,Mendoza,Father,jorgemjimenez@ymail.com (Current - Primary),28685,509-366-3183 ,Home,21-22-T1-1-PG
+Jorge ,Mendoza,Father,--,28685,509-542-1089 ,Home,21-22-T1-1-PG
+Alberta ,Badillo,Mother,betabadillo@yahoo.com (Current - Primary),28687,509-543-9789 ,Home,21-22-T1-1-PG
+Alberta ,Badillo,Mother,--,28687,509-851-2478 ,Work,21-22-T1-1-PG
+Agustina Sr. ,Silva,Other,--,28687,509-845-3609 ,Mobile,21-22-T1-1-PG
+Juan ,Meza Marin,Father,--,28687,509-543-9789 ,Home,21-22-T1-1-PG
+Juan ,Meza Marin,Father,--,28687,509-727-2609 ,Mobile,21-22-T1-1-PG
+Cristal ,Meza,Sister,--,28687,509-430-9004 ,Home,21-22-T1-1-PG
+Romualdo ,Meza,Uncle,--,28687,509-845-6261 ,Home,21-22-T1-1-PG
+Rafael ,Moreno,Father,--,28708,509-544-2151 ,Home,21-22-T1-1-PG
+Rafael ,Moreno,Father,--,28708,509-792-5815 ,Work,21-22-T1-1-PG
+Adriana ,Moreno,Sister,--,28708,509-792-5816 ,Home,21-22-T1-1-PG
+Edelmira ,Navarro,Aunt,--,28708,509-546-1569 ,Home,21-22-T1-1-PG
+Edelmira ,Navarro,Aunt,--,28708,509-545-3393 ,Home,21-22-T1-1-PG
+Edelmira ,Navarro,Aunt,--,28708,509-851-9439 ,Home,21-22-T1-1-PG
+Lucia ,Moreno,Other,--,28708,509-947-3509 ,Home,21-22-T1-1-PG
+Elva ,Soto,Mother,--,28708,509-567-0836 ,Mobile,21-22-T1-1-PG
+Veronica ,Mrs. Mendez,Mother,vmcodes.1@gmail.com (Current),25936,509-987-9905 ,Mobile - Preferred,21-22-T1-1-PG
+Salvador ,Ojeda,Father,--,25936,509-851-9981 ,Home,21-22-T1-1-PG
+Salvador ,Ojeda,Father,--,25936,509-792-6793 ,Mobile,21-22-T1-1-PG
+Salvador ,Ojeda,Father,--,25936,509-543-4325 ,Work,21-22-T1-1-PG
+Salvador ,Ojeda,Father,--,25936,509-987-9905 ,Home,21-22-T1-1-PG
+Guadalupe ,Ojeda,Aunt,--,25936,509-851-9981 ,Home,21-22-T1-1-PG
+Dino ,Mosby,Step Father,--,26073,509-551-4276 ,Home,21-22-T1-1-PG
+Ruben ,Pangelinan,Father,jojo72673@yahoo.com (Current - Primary),26073,509-460-8469 ,Work,21-22-T1-1-PG
+Ruben ,Pangelinan,Father,--,26073,509-551-0405 ,Home,21-22-T1-1-PG
+Lori ,Hinger,Aunt,--,26073,509-551-8977 ,Home,21-22-T1-1-PG
+Sharon ,Pangelinan,Grandmother,--,26073,509-539-3726 ,Home,21-22-T1-1-PG
+Joanne ,Pangelinan,Mother,jojo72673@gmail.com (Current),26073,509-551-0405 ,Home,21-22-T1-1-PG
+Joanne ,Pangelinan,Mother,jojo72673@yahoo.com (Current),26073,--,,21-22-T1-1-PG
+Steffani ,English,Neighbor,heysteff123@gmail.com (Current - Primary),26073,509-547-5581 x3567 ,Work,21-22-T1-1-PG
+Steffani ,English,Neighbor,--,26073,509-713-4170 ,Home,21-22-T1-1-PG
+Steffani ,English,Neighbor,--,26073,509-713-4171 ,Mobile,21-22-T1-1-PG
+Steffani ,English,Neighbor,--,26073,509-547-5581 ,Work,21-22-T1-1-PG
+Rocio ,Gonzalez,Babysitter,--,26228,509-547-0922 ,Home,21-22-T1-1-PG
+Ana ,Angeles,Aunt,aa.angeles83@gmail.com (Current - Primary),26228,509-366-9308 ,Mobile,21-22-T1-1-PG
+Ana ,Angeles,Aunt,--,26228,509-366-9719 ,Home,21-22-T1-1-PG
+Sergio ,Alvarez,Uncle,--,26228,509-539-6826 ,Home,21-22-T1-1-PG
+Claudia ,Alvarez,Mother,alvarezc01@gmail.com (Current),26228,509-987-4824 ,Home,21-22-T1-1-PG
+Maria ,Ponce,Mother,poncerocio42@gmail.com (Current - Primary),35628,509-380-7777 ,Home,21-22-T1-1-PG
+Andrea ,Barron,Sister,andreabarron192@gmail.com (Current - Primary),35628,509-792-4092 ,Home,21-22-T1-1-PG
+Sabel ,Ponce,Uncle,--,35628,509-430-8434 ,Home,21-22-T1-1-PG
+Federico ,Ruiz,Father,ruizfederico65@yahoo.com (Current),27022,509-619-9582 ,Home,21-22-T1-1-PG
+Federico ,Ruiz,Father,--,27022,509-735-6661 ,Work,21-22-T1-1-PG
+Juana ,Ledezma,Mother,ruizjuana78@yahoo.com (Current),27022,509-302-9805 ,Mobile,21-22-T1-1-PG
+Juana ,Ledezma,Mother,--,27022,509-947-7816 ,Mobile,21-22-T1-1-PG
+Juana ,Ledezma,Mother,--,27022,509-515-0515 ,Work,21-22-T1-1-PG
+Antonia ,Ruiz,Aunt,--,27022,509-542-1919 ,Home,21-22-T1-1-PG
+Armando ,Ruiz,Uncle,campo7777@live.com (Current - Primary),27022,509-528-7781,Home,21-22-T1-1-PG
+Guadalupe ,Ruiz,Brother,--,27022,509-948-4020 ,Home,21-22-T1-1-PG
+Guadalupe ,Ruiz,Brother,--,27022,509-948-6395 ,Home,21-22-T1-1-PG
+Guadalupe ,Ruiz,Brother,--,27022,509-947-7816 ,Home,21-22-T1-1-PG
+Diana ,Moreno,Mother,--,29285,509-547-8910 ,Mobile - Preferred,21-22-T1-1-PG
+Alberto ,Santana,Father,titos509@gmail.com (Current),29285,509-851-5188 ,Mobile - Preferred,21-22-T1-1-PG
+Emely ,Santana,Sister,--,29285,509-851-0714 ,Mobile - Preferred,21-22-T1-1-PG
+Alberto Jr. ,Satana,Brother,--,29285,509-491-7261 ,Mobile - Preferred,21-22-T1-1-PG
+Patrick Louis Joseph ,Mr. Valdez,Father,pljvaldez@charter.net (Current - Primary),52313,509-375-2849 ,Work - Preferred,21-22-T1-1-PG
+Catherine Ocampo ,Mrs. Valdez,Mother,pljvaldez@charter.net (Current - Primary),52313,509-547-2860 ,Home - Preferred,21-22-T1-1-PG
+Catherine Ocampo ,Mrs. Valdez,Mother,--,52313,509-302-3026 ,Mobile,21-22-T1-1-PG
+Ofelia ,Ocampo,Grandmother,--,52313,509-586-6499 ,Home,21-22-T1-1-PG
+Paul ,Mr. Valdez,Uncle,--,52313,509-539-9879 ,Mobile - Preferred,21-22-T1-1-PG
+Victor ,Mr. Ocampo,Grandfather,--,52313,509-586-6499 ,Home - Preferred,21-22-T1-1-PG
+Enrique ,Villegas Herrera,Father,--,26452,509-366-6436 ,Home,21-22-T1-1-PG
+Enrique ,Villegas Herrera,Father,--,26452,509-546-7769 ,Home,21-22-T1-1-PG
+Brenda ,Rodriguez,Aunt,--,26452,509-521-6896 ,Home,21-22-T1-1-PG
+Maria ,Rodriguez,Aunt,--,26452,509-542-1089 ,Home,21-22-T1-1-PG
+Rocio ,Rodriguez,Mother,--,26452,509-546-7769 ,Home,21-22-T1-1-PG
+Rocio ,Rodriguez,Mother,--,26452,509-531-4859 ,Mobile,21-22-T1-1-PG
+Maria De Lourdes ,Garcia,Mother,--,32064,509-302-7681 ,Mobile,21-22-T1-2-PG
+Maria De Lourdes ,Garcia,Mother,--,32064,509-521-4583 ,Mobile,21-22-T1-2-PG
+Maria De Lourdes ,Garcia,Mother,--,32064,509-547-4276 ,Work,21-22-T1-2-PG
+Angelica ,Garcia Contreras,Other,yazmiine413@gmail.com (Current - Primary),32064,509-302-6514 ,Mobile,21-22-T1-2-PG
+Griselda ,Aguilar Lopez,Sister,--,32064,509-537-8425 ,Home,21-22-T1-2-PG
+Juan ,Aguilar,Other,--,32064,509-820-0571 ,Home,21-22-T1-2-PG
+Maria ,Garcia,Other,griseldaaguilar29@gmail.com (Current - Primary),32064,--,,21-22-T1-2-PG
+Maria ,Garcia,Other,,27559,,,21-22-T1-2-PG
+Oscar ,Aguilar,Father,--,27559,509-551-5092 ,Home,21-22-T1-2-PG
+Blanca ,Aguilar,Step Mother,--,27559,509-302-6152 ,Mobile,21-22-T1-2-PG
+Ruben ,Martinez,Other,--,27559,509-430-5961 ,Home,21-22-T1-2-PG
+Erika B ,Ms. Hernandez,Mother,hernanezerika3@gmail.com (Current - Primary),20171,619-598-9622 ,Mobile - Preferred,21-22-T1-2-PG
+Pedro ,Mr. Alcaraz,Father,--,20171,509-380-2424 ,Mobile - Preferred,21-22-T1-2-PG
+Leilani ,Ms. Alcaraz,Sister,--,20171,619-601-4805 ,Mobile - Preferred,21-22-T1-2-PG
+Ileana ,Alcaraz,Aunt,ileana252@gmail.com (Current),20171,509-859-5509 ,Mobile - Preferred,21-22-T1-2-PG
+Julio ,Andrade,Father,pinochin78@gmail.com (Current - Primary),47225,509-551-3771 ,Mobile,21-22-T1-2-PG
+Julio ,Andrade,Father,--,47225,509-551-5718 ,Home,21-22-T1-2-PG
+Julio ,Andrade,Father,--,47225,509-713-7081 ,Work,21-22-T1-2-PG
+Elvira ,Barragan,Babysitter,--,47225,509-492-8460 ,Mobile - Preferred,21-22-T1-2-PG
+Pedro ,Andrade,Uncle,--,47225,509-440-9809 ,Home,21-22-T1-2-PG
+Roci¢ ,Andrade,Aunt,--,47225,509-545-1034 ,Mobile - Preferred,21-22-T1-2-PG
+Carlos ,Rodriguez,Other,--,47225,509-947-2058 ,Other,21-22-T1-2-PG
+Leslie ,Blanco,Mother,absay78@gmail.com (Current),47225,509-713-7081 ,Work,21-22-T1-2-PG
+Leslie ,Blanco,Mother,--,47225,509-551-5718 ,Home,21-22-T1-2-PG
+Zoe ,Casperson,Mother,genderalchemy@gmail.com (Current - Primary),54071,509-380-5067 ,Home,21-22-T1-2-PG
+Zoe ,Casperson,Mother,--,54071,208-760-9569 ,Home,21-22-T1-2-PG
+Aiden ,Casperson,Father,enbytm2015@gmail.com (Current - Primary),54071,208-760-9570 ,Mobile,21-22-T1-2-PG
+Aiden ,Casperson,Father,--,54071,509-380-5067 ,Home,21-22-T1-2-PG
+Leonardo ,Cerros,Father,leonardocerros1@gmail.com (Current - Primary),33530,509-308-3273 ,Home,21-22-T1-2-PG
+Leonardo ,Cerros,Father,--,33530,509-508-3273 ,Home,21-22-T1-2-PG
+Leonardo ,Cerros,Father,--,33530,509-547-7545 ,Work,21-22-T1-2-PG
+Yesenia ,Hernandez,Mother,yeseniahernandez085@gmail.com (Other),33530,509-792-5331 ,Mobile - Preferred,21-22-T1-2-PG
+Mayra ,Delamora,Sister,delamora540@gmail.com (Current),33530,509-551-7125 ,Mobile - Preferred,21-22-T1-2-PG
+Erlinda ,Munoz,Mother,sixtoslinda89@gmail.com (Current),33008,509-547-2204 ,Work,21-22-T1-2-PG
+Erlinda ,Munoz,Mother,sixtoslinda87@gmail.com (Current),33008,509-405-0085 ,Home,21-22-T1-2-PG
+Josefina ,Ubay,Grandmother,--,33008,509-528-8827 ,Mobile - Preferred,21-22-T1-2-PG
+Leticia ,Ubay,Aunt,--,33008,509-316-1522 ,Home,21-22-T1-2-PG
+Cristela Araneli Sr. ,Ms. Esquivel,Mother,cristela_esquivel@hotmail.com (Current - Primary),38895,509-727-9293 ,Home - Preferred,21-22-T1-2-PG
+Clemente Junior Jr. ,Mr. Esquivel,Father,cristela_esquivel@hotmail.com (Current - Primary),38895,509-366-6266 ,Home,21-22-T1-2-PG
+Erika N/A Sr. ,Ms. Garcia,Aunt,clement.esq10@icloud.com (Current - Primary),38895,210-852-1310 ,Home - Preferred,21-22-T1-2-PG
+Erika N/A Sr. ,Ms. Garcia,Aunt,--,38895,509-366-1699 ,Home - Preferred,21-22-T1-2-PG
+Erika N/A Sr. ,Ms. Garcia,Aunt,--,38895,210-852-1440 ,Home,21-22-T1-2-PG
+Clemente Grandpa Sr. ,Mr. Esquivel,Grandfather,clemente.esq10@icloud.com (Current - Primary),38895,509-727-8631 ,Mobile,21-22-T1-2-PG
+Clemente Grandpa Sr. ,Mr. Esquivel,Grandfather,--,38895,509-545-4387 ,Home,21-22-T1-2-PG
+Clemente Grandpa Sr. ,Mr. Esquivel,Grandfather,--,38895,210-473-6150 ,Home,21-22-T1-2-PG
+Nuvia ,Ramos,Aunt,--,38895,509-961-8484 ,Home,21-22-T1-2-PG
+Perlina ,Ramos,Mother,perlaramos2013@outlook.com (Current),38895,509-537-4111 ,Work,21-22-T1-2-PG
+Perlina ,Ramos,Mother,--,38895,509-942-2699 ,Work,21-22-T1-2-PG
+Jasmin ,Farias,Sister,jasminfarias00@gmail.com (Current - Primary),38895,509-792-4513 ,Home,21-22-T1-2-PG
+Sara ,Gross,Mother,sgross@psd1.org (Current - Primary),33911,509-991-3472 ,Home,21-22-T1-2-PG
+Sara ,Gross,Mother,kandsgross@charter.net (Current),33911,509-416-7114 x3449 ,Work,21-22-T1-2-PG
+Sara ,Gross,Mother,--,33911,509-416-7114 ,Work,21-22-T1-2-PG
+Kraig ,Gross,Father,kandsgross@charter.net (Current - Primary),33911,509-991-3524 ,Mobile,21-22-T1-2-PG
+Kraig ,Gross,Father,--,33911,541-922-2243 ,Work,21-22-T1-2-PG
+Renee ,Gross,Grandmother,--,33911,509-220-5184 ,Home,21-22-T1-2-PG
+Jana ,Sall,Friend,jana_sall@msn.com (Current - Primary),33911,509-948-0901 ,Home,21-22-T1-2-PG
+Jana ,Sall,Friend,jana-sall@msn.com (Additional),33911,950-994-8090 ,Home,21-22-T1-2-PG
+Pam ,Webb,Grandmother,--,33911,208-659-3921 ,Home,21-22-T1-2-PG
+Pablo ,Gutierrez,Father,--,31515,509-416-3289 ,Mobile,21-22-T1-2-PG
+Veronica ,Gutierrez,Mother,gutierrezveronica94@gmail.com (Current),31515,509-792-6050 ,Home,21-22-T1-2-PG
+Veronica ,Gutierrez,Mother,--,31515,509-367-0097 ,Home,21-22-T1-2-PG
+Margarita ,Ramos,Friend,maggiekora@hotmail.com (Current - Primary),31515,509-302-0343 ,Mobile - Preferred,21-22-T1-2-PG
+Maria ,Contreras,Mother,Contrerascarmen0393@gmail.com (Other - Primary),44836,909-294-4417 ,Home,21-22-T1-2-PG
+Maria ,Contreras,Other,Contrerascarmen0393@gmail.com (Current - Primary),44836,--,,21-22-T1-2-PG
+Jose Manuel Sr. ,Mr. Feliciano Lopez,Neighbor,feliz@live.com (Additional - Primary),44836,509-366-0083 ,Mobile - Preferred,21-22-T1-2-PG
+Adrian ,Contreras,Uncle,--,44836,509-792-6044 ,Home,21-22-T1-2-PG
+Adrian ,Contreras,Uncle,--,44836,614-731-7487 ,Home,21-22-T1-2-PG
+Josefina ,Garcia,Mother,--,32756,509-205-9061 ,Mobile - Preferred,21-22-T1-2-PG
+Ricardo ,Jacuinde,Father,--,32756,509-792-4667 ,Mobile - Preferred,21-22-T1-2-PG
+Nicolas ,Garcia,Brother,--,32756,509-539-1088 ,Mobile - Preferred,21-22-T1-2-PG
+Celeste ,Mrs. Guizar,Step Mother,celesteguizar81@gmail.com (Current),32756,509-430-5202 ,Mobile - Preferred,21-22-T1-2-PG
+Ayleen ,Marin,Other,--,32756,509-528-3779 ,Mobile - Preferred,21-22-T1-2-PG
+Christina ,Carrazco,Mother,ccarrazco2084@gmail.com (Current - Primary),57386,206-579-8843 ,Mobile - Preferred,21-22-T1-2-PG
+Christina ,Carrazco,Mother,--,57386,509-731-5592 ,Work,21-22-T1-2-PG
+Christina ,Carrazco,Mother,--,57386,509-545-0484 ,Work,21-22-T1-2-PG
+Lupita Sr. ,Mrs. Carrazco,Aunt,--,57386,206-960-3638 ,Mobile - Preferred,21-22-T1-2-PG
+Crystal ,Ms. Carrazco,Aunt,--,57386,206-979-1274 ,Mobile - Preferred,21-22-T1-2-PG
+Elizabeth ,Ms. Pulido,Aunt,--,57386,509-823-3735 ,Mobile - Preferred,21-22-T1-2-PG
+Guadalupe ,Ms. Sanchez,Grandmother,--,57386,509-907-2050 ,Mobile - Preferred,21-22-T1-2-PG
+Lilia ,Ms. Perez,Mother,--,35718,509-430-6826 ,Mobile - Preferred,21-22-T1-2-PG
+Yuli ,Ms. Blanco,Other,--,35718,509-947-2883 ,Mobile - Preferred,21-22-T1-2-PG
+Carlos ,Perez,Other,--,35718,509-491-0516 ,Home,21-22-T1-2-PG
+Maria ,Perez,Grandmother,cruzmdc@hotmail.com (Current - Primary),35718,509-859-7805 ,Mobile - Preferred,21-22-T1-2-PG
+Maria ,Perez,Grandmother,--,35718,509-859-9160 ,Mobile,21-22-T1-2-PG
+Maria ,Perez,Grandmother,--,35718,509-851-5514 ,Home,21-22-T1-2-PG
+Maria ,Perez,Grandmother,--,35718,509-380-3682 ,Mobile,21-22-T1-2-PG
+Maria ,Perez,Grandmother,--,35718,509-792-4489 ,Home,21-22-T1-2-PG
+Maria ,Perez,Grandmother,--,35718,509-521-1454 ,Home,21-22-T1-2-PG
+Maria ,Perez,Grandmother,--,35718,509-531-4726 ,Home,21-22-T1-2-PG
+Maria ,Perez,Grandmother,--,35718,509-547-4631 ,Home,21-22-T1-2-PG
+Maria ,Perez,Grandmother,--,35718,509-412-0445 ,Home,21-22-T1-2-PG
+Leonardo ,Garcia,Father,garciamorales84@icloud.com (Current - Primary),35093,509-316-8936 ,Mobile - Preferred,21-22-T1-2-PG
+Leonardo ,Garcia,Father,--,35093,509-316-8992 ,Home,21-22-T1-2-PG
+Angelina ,Garcia,Aunt,--,35093,509-316-6962 ,Home,21-22-T1-2-PG
+Angelina ,Garcia,Aunt,--,35093,509-547-3571 ,Home,21-22-T1-2-PG
+Angelina ,Garcia,Aunt,--,35093,509-545-3571 ,Home,21-22-T1-2-PG
+Alma ,Orozco,Aunt,almaoroz935@yahoo.es (Current),35093,509-212-9888 ,Home,21-22-T1-2-PG
+Alma ,Orozco,Aunt,almaorozco388@yahoo.com (Current),35093,--,,21-22-T1-2-PG
+Elia ,Fuentes,Aunt,--,35093,509-380-2016 ,Mobile,21-22-T1-2-PG
+Angelica ,Gonzalez,Mother,pinedamaritza154@gmail.com (Current - Primary),35093,509-942-9400 ,Work,21-22-T1-2-PG
+Angelica ,Gonzalez,Mother,--,35093,509-572-8795 ,Work,21-22-T1-2-PG
+Angelica ,Gonzalez,Mother,--,35093,509-316-8936 ,Mobile,21-22-T1-2-PG
+Rosa ,Orozco,Mother,nenaboo9@yahoo.com (Current - Primary),34226,509-438-8826 ,Mobile,21-22-T1-2-PG
+Rosa ,Orozco,Mother,--,34226,509-547-2431 ,Home,21-22-T1-2-PG
+Marco ,Martinez,Father,--,34226,509-412-4346 ,Home,21-22-T1-2-PG
+Edith ,Rangel,Sister,--,34226,509-430-8047 ,Home,21-22-T1-2-PG
+Teresa ,Sanchez,Aunt,--,34226,509-528-7008 ,Home,21-22-T1-2-PG
+Miranda Diane ,Ms. Mccombs,Mother,hellogoodbyegirl@hotmail.com (Current - Primary),60256,509-551-0207 ,Mobile - Preferred,21-22-T1-2-PG
+Kirk ,Mr. Brodzinski,Father,--,60256,509-430-4263 ,Mobile - Preferred,21-22-T1-2-PG
+Natalie Ilene ,Mrs. Mccombs,Grandmother,--,60256,509-303-9508 ,Mobile - Preferred,21-22-T1-2-PG
+Diana Jean ,Ms. Mckeever,Other,--,60256,509-845-7287 ,Mobile - Preferred,21-22-T1-2-PG
+Charvella L ,Mrs. Mcgary,Mother,manymcgarys@yahoo.com (Current - Primary),26551,509-947-8171 ,Mobile,21-22-T1-2-PG
+Charvella L ,Mrs. Mcgary,Mother,--,26551,509-737-1377 ,Work - Preferred,21-22-T1-2-PG
+Al ,Mr. Mcgary,Father,manymcgarys@yahoo.com (Current),26551,509-987-8027 ,Mobile - Preferred,21-22-T1-2-PG
+Edmon ,Daniels,Babysitter,--,26551,509-547-9604 ,Home,21-22-T1-2-PG
+Hazel M ,Mrs. Daniels,Grandmother,manymcgarys@yahoo.com (Current - Primary),26551,509-547-9604 ,Home - Preferred,21-22-T1-2-PG
+Roberto ,Mr. Mendoza,Father,robert_mendoza_93@live.com (Current - Primary),29889,509-205-1877 ,Mobile - Preferred,21-22-T1-2-PG
+Roberto ,Mr. Mendoza,Father,lorena_mendoza24@yahoo.com (Additional),29889,--,,21-22-T1-2-PG
+Lorena ,Mendoza,Mother,lorena_mendoza24@yahoo.com (Current),29889,509-416-2415 ,Home,21-22-T1-2-PG
+Lorena ,Mendoza,Mother,--,29889,509-205-1877 ,Mobile,21-22-T1-2-PG
+Melanie ,Mendoza,Sister,robert_mendoza_93@live.com (Current - Primary),29889,509-416-2415 ,Mobile,21-22-T1-2-PG
+Brandi ,Nation,Mother,Brandi121802@hotmail.com (Current - Primary),34872,509-366-3235 ,Home,21-22-T1-2-PG
+Brandi ,Nation,Mother,--,34872,509-768-2441 ,Work,21-22-T1-2-PG
+Brandi ,Nation,Mother,--,34872,509-366-3188 ,Home,21-22-T1-2-PG
+Kyle ,Nation,Father,Hawkcity1@hotmail.com (Current - Primary),34872,509-366-3188 ,Home,21-22-T1-2-PG
+Kyle ,Nation,Father,hawkcity@hotmail.com (Current),34872,509-412-5345 ,Work,21-22-T1-2-PG
+Kyle ,Nation,Father,Brandi121802@hotmail.com (Additional),34872,--,,21-22-T1-2-PG
+Lonnie ,Haag,Grandfather,--,34872,509-768-6840 ,Home,21-22-T1-2-PG
+Rose ,Urbina,Other,--,34872,509-492-0683 ,Daytime,21-22-T1-2-PG
+Israel ,Navarrete,Father,--,33397,509-851-3666 ,Home,21-22-T1-2-PG
+Maura ,Cardoza,Mother,mauracardoza123@hotmail.com (Current - Primary),33397,509-212-4983 ,Home,21-22-T1-2-PG
+Maura ,Cardoza,Mother,joannaaa420@gmail.com (Current),33397,--,,21-22-T1-2-PG
+Joana ,Navarrete,Sister,--,33397,509-302-3145 ,Mobile,21-22-T1-2-PG
+Maria ,Dubon,Grandmother,--,33397,509-851-3666 ,Home,21-22-T1-2-PG
+Magaly ,Navarrete,Sister,--,33397,509-620-5059 ,Home,21-22-T1-2-PG
+Aurora ,Ortega,Mother,aurora538@yahoo.com (Current - Primary),56605,509-438-5727 ,Home,21-22-T1-2-PG
+Aurora ,Ortega,Mother,--,56605,509-736-5550 ,Work,21-22-T1-2-PG
+Jose ,Ortega,Father,jortega@palmerroofing.net (Current - Primary),56605,509-366-0890 ,Home,21-22-T1-2-PG
+Gina ,Ortega,Sister,--,56605,509-438-5751 ,Home,21-22-T1-2-PG
+Jose,Ortega,,--,56605,--,,21-22-T1-2-PG
+Brenda ,Rendon,Mother,brendalee1975@live.com (Current - Primary),34529,509-591-7484 ,Mobile - Preferred,21-22-T1-2-PG
+Alex ,Rangel,Babysitter,--,34529,509-607-5341 ,Home,21-22-T1-2-PG
+Alex ,Rangel,Babysitter,--,34529,509-591-7484 ,Home,21-22-T1-2-PG
+Anthony ,Millan,Brother,--,34529,509-607-7497 ,Home,21-22-T1-2-PG
+Natividad ,Peralta,Father,--,34529,509-312-9284 ,Mobile - Preferred,21-22-T1-2-PG
+Jacob ,Rendon,Brother,jdrendon@live.com (Current - Primary),34529,509-205-2249 ,Home,21-22-T1-2-PG
+Victoria ,Rendon,Sister,Vmmrendon@outlook.com (Current - Primary),34529,509-547-6848 ,Work,21-22-T1-2-PG
+Victoria ,Rendon,Sister,torres.victoria3@live.com (Current),34529,509-591-7116 ,Mobile,21-22-T1-2-PG
+Rendon ,Jacob,Brother,--,34529,509-205-2249 ,Other,21-22-T1-2-PG
+Kristina ,Mrs. Magana,Aunt,Krisamagana@aol.com (Current - Primary),34529,509-845-4427 ,Mobile - Preferred,21-22-T1-2-PG
+Yvonne Nicole ,Ms. Perez,Mother,ynikkifp@gmail.com (Current - Primary),25943,509-302-0231 ,Mobile - Preferred,21-22-T1-2-PG
+Josue ,Perez,Father,--,25943,509-316-1736 ,Home,21-22-T1-2-PG
+Josue ,Perez,Father,--,25943,509-851-8217 ,Home,21-22-T1-2-PG
+Linda ,Ms. Rodriguez,Aunt,rodlindayvonne@aol.com (Current - Primary),25943,509-851-9415 ,Mobile - Preferred,21-22-T1-2-PG
+Ursula Ann ,Ms. Perez,Aunt,perursu@aol.com (Current - Primary),25943,509-845-7633 ,Mobile - Preferred,21-22-T1-2-PG
+Jose ,Mr. Perez,Step Father,--,25943,541-310-9692 ,Mobile - Preferred,21-22-T1-2-PG
+Jose Antonio ,Perez,Grandfather,--,25943,509-531-7688 ,Mobile,21-22-T1-2-PG
+Jose . ,Perez,Emergency 1,--,25943,509-531-7688 ,Other,21-22-T1-2-PG
+Yvonne Nicole ,Perez,Mother,--,25943,--,,21-22-T1-2-PG
+Andy Sr. ,Mr. Ramirez,Father,--,25390,509-528-3157 ,Mobile - Preferred,21-22-T1-2-PG
+Alexander ,Ramirez,Other,--,25390,509-367-4366 ,Mobile,21-22-T1-2-PG
+Kevin Smith ,Mr. Barajas,Brother,--,25390,509-551-3441 ,Mobile - Preferred,21-22-T1-2-PG
+Kevin Smith ,Barajas,Emergency 1,--,25390,509-551-3441 ,Other,21-22-T1-2-PG
+Sarah ,Ms. Fitzpatrick,Mother,sarahlf1981@gmail.com (Current - Primary),26107,509-316-6617 ,Mobile - Preferred,21-22-T1-2-PG
+Sarah ,Ms. Fitzpatrick,Mother,--,26107,508-547-6448 ,Mobile,21-22-T1-2-PG
+Isabel ,Mrs. Reyna,Sister,--,26107,509-528-0297 ,Mobile - Preferred,21-22-T1-2-PG
+Holly ,Mrs. Dallaire,Aunt,--,26107,509-947-8803 ,Mobile - Preferred,21-22-T1-2-PG
+Anthony T ,Mr. Martin,Step Father,piplayer583@yahoo.com (Current - Primary),26107,509-378-9913 ,Mobile - Preferred,21-22-T1-2-PG
+Maria ,Chavez,Mother,kevin077@students.psd1.org (Current),32128,509-302-7938 ,Mobile,21-22-T1-2-PG
+Carolina ,Madrigal,Aunt,--,32128,509-492-7312 ,Home,21-22-T1-2-PG
+Francisca ,Chavez,Aunt,--,32128,509-438-7663 ,Mobile,21-22-T1-2-PG
+Rene ,Reyna,Father,--,32128,509-440-2617 ,Home,21-22-T1-2-PG
+Verdusco ,F,Other,--,32128,509-531-1287 ,Other,21-22-T1-2-PG
+Cindy ,Berg,Mother,--,43555,509-792-7813 ,Home,21-22-T1-2-PG
+Cassi ,Berg,Sister,--,43555,509-948-3904 ,Home,21-22-T1-2-PG
+Pedro ,Sanchez,Father,fazebeast509@gmail.com (Current),28850,509-492-7323 ,Home,21-22-T1-2-PG
+Hortencia ,Sanchez,Mother,--,28850,509-792-7865 ,Mobile - Preferred,21-22-T1-2-PG
+Maria ,Gomez,Aunt,--,28850,509-948-3388 ,Home,21-22-T1-2-PG
+Susana ,Sanchez,Sister,--,28850,509-430-0901 ,Home,21-22-T1-2-PG
+Victoria ,Sanchez,Aunt,--,28850,509-318-5252 ,Home,21-22-T1-2-PG
+Alma Landin ,Mrs. Cabrera,Mother,--,60068,805-298-0182 ,Mobile - Preferred,21-22-T1-2-PG
+Cynthia ,Ms. Chavez,Sister,--,60068,818-391-0845 ,Mobile - Preferred,21-22-T1-2-PG
+Julio Cesar ,Mr. Cabrera,Step Father,--,60068,509-873-4173 ,Mobile - Preferred,21-22-T1-2-PG
+Fabiola ,Landin,Aunt,fabiolalandin@hotmail.com (Current - Primary),60068,509-528-3749 ,Mobile - Preferred,21-22-T1-2-PG
+Alma,Cabrera,,--,60068,--,,21-22-T1-2-PG
+Teresa ,Mendez,Mother,teresamendez12@gmail.com (Current - Primary),35404,509-851-3405 ,Mobile,21-22-T1-2-PG
+Teresa ,Mendez,Mother,--,35404,509-851-7065 ,Home,21-22-T1-2-PG
+Emigdio ,Mendez,Father,--,35404,509-851-7065 ,Mobile,21-22-T1-2-PG
+Emigdio ,Mendez,Father,--,35404,509-539-5422 ,Home,21-22-T1-2-PG
+Cristian ,Mendez,Other,--,35404,509-792-0463 ,Home,21-22-T1-2-PG
+Vanessa ,Mendez,Other,--,35404,509-430-9252 ,Home,21-22-T1-2-PG
+Jorge ,Barragan,Father,eljaliskilloal100@gmail.com (Current - Primary),28903,509-792-2047 ,Mobile,21-22-T1-6-PG
+Yolanda ,Villalobos,Mother,--,28903,509-366-8411 ,Mobile,21-22-T1-6-PG
+Cinthia Yareli ,Beltran,Sister,titacbv@gmail.com (Current - Primary),28903,509-366-7934 ,Mobile - Preferred,21-22-T1-6-PG
+Iris ,Beltran,Sister,--,28903,509-302-6912 ,Home,21-22-T1-6-PG
+Cassandra ,Mrs. Camacho,Other,casscamacho95@gmail.com (Current),60116,509-439-9954 ,Mobile - Preferred,21-22-T1-3-PG
+Juan ,Mr. Camacho,Brother,manyhearts94@yahoo.com (Current - Primary),60116,509-439-7141 ,Mobile - Preferred,21-22-T1-3-PG
+Aiden ,Casperson,Father,enbytm2015@gmail.com (Current - Primary),54070,208-760-9570 ,Mobile,21-22-T1-3-PG
+Aiden ,Casperson,Father,--,54070,509-380-5067 ,Home,21-22-T1-3-PG
+Zoe ,Casperson,Mother,genderalchemy@gmail.com (Current - Primary),54070,509-380-5067 ,Home,21-22-T1-3-PG
+Zoe ,Casperson,Mother,--,54070,208-760-9569 ,Home,21-22-T1-3-PG
+Victoria ,Cook,Mother,torycook721@yahoo.com (Current - Primary),26352,509-380-4162 ,Mobile,21-22-T1-3-PG
+Bryan ,Cook,Father,torycook721@yahoo.com (Current - Primary),26352,509-521-8321 ,Home,21-22-T1-3-PG
+Jody ,Cook,Grandmother,--,26352,509-302-0691 ,Home,21-22-T1-3-PG
+Rick ,Cook,Other,--,26352,509-302-8386 ,Home,21-22-T1-3-PG
+Alisha ,Crawford,Mother,alisha.crawford@hotmail.com (Current - Primary),26541,509-430-0437 ,Mobile - Preferred,21-22-T1-3-PG
+Zachary ,Crawford,Father,alisha.crawford@hotmail.com (Current - Primary),26541,509-492-8496 ,Work,21-22-T1-3-PG
+Courtney ,George,Aunt,courtney223@hotmail.com (Current - Primary),26541,509-430-5520 ,Mobile - Preferred,21-22-T1-3-PG
+Andrea ,Edwards,Mother,annie_jacobs@hotmail.com (Current - Primary),31462,509-378-7555 ,Mobile,21-22-T1-3-PG
+Andrea ,Edwards,Mother,--,31462,509-220-7287 ,Mobile,21-22-T1-3-PG
+Kory ,Edwards,Father,annie_jacobs@hotmail.com (Current - Primary),31462,509-220-7287 ,Mobile,21-22-T1-3-PG
+Kory ,Edwards,Father,--,31462,509-378-7555 ,Home,21-22-T1-3-PG
+Jerry ,Edwards,Grandfather,--,31462,360-795-6200 ,Home,21-22-T1-3-PG
+Robin ,Jacobs,Grandmother,--,31462,509-951-4729 ,Home,21-22-T1-3-PG
+Edwards ,Jerry,Grandfather,--,31462,360-795-6200 ,Other,21-22-T1-3-PG
+J Carmen ,Garcia,Father,jcarmengarcia@hotmail.com (Current - Primary),31773,509-539-1868 ,Mobile,21-22-T1-3-PG
+J Carmen ,Garcia,Father,robertovieyra16@icloud.com (Current),31773,509-416-7810 ,Work,21-22-T1-3-PG
+J Carmen ,Garcia,Father,--,31773,509-545-3936 ,Home,21-22-T1-3-PG
+Julia ,Garcia,Mother,robertovieyra16@icloud.com (Current),31773,509-430-2356 ,Mobile,21-22-T1-3-PG
+Julia ,Garcia,Mother,--,31773,509-545-3936 ,Home,21-22-T1-3-PG
+Julia ,Garcia,Mother,--,31773,509-546-0850 ,Work,21-22-T1-3-PG
+Beatriz ,Avalos,Aunt,robertovieyra16@icloud.com (Current - Primary),31773,509-302-6453 ,Mobile,21-22-T1-3-PG
+Beatriz ,Avalos,Aunt,--,31773,509-792-5490 ,Mobile,21-22-T1-3-PG
+Beatriz ,Avalos,Aunt,--,31773,509-792-5872 ,Home,21-22-T1-3-PG
+Raul ,Segura,Friend,--,31773,509-547-7572 ,Home,21-22-T1-3-PG
+Mayra ,Garcia Avalos,Sister,bassoonmg545@gmail.com (Current - Primary),31773,509-430-5268 ,Mobile,21-22-T1-3-PG
+Xavier ,Hernandez,Father,--,26807,509-302-0282 ,Home,21-22-T1-3-PG
+Xavier ,Hernandez,Father,--,26807,509-845-1400 ,Work,21-22-T1-3-PG
+Nora ,Larios,Mother,Noralarios1@yahoo.com (Additional - Primary),26807,509-528-4069 ,Mobile - Preferred,21-22-T1-3-PG
+Nora ,Larios,Mother,norallarios1@yahoo.com (Current),26807,--,,21-22-T1-3-PG
+Raquel ,Huerta Godinez,Grandmother,--,26807,509-205-2584 ,Home,21-22-T1-3-PG
+Raquel ,Huerta Godinez,Grandmother,--,26807,509-543-6197 ,Home,21-22-T1-3-PG
+Maida ,Aparicio,Mother,--,36732,509-380-8980 ,Mobile - Preferred,21-22-T1-3-PG
+Ruben ,Hernandez,Father,--,36732,509-727-2214 ,Work,21-22-T1-3-PG
+Lupe ,Aparicio,Aunt,--,36732,509-346-3457 ,Home,21-22-T1-3-PG
+Cristobal ,Mr. Torres,Uncle,--,36732,509-205-2094 ,Mobile - Preferred,21-22-T1-3-PG
+Shawna ,Breedlove,Mother,sbreedlo@hotmail.com (Current - Primary),40841,509-792-6947 ,Home,21-22-T1-3-PG
+Shawna ,Breedlove,Mother,sbreedlo87@gmail.com (Current),40841,--,,21-22-T1-3-PG
+Jair ,Linares,Step Father,Jairlinares@gmail.com (Current - Primary),40841,509-792-5261 ,Home,21-22-T1-3-PG
+Travis ,Herndon,Father,Herndontravis@ymail.com (Current - Primary),40841,--,,21-22-T1-3-PG
+Tasha ,Garner,Step Mother,--,40841,509-440-2168 ,Home,21-22-T1-3-PG
+Jackie ,Lampman,Grandmother,--,40841,509-430-2483 ,Home,21-22-T1-3-PG
+Shawna,Breedlove,,--,40841,--,,21-22-T1-3-PG
+Betina ,Huels,Mother,AngelBetina@msn.com (Current - Primary),25678,509-308-1376 ,Mobile,21-22-T1-3-PG
+Jason ,Huels,Father,--,25678,509-308-1681 ,Home,21-22-T1-3-PG
+Jody ,Huels,Grandmother,--,25678,509-539-8736 ,Mobile,21-22-T1-3-PG
+Jody ,Huels,Grandmother,--,25678,509-547-9310 ,Home,21-22-T1-3-PG
+Alma ,Cardenas,Step Mother,--,46857,509-521-8414 ,Mobile - Preferred,21-22-T1-3-PG
+Arturo ,Loeza,Father,rilay46857@gmail.com (Current - Primary),46857,509-430-3217 ,Mobile,21-22-T1-3-PG
+Alfredo ,Cardenas,Grandfather,--,46857,509-521-9502 ,Home,21-22-T1-3-PG
+Jose ,Loeza,Grandfather,--,46857,--,,21-22-T1-3-PG
+Kiley Lyn ,Machado,Mother,--,60213,970-518-4879 ,Mobile - Preferred,21-22-T1-3-PG
+Scott Nicholas ,Machado,Father,--,60213,208-993-3448 ,Mobile - Preferred,21-22-T1-3-PG
+Patrick ,Machado,Grandfather,--,60213,805-710-2880 ,Mobile,21-22-T1-3-PG
+Barb ,Vanderhoef,Grandmother,--,60213,503-322-3801 ,Home - Preferred,21-22-T1-3-PG
+Iliana ,Melendez,Mother,--,26293,509-845-7937 ,Home,21-22-T1-3-PG
+Oscar ,Melendez,Father,oskar29@q.com (Current),26293,509-521-5761 ,Home,21-22-T1-3-PG
+Oscar ,Melendez,Father,--,26293,509-547-3301 ,Work,21-22-T1-3-PG
+Carmen ,Diaz,Aunt,--,26293,509-820-9242 ,Mobile - Preferred,21-22-T1-3-PG
+Lourdes ,Diaz,Aunt,--,26293,509-582-5450 ,Home,21-22-T1-3-PG
+Patricia ,Diaz,Other,--,26293,509-546-2617 ,Home,21-22-T1-3-PG
+Melissa ,Piceno,Mother,mpiceno@psd1.org (Current - Primary),26276,509-378-2318 ,Mobile,21-22-T1-3-PG
+Melissa ,Piceno,Mother,--,26276,509-543-6086 ,Work,21-22-T1-3-PG
+Alfredo ,Nunez,Sister,al.nunez@yahoo.com (Current - Primary),26276,509-727-2187 ,Work,21-22-T1-3-PG
+Kristy ,Piceno,Father,--,26276,509-412-0125 ,Home,21-22-T1-3-PG
+Karina ,Piceno,Sister,--,26276,509-385-3460 ,Home,21-22-T1-3-PG
+Diocelina ,Jimenez,Mother,diocelina1983@outlook.com (Current - Primary),26286,509-308-5697 ,Mobile,21-22-T1-3-PG
+Diocelina ,Jimenez,Mother,--,26286,509-792-8934 ,Home,21-22-T1-3-PG
+Diocelina ,Jimenez,Mother,--,26286,509-302-0359 ,Work,21-22-T1-3-PG
+Diocelina ,Jimenez,Mother,--,26286,509-416-3137 ,Mobile,21-22-T1-3-PG
+Juan ,Razo,Other,--,26286,509-282-0726 ,Mobile,21-22-T1-3-PG
+Humberto ,Ortiz,Father,Ortizhumberto0@gmail.com (Current),26286,509-308-5697 ,Home,21-22-T1-3-PG
+Humberto ,Ortiz,Father,diocelina1983@outlook.com (Current),26286,--,,21-22-T1-3-PG
+Violeta ,De La Cruz,Mother,--,41592,509-438-1999 ,Work,21-22-T1-3-PG
+Violeta ,De La Cruz,Mother,--,41592,509-302-0457 ,Home,21-22-T1-3-PG
+Cinthia ,De La Cruz,Sister,--,41592,509-318-0088 ,Home,21-22-T1-3-PG
+Cindy ,Sital,Mother,csital@nfsd.org (Current - Primary),31402,509-531-3875 ,Mobile,21-22-T1-3-PG
+Cindy ,Sital,Mother,--,31402,509-234-2021 ,Work,21-22-T1-3-PG
+Raul ,Sital,Father,rsital@psd1.org (Current - Primary),31402,509-543-6700 ,Work,21-22-T1-3-PG
+Raul ,Sital,Father,--,31402,509-544-6604 ,Home,21-22-T1-3-PG
+Raul ,Sital,Father,--,31402,509-727-6246 ,Mobile,21-22-T1-3-PG
+Raul Jr Jr. ,Sital,Brother,--,31402,509-492-8504 ,Home,21-22-T1-3-PG
+Mariko ,Gimmaka,Sister,marikogimmaka@gmail.com (Current - Primary),31402,509-430-8776 ,Mobile,21-22-T1-3-PG
+Mariko ,Gimmaka,Sister,--,31402,509-430-8876 ,Home,21-22-T1-3-PG
+Alfredo Fernandez ,Mr. Zavala,Father,fredizavala3@gmail.com (Current - Primary),45137,509-528-4456 ,Mobile - Preferred,21-22-T1-3-PG
+Gloria ,Ms. Trejo,Mother,gloriat142810@gmail.com (Current - Primary),45137,509-499-4395 ,Mobile - Preferred,21-22-T1-3-PG
+Kirk ,Bagley,Father,kirk.charith@gmail.com (Current - Primary),28756,509-727-3122 ,Mobile,21-22-T1-6-PG
+Kirk ,Bagley,Father,--,28756,509-547-1631 ,Work,21-22-T1-6-PG
+Kirk ,Bagley,Father,--,28756,509-544-6544 ,Home,21-22-T1-6-PG
+Jen ,Johnson,Friend,vwbabe3148@gmail.com (Current - Primary),28756,509-380-4278 ,Home,21-22-T1-6-PG
+Sarah Louise ,Mrs. Jones,Friend,princess3041@hotmail.com (Current - Primary),28756,509-845-4141 ,Mobile - Preferred,21-22-T1-6-PG
+Sarah Louise ,Mrs. Jones,Friend,sarahlou@gmail.com (Additional),28756,--,,21-22-T1-6-PG
+Juan ,Banuelos,Father,firstclassconstuction@gmail.com (Current - Primary),28601,509-430-2988 ,Mobile,21-22-T1-6-PG
+Alma Delia ,Perez,Mother,deliachavez579@gmail.com (Current),28601,509-851-8693 ,Home,21-22-T1-6-PG
+Alma Delia ,Perez,Mother,--,28601,509-542-8835 ,Home,21-22-T1-6-PG
+Angelina ,Chavez,Aunt,--,28601,509-545-0353 ,Home,21-22-T1-6-PG
+Angelina ,Perez,Grandmother,--,28601,509-545-0353 ,Other,21-22-T1-6-PG
+Angelina ,Perez,Grandmother,--,28601,509-851-1538 ,Home,21-22-T1-6-PG
+Chris ,Calixto,Father,yrkane@hotmail.com (Current - Primary),24557,509-544-0709 ,Home,21-22-T1-6-PG
+Chris ,Calixto,Father,--,24557,509-212-0003 ,Mobile,21-22-T1-6-PG
+Siobhan ,Calixto,Mother,siobbhan@hotmail.com (Current - Primary),24557,509-373-5519 ,Mobile,21-22-T1-6-PG
+B.A. ,Calixto,Grandfather,--,24557,509-946-7909 ,Home,21-22-T1-6-PG
+B.A. ,Calixto,Grandfather,--,24557,509-531-3314 ,Mobile,21-22-T1-6-PG
+Catherine ,Calixto,Grandmother,--,24557,509-946-7909 ,Home,21-22-T1-6-PG
+Catherine ,Calixto,Grandmother,--,24557,509-531-3313 ,Mobile,21-22-T1-6-PG
+Marie ,Sargent,Aunt,--,24557,509-734-2163 ,Home,21-22-T1-6-PG
+Marie ,Sargent,Aunt,--,24557,509-531-9863 ,Mobile,21-22-T1-6-PG
+,No Name: 30684975 (Emergency 2),,--,24557,509-946-7909 ,Other,21-22-T1-6-PG
+Maria Lourdes ,Chavez Garcia,Mother,lupita002@students.psd1.org (Current - Primary),28921,509-851-1932 ,Mobile,21-22-T1-6-PG
+Martin ,Cortes,Father,--,28921,509-460-3695 ,Mobile,21-22-T1-6-PG
+Lourdes ,Chavez,Sister,--,28921,509-460-2644 ,Home,21-22-T1-6-PG
+Maria L. ,Chavez Garcia,Mother,--,28921,--,,21-22-T1-6-PG
+Patrick ,Baker,Step Father,DodgeAries@hotmail.com (Current - Primary),19432,509-308-6675 ,Home,21-22-T1-6-PG
+Patrick ,Baker,Step Father,HeyJenne@hotmail.com (Current),19432,425-830-1822 ,Home,21-22-T1-6-PG
+Jennifer ,Baker,Mother,HeyJenne@hotmail.com (Current - Primary),19432,509-308-6675 ,Home,21-22-T1-6-PG
+Cosette ,Baker,Grandmother,--,19432,509-628-9044 ,Home,21-22-T1-6-PG
+Susan ,Watkins,Aunt,--,19432,509-531-7960 ,Home,21-22-T1-6-PG
+Jessica ,Rosales,Mother,--,29783,509-567-1642 ,Mobile - Preferred,21-22-T1-6-PG
+Victor ,Rosales,Father,--,29783,509-378-9517 ,Mobile,21-22-T1-6-PG
+Rafaela ,Valencia,Other,--,29783,509-222-0881 ,Home,21-22-T1-6-PG
+Rafaela ,Valencia,Other,--,29783,509-521-3492 ,Mobile,21-22-T1-6-PG
+Andrey ,Mr. Gadomskiy,Father,andreygad@yahoo.com (Current - Primary),49397,509-430-2422 ,Mobile - Preferred,21-22-T1-6-PG
+Lyubov ,Mrs. Gadomskiy,Mother,lyubovgad@yahoo.com (Current),49397,509-430-8297 ,Mobile - Preferred,21-22-T1-6-PG
+Oleg ,Gadomskiy,Uncle,--,49397,509-521-9693 ,Home,21-22-T1-6-PG
+Sergey ,Gadomskiy,Uncle,sg10000000000@yahoo.com (Current - Primary),49397,509-430-2423 ,Mobile,21-22-T1-6-PG
+Sergey ,Gadomskiy,Uncle,--,49397,509-542-9607 ,Home,21-22-T1-6-PG
+Tatyana ,Scott,Aunt,--,49397,509-851-2006 ,Home,21-22-T1-6-PG
+Tiffani ,Harker,Mother,tiffani_harker@hotmail.com (Current - Primary),11386,509-851-8233 ,Home,21-22-T1-6-PG
+Spencer ,Harker,Father,spencer_harker@hotmail.com (Current),11386,509-851-8222 ,Home,21-22-T1-6-PG
+Wileen ,Harker,Grandmother,--,11386,509-316-1612 ,Home,21-22-T1-6-PG
+Mike ,Harker,Grandfather,--,11386,509-316-1613 ,Home,21-22-T1-6-PG
+Mike ,Harker,Grandfather,--,11386,509-769-8009 ,Home,21-22-T1-6-PG
+Mike ,Harker,Grandfather,--,11386,509-316-1612 ,Home,21-22-T1-6-PG
+Lindsay ,Bates,Friend,bates.lindsay@gmail.com (Current),11386,509-430-8401 ,Mobile,21-22-T1-6-PG
+Lindsay ,Bates,Friend,lbates@psd1.org (Additional),11386,509-546-2688 ,Work,21-22-T1-6-PG
+Susi ,Daw,Friend,--,11386,509-910-1908 ,Home,21-22-T1-6-PG
+Alondra ,Herrera Reyes,Mother,--,27025,509-521-3187 ,Mobile,21-22-T1-6-PG
+Alondra ,Herrera Reyes,Mother,--,27025,509-855-1522 ,Work,21-22-T1-6-PG
+Jesus ,Reyes,Uncle,--,27025,509-318-0167 ,Home,21-22-T1-6-PG
+Feliciano ,Herrera,Father,--,27025,509-855-1522 ,Home,21-22-T1-6-PG
+Feliciano ,Herrera,Father,--,27025,509-521-2187 ,Work,21-22-T1-6-PG
+Feliciano ,Herrera,Father,--,27025,509-521-3187 ,Work,21-22-T1-6-PG
+Yesenia ,Mrs. Hernandez,Other,yc_larios@yahoo.com (Current - Primary),36122,509-440-1445 ,Mobile - Preferred,21-22-T1-6-PG
+Christopher ,Kerr,Other,ckerr.2018@gmail.com (Current - Primary),36122,509-792-7393 ,Work,21-22-T1-6-PG
+Christopher ,Kerr,Other,luv4wheelinhernandez@yahoo.com (Current),36122,--,,21-22-T1-6-PG
+Blanca ,Ms. Larios,Aunt,--,36122,509-792-4443 ,Mobile - Preferred,21-22-T1-6-PG
+Sandra Yvette ,Mrs. Kerr,Grandmother,skerrbdogfan@gmail.com (Current - Primary),36122,509-947-4655 ,Mobile - Preferred,21-22-T1-6-PG
+Jodi ,McDonald,Mother,mickandjodi@gmail.com (Current - Primary),26049,509-380-4360 ,Work,21-22-T1-6-PG
+Mick ,Mcdonald,Father,mickandjodi@gmail.com (Current - Primary),26049,509-380-4360 ,Home,21-22-T1-6-PG
+Mick ,Mcdonald,Father,--,26049,509-492-1767 ,Work,21-22-T1-6-PG
+Davis ,McDonald,Brother,--,26049,509-539-2227 ,Other,21-22-T1-6-PG
+Kyle ,McDonald,Brother,--,26049,509-539-4655 ,Other,21-22-T1-6-PG
+Brenda ,Wiberg,Grandmother,--,26049,509-582-6878 ,Home,21-22-T1-6-PG
+Tiffani ,Harker,Brother,tiffani_harker@hotmail.com (Current - Primary),26049,509-851-8233 ,Home,21-22-T1-6-PG
+Jessica ,Christensen,Friend,gufigirl1@gmail.com (Current - Primary),26049,509-205-0214 ,Mobile - Preferred,21-22-T1-6-PG
+Kindra ,Whitemarsh,Friend,Kindra1013@gmail.com (Current - Primary),26049,509-205-4430 ,Mobile - Preferred,21-22-T1-6-PG
+Alida ,Alvarez,Mother,alvarez333@icloud.com (Current - Primary),28305,509-528-3952 ,Home,21-22-T1-6-PG
+Jose ,Meraz,Brother,--,28305,509-212-7157 ,Mobile,21-22-T1-6-PG
+Maria ,Meraz,Aunt,lolameraz_05@yahoo.com (Current - Primary),28305,509-851-4758 ,Home - Preferred,21-22-T1-6-PG
+Lorena ,Valencia,Aunt,--,28305,509-412-0264 ,Mobile,21-22-T1-6-PG
+Maria ,Alvarez Meraz,Babysitter,--,28305,509-222-0743 ,Home,21-22-T1-6-PG
+Maria ,Alvarez Meraz,Babysitter,--,28305,509-528-3952 ,Home,21-22-T1-6-PG
+Leticia ,Jimenez,Mother,--,29990,509-302-3335 ,Mobile - Preferred,21-22-T1-6-PG
+Jose ,Luis Valencia,Brother,--,29990,509-792-2311 ,Home,21-22-T1-6-PG
+Socorro ,Romero,Aunt,--,29990,509-727-1485 ,Home,21-22-T1-6-PG
+Socorro ,Romero,Aunt,--,29990,509-222-4620 ,Mobile - Preferred,21-22-T1-6-PG
+Socorro ,Romero,Aunt,--,29990,509-222-0300 ,Mobile - Preferred,21-22-T1-6-PG
+Andy Sr. ,Mr. Ramirez,Father,--,25390,509-528-3157 ,Mobile - Preferred,21-22-T1-6-PG
+Alexander ,Ramirez,Other,--,25390,509-367-4366 ,Mobile,21-22-T1-6-PG
+Kevin Smith ,Mr. Barajas,Brother,--,25390,509-551-3441 ,Mobile - Preferred,21-22-T1-6-PG
+Kevin Smith ,Barajas,Emergency 1,--,25390,509-551-3441 ,Other,21-22-T1-6-PG
+Lucero ,Ramirez,Mother,luceror81@hotmail.com (Current - Primary),26208,509-628-2843 ,Work - Preferred,21-22-T1-6-PG
+Lucero ,Ramirez,Mother,--,26208,509-521-6393 ,Mobile,21-22-T1-6-PG
+Pedro ,Ramirez,Father,--,26208,509-792-2980 ,Home,21-22-T1-6-PG
+Alejandra ,Cardoza Hernandez,Aunt,--,26208,509-378-0359 ,Home,21-22-T1-6-PG
+Bertha ,Hernandez,Grandmother,--,26208,509-820-9777 ,Home,21-22-T1-6-PG
+Bertha ,Hernandez,Grandmother,--,26208,509-406-3400 ,Mobile,21-22-T1-6-PG
+Blanca ,Ramirez,Aunt,blancalr7136@gmail.com (Current - Primary),26208,509-572-7400 ,Home,21-22-T1-6-PG
+Blanca ,Ramirez,Aunt,pinkroses.br@gmail.com (Current),26208,--,,21-22-T1-6-PG
+Arkady ,Reutov,Father,lydiarkd@hotmail.com (Current - Primary),27168,509-430-8837 ,Home,21-22-T1-6-PG
+Arkady ,Reutov,Father,rkdstudio@hotmail.com (Additional),27168,503-430-8837 ,Mobile,21-22-T1-6-PG
+Arkady ,Reutov,Father,--,27168,509-412-3085 ,Home,21-22-T1-6-PG
+Lydia ,Reutov,Mother,lydiarkd@hotmail.com (Current),27168,509-222-8304 ,Home,21-22-T1-6-PG
+Lydia ,Reutov,Mother,--,27168,509-412-3085 ,Home,21-22-T1-6-PG
+Vera Marina ,Stepanov,Babysitter,vera_step17@outlook.com (Current - Primary),27168,509-212-2041 ,Home,21-22-T1-6-PG
+Vera Marina ,Stepanov,Babysitter,--,27168,509-544-9621 ,Home,21-22-T1-6-PG
+Konstantin ,Ryadinskiy,Other,--,27168,509-366-0814 ,Home,21-22-T1-6-PG
+Valentina ,Zhuk,Other,valzhuk26@hotmail.com (Current - Primary),27168,509-578-1381 ,Home,21-22-T1-6-PG
+Valentina ,Zhuk,Other,--,27168,509-554-6865 ,Home,21-22-T1-6-PG
+Esmeralda ,Mrs. Gonzalez,Mother,esmeraldagonzalez82@hotmail.com (Current - Primary),29873,509-591-2886 ,Mobile - Preferred,21-22-T1-6-PG
+Basilisa ,Mrs. Sump,Grandmother,--,29873,509-440-0018 ,Work - Preferred,21-22-T1-6-PG
+Janette ,Mrs. Arechiga,Aunt,--,29873,509-378-5659 ,Home - Preferred,21-22-T1-6-PG
+Luis ,Mr. Gonzalez,Step Father,--,29873,--,,21-22-T1-6-PG
+Guadalupe ,Chavez,Other,chavezguadalupe29@yahoo.com (Current - Primary),33626,509-302-4220 ,Mobile,21-22-T1-6-PG
+Guadalupe ,Chavez,Other,--,33626,509-316-4517 ,Home,21-22-T1-6-PG
+Barbara 'Bobbee' ,Cushing,Mother,bbplus3@hotmail.com (Current - Primary),43619,509-551-3356 ,Mobile,21-22-T1-6-PG
+Barbara 'Bobbee' ,Cushing,Mother,--,43619,509-736-0423 ,Work,21-22-T1-6-PG
+Stefan ,Valcich,Father,--,43619,509-412-2990 ,Home,21-22-T1-6-PG
+Brandon ,Cushing,Step Father,bbplus3@hotmail.com (Current - Primary),43619,509-430-0757 ,Home,21-22-T1-6-PG
+Donelle ,Cushing,Grandmother,--,43619,509-582-2956 ,Home,21-22-T1-6-PG
+Donelle ,Cushing,Grandmother,--,43619,509-551-3864 ,Home,21-22-T1-6-PG
