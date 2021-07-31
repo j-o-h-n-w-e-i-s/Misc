@@ -53,6 +53,8 @@ VarPowerSchoolProfile = "Default"
 :*:ofchrs::https://calendly.com/jweisenfeld/ofchrs
 :*:jwt::jweisenfeldtest@students.psd1.org
 :*:pjwt::Elasticity
+:*:..blog::poru040yunu@post.wordpress.com
+:*:..wpfaq::http://tiny.cc/wpfaq
 :*:.t1.1st::section_171725@psd1.org
 :*:.t1.2nd::Section_1734340707@psd1.org
 :*:.t1.5th::Section_1717271425@psd1.org;c7705af5.psd1.org@amer.teams.ms
