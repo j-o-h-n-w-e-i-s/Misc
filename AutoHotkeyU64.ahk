@@ -507,18 +507,15 @@ return
 return
 
 ;ASCII 49 1
-;^!1::Run chrome.exe http://tiny.cc/2021t11st --new-window
-;^!1::Run chrome.exe http://tiny.cc/2021t21st --new-window
-;2021 Trimester 3 Roll Tool
 ^!1::
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120&frn=003171730&foo=1A&distance=Miguel.Diego.Charles --new-window --profile-directory=%VarPowerSchoolProfile%
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?foo=1B1B1B1B1B1B1B1B1B1B1B&sectionId=184121&frn=003171730&foo=1B&distance=Josette.Abigail.Mayra --new-MainWindow 
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1B1B1B1B1B1B1B1B1B&sectionId=184121#classtoolsmode --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1A1A1A1A1A1A1A1A1A&sectionId=184120#classtoolsmode --new-MainWindow
-;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=1A1A1A1A1A1A1A1A1A1A1A1A1A1A&sectionid=184120&frn=003171730&att_period=3&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6273 --new-MainWindow
-;Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?foo=1B1B1B1B1B1B1B1B1B1B1B1B1B1B&sectionid=184121&frn=003171730&att_period=3&att_date=%A_MM%/%A_DD%/2021&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&ATT_Source_Code=Teacher&Period_ID=6273 --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=1A1A1A1A1A1A1A1A1A1A1A1A1A1A&sectionId=171730 --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?foo=1B1B1B1B1B1B1B1B1B1B1B1B1B1B&sectionId=171731 --new-MainWindow
+; Multi-Day Attendance Recording
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215007&frn=003202617 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Seating Chart
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215007#classtoolsmode --new-MainWindow
+; PowerTeacherPro
+Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=202617 --new-MainWindow
+; Student Info
+Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215007&frn=003202617 --new-MainWindow
 return
 
 ;ASCII 50 2
@@ -940,11 +937,13 @@ return
 ^!v::
 if (A_ComputerName = VarHomeComputerName)
 {
-    Run explorer.exe "D:\Video"
+    Run explorer.exe "C:\users\johnw\videos" ;"D:\Video"
+    Run chrome.exe https://web.microsoftstream.com/upload --new-window --profile-directory=%VarProfileDirectory%
 } 
 else if (A_ComputerName = VarWorkComputerName)
 {
     Run explorer.exe "%UserProf%\Videos"
+    Run chrome.exe https://web.microsoftstream.com/upload --new-window --profile-directory=%VarProfileDirectory%
 }
 return
 
@@ -965,7 +964,7 @@ return
 ^!y::
 if (A_ComputerName = VarHomeComputerName)
     {
-        Run "C:\Users\johnw\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+        Run "C:\Program Files\Screencast-O-Matic\v2_JRE14\Screencast-O-Matic.exe" ;"C:\Users\johnw\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
     }
 Else if (A_ComputerName = VarWorkComputerName)
     {
