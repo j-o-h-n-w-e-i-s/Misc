@@ -1047,34 +1047,60 @@ return
 ^!F1::Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window --profile-directory=%VarProfileDirectory%
 return
 
+^!+F1::
+Msgbox, CTRL+ALT+SHIFT+F1 is not defined
+
 ;2021 T2 2nd Period was PHYS 112 this is a Channel
 ;^!F2::Run chrome.exe https://web.microsoftstream.com/channel/08679eb0-1f93-41c5-86ae-a81fb7cf0879 --new-window
 ;2021 T3 2nd Period was NANO this is a Channel
 ^!F2::Run chrome.exe https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e --new-window --profile-directory=%VarProfileDirectory%
 return
 
+^!+F2::
+Msgbox, CTRL+ALT+SHIFT+F2 is not defined
+
 ;20201 T2 5th Period was MOS 1 and MOS 2 this is a channel link
 ^!F3::Run chrome.exe https://web.microsoftstream.com/channel/683c442e-13be-4066-82cc-4e4661fd9011 --new-window --profile-directory=%VarProfileDirectory%
 return
 
+^!+F3::
+Msgbox, CTRL+ALT+SHIFT+F3 is not defined
+
 ;2021 T2 6th Period was Accelerated Physics this is a Channel
 ^!F4::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory=%VarProfileDirectory%
 return
+
+^!+F4::
+Msgbox, CTRL+ALT+SHIFT+F4 is not defined
 
 ;2021 T1 1st Period was Kinematics this was a Group Channel
 ^!F5::Run chrome.exe https://web.microsoftstream.com/channel/4cf6dea8-1d63-4784-8025-1e1bf7a3fdad  --new-window --profile-directory=%VarProfileDirectory%
 return
 ;2021 T1 2nd Period was Accelerated Physics (this is a channel)
 
+^!+F5::
+Msgbox, CTRL+ALT+SHIFT+F5 is not defined
+
 ^!F6::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory=%VarProfileDirectory%
 return
 ;2021 T1 5th Period was PHYS 111
+
+^!+F6::
+Msgbox, CTRL+ALT+SHIFT+F6 is not defined
 
 ^!F7::Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab  --new-window --profile-directory=%VarProfileDirectory%
 return
 ;2021 T1 6th Period was Astronomy
 
+^!+F7::
+Msgbox, CTRL+ALT+SHIFT+F7 is not defined
+
 ^!F8::Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window --profile-directory=%VarProfileDirectory%
+return
+
+^!+F8::
+; go to SEMPIX on the web 
+Run chrome.exe https://drive.google.com/drive/folders/1eA7HZ_UhbaT72wr6E3TRT__0F7Q9iYVl --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
 ^!F9::Run onenote-cmd://
