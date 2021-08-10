@@ -1049,6 +1049,7 @@ return
 
 ^!+F1::
 Msgbox, CTRL+ALT+SHIFT+F1 is not defined
+return
 
 ;2021 T2 2nd Period was PHYS 112 this is a Channel
 ;^!F2::Run chrome.exe https://web.microsoftstream.com/channel/08679eb0-1f93-41c5-86ae-a81fb7cf0879 --new-window
@@ -1058,6 +1059,7 @@ return
 
 ^!+F2::
 Msgbox, CTRL+ALT+SHIFT+F2 is not defined
+return
 
 ;20201 T2 5th Period was MOS 1 and MOS 2 this is a channel link
 ^!F3::Run chrome.exe https://web.microsoftstream.com/channel/683c442e-13be-4066-82cc-4e4661fd9011 --new-window --profile-directory=%VarProfileDirectory%
@@ -1065,6 +1067,7 @@ return
 
 ^!+F3::
 Msgbox, CTRL+ALT+SHIFT+F3 is not defined
+return
 
 ;2021 T2 6th Period was Accelerated Physics this is a Channel
 ^!F4::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory=%VarProfileDirectory%
@@ -1072,6 +1075,7 @@ return
 
 ^!+F4::
 Msgbox, CTRL+ALT+SHIFT+F4 is not defined
+return
 
 ;2021 T1 1st Period was Kinematics this was a Group Channel
 ^!F5::Run chrome.exe https://web.microsoftstream.com/channel/4cf6dea8-1d63-4784-8025-1e1bf7a3fdad  --new-window --profile-directory=%VarProfileDirectory%
@@ -1080,6 +1084,7 @@ return
 
 ^!+F5::
 Msgbox, CTRL+ALT+SHIFT+F5 is not defined
+return
 
 ^!F6::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory=%VarProfileDirectory%
 return
@@ -1087,6 +1092,7 @@ return
 
 ^!+F6::
 Msgbox, CTRL+ALT+SHIFT+F6 is not defined
+return
 
 ^!F7::Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab  --new-window --profile-directory=%VarProfileDirectory%
 return
@@ -1094,6 +1100,7 @@ return
 
 ^!+F7::
 Msgbox, CTRL+ALT+SHIFT+F7 is not defined
+return
 
 ^!F8::Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window --profile-directory=%VarProfileDirectory%
 return
