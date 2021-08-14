@@ -21,3 +21,5 @@ Write-Host "PHS-Classified"
 Get-MsolGroupMember -All -GroupObjectId b56df296-66c4-4d53-84f9-df8874745a81 | Export-Csv .\PHS-Classified@psd1.org.csv
 Write-Host "PHS_Powerschool_Grp"
 Get-MsolGroupMember -All -GroupObjectId e13bc58b-bbc5-4718-8874-4f21fd98a044 | Export-Csv .\PHS_Powerschool_GRP@psd1.org.csv
+Write-Host "PHS-CertSenders"
+Get-MsolGroupMember -All -GroupObjectId 73a922e6-6a39-4686-a265-7dffb49f2472 | Export-Csv .\PHS-CertSenders@psd1.org.csv
