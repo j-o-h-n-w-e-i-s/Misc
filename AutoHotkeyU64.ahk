@@ -6,6 +6,7 @@ VarWorkingDir = %A_ScriptDir%
 VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
 VarWorkComputerName := "WEISENFELDZ240"
 VarHomeComputerName := "DESKTOP-49MKQTR"
+VarWorkLaptopName := "TP213958"
 VarHomeJohnDotProfileName := "Profile 2" ;this is the chrome profile for john.weisenfeld@gmail.com on that computer
 ;VarHomeComputerName := "DESKTOP-H9GCS6A" ;This was the the Alienware A51
 EnvGet, UserProf, USERPROFILE
@@ -26,6 +27,12 @@ else if (VarComputerName = VarWorkComputerName)
 VarProfileDirectory = "Profile 2"
 VarPowerSchoolProfile = "Default"
 VarPersonalGmailProfile = "Profile 1"    
+}
+else if (VarComputerName = VarWorkLaptopName)
+{
+VarProfileDirectory = "Default"
+VarPowerSchoolProfile = "Profile 1"
+VarPersonalGmailProfile = "Profile 2"    
 }
 else
 {
@@ -246,23 +253,7 @@ return
 
 ;ASCII 33 !
 ^!!::
-if (A_ComputerName = VarHomeComputerName)
-{
-    ;Msgbox, %A_ComputerName%
-    ;Work is PHTL323004136B
-    ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://www.gmetrix.net --new-window --profile-directory=%VarProfileDirectory%
-}
-Else if (A_ComputerName = VarWorkComputerName)
-{
-    ;assuming profile on work computer for john.weisenfeld@gmail.com is "Profile 8" if not then change this
-    ;find the profile using chrome://version
-    Run chrome.exe https://www.gmetrix.net --new-window --profile-directory=%VarProfileDirectory%
-}
-Else 
-{
-Msgbox, "I don't know this computer"
-}
+Run chrome.exe https://www.gmetrix.net --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 34 "
@@ -961,13 +952,17 @@ return
 ;ASCII 121 y
 ^!y::
 if (A_ComputerName = VarHomeComputerName)
-    {
-        Run "C:\Program Files\Screencast-O-Matic\v2_JRE14\Screencast-O-Matic.exe" ;"C:\Users\johnw\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
-    }
+{
+    Run "C:\Program Files\Screencast-O-Matic\v2_JRE14\Screencast-O-Matic.exe" ;"C:\Users\johnw\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+}
 Else if (A_ComputerName = VarWorkComputerName)
-    {
-        Run "C:\Program Files (x86)\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
-    }
+{
+    Run "C:\Program Files (x86)\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+}
+Else if (A_ComputerName = VarWorkLaptopName)
+{
+    Run "C:\Users\jweisenfeld\AppData\Local\Screencast-O-Matic\v2_JRE14\Screencast-O-Matic.exe"
+}
 Else 
     {
         Msgbox, "I don't know this computer"
