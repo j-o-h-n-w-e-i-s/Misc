@@ -999,6 +999,11 @@ Else if (A_ComputerName = VarWorkComputerName)
 Run msedge.exe https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM3ZmYAZS04YWZjLWRkADFkLTAwAi0wMAoAEABw0NSrjGipR7g/OA1LmukB --new-window --profile-directory="Profile 1"
 ;johnweis@live.com is Profile 1
 }
+Else if (A_ComputerName = VarWorkLaptopName)
+{
+Run msedge.exe https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM3ZmYAZS04YWZjLWRkADFkLTAwAi0wMAoAEABw0NSrjGipR7g/OA1LmukB --new-window --profile-directory="Profile 1"
+;johnweis@live.com is Profile 1
+}
 Else 
 {
 Msgbox, "I don't know this computer"
