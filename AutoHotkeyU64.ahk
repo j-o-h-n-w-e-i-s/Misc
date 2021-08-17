@@ -476,6 +476,12 @@ Else if (A_ComputerName = VarWorkComputerName)
     Run chrome.exe https://www.facebook.com --new-MainWindow
     Run chrome.exe https://www.twitter.com --new-MainWindow
 }
+Else if (A_ComputerName = VarWorkLaptopName)
+{
+    ;find the profile using chrome://version
+    Run chrome.exe https://www.nimble.com --new-window --profile-directory=%VarPersonalGmailProfile%
+    Run chrome.exe https://www.twitter.com --new-MainWindow
+}
 Else 
 {
 Msgbox, "I don't know this computer"
