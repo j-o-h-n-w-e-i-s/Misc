@@ -213,7 +213,14 @@ return
 ;return
 
 ;^!CAPSLOCK:: Msgbox CTRL+ALT+CAPSLOCK is unused
-^!CAPSLOCK::Run "AutoHotkeyU64.ahk"
+^!CAPSLOCK::
+if (A_ComputerName = VarWorkLaptopName)
+    {
+        Run "C:\Users\jweisenfeld\Documents\GitHub\Misc\AutoHotkeyU64.exe"  
+    }
+else 
+Msgbox No special command for this computer name. Running AutohotkeyU64.ahk
+Run "AutoHotkeyU64.ahk"
 return
 
 ;^!LWIN:: Msgbox CTRL+ALT+LWIN is unused
@@ -763,6 +770,11 @@ else if (A_ComputerName = VarWorkComputerName)
     {
         Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
         Run explorer.exe "C:\Users\jweisenfeld.WEISENFELDZ240\Documents\GitHub\Misc"  
+    }
+else if (A_ComputerName = VarWorkLaptopName )
+    {
+        Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
+        Run explorer.exe "C:\Users\jweisenfeld\Documents\GitHub\Misc"  
     }
 else 
     {
