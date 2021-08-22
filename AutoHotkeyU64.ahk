@@ -61,6 +61,44 @@ VarPowerSchoolProfile = "Default"
 :*:jwt::jweisenfeldtest@students.psd1.org
 :*:pjwt::Elasticity
 :*:..blog::poru040yunu@post.wordpress.com
+:*:..golb::
+(
+[category .1a, .1b, .1c, .1d, .1e, .1f, .1e, .1f, .1g, .2a, .2b, .2c, .3a, .3b, .H1, .H2, .H3, .H4, .H5, .O1, .O2, .P1, .P2, .P3, .P4, E1, E2, E3, PT1, PT2, PT3]
+
+.1a using instructional strategies 
+.1b using assessment strategies 
+.1c appropriate classroom managment 
+.1d challenging curriculum 
+.1e cultural sensitivity 
+.1f integrating technology 
+.1g informing-involving-collaborating
+.2a feedback and reflection
+.2b assess and plan professional growth
+.2c remaining current
+.3a advocating for student needs
+.3b participating in improvement
+.H1 Honor student diversity and development  
+.H2 Honor student access to content material  
+.H3 Honor the classroom/school community as a milieu for learning  
+.H4 Honor family/community involvement in the learning process  
+.H5 Honor student potential for roles in the greater society  
+.O1 Offer an organized curriculum aligned to standards and outcomes  
+.O2 Offer appropriate challenge in the content area  
+.P1 Practice intentional inquiry and planning for instruction  
+.P2 Practice differentiated instruction  
+.P3 Practice standards-based assessment  
+.P4 Practice the integration of appropriate technology with instruction  
+E1 Exemplify professionally-informed, growth-centered practice"  
+E2 Exemplify collaboration within the school  
+E3 Exemplify an understanding of professional responsibilities and policies  
+PT1 Professional Growth and Contributions  
+PT2 Building a Learning Community  
+PT3 Curriculum, Instruction and Assessment
+
+[tags AllThingsConsidered,Assessment,Associations,AuthenticApplications,Awards,books,bphs,CCSS-Math,classroom,management,EDMA6357,EDSP6644,EDU6120,EDU6130,EDU6132,EDU6133,EDU6139,EDU6170,EDU6171,EDU6172,EDU6526,EDU6918,EDU6978,EDU6989,FHS,games,hbphs,Humor,ICanTeach,Internship,Jobs,Jokes,KeyIdeaIdentification,L1,L2,L3,L4,Learning,From,Games,LearningIllustrated,MasterTeachers,Math,Mathematics,microsoft,OneNote,OSPI,P1,P2,P3,PAE2015,Physics,PhysTEC/Noyce,POGIL,ReadMe,Reflection,Resources,S1,S2,S3,Salaries,Science,SearchForMeaning,Simulation,Standards,Statistics,STEM,T1,T2,T3,T4,Taxes,Teaching,TeachingPhysics,technology,WapatoHS,Weekly-Reflect,WFS]
+
+[end]
+)
 :*:..wpfaq::http://tiny.cc/wpfaq
 :*:.t1.1st::section_171725@psd1.org
 :*:.t1.2nd::Section_1734340707@psd1.org
