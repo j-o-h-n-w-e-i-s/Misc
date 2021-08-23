@@ -264,7 +264,11 @@ Run chrome.exe https://www.gmetrix.net --new-window --profile-directory=%VarProf
 return
 
 ;ASCII 34 "
-^!"::Msgbox CTRL+ALT+quote is UNUSED
+;^!"::Msgbox CTRL+ALT+quote is UNUSED
+^!"::
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ERM5yIHF4yBNp4qvqypCLIwB1KPqh93-AitDJM5KjE-r0A?e=SppxBv --new-window --profile-directory=%VarProfileDirectory%
+return
+
 
 ;ASCII 35 #
 ;Emergency Sub Plan Document
