@@ -302,7 +302,11 @@ Run chrome.exe https://www.gmetrix.net --new-window --profile-directory=%VarProf
 return
 
 ;ASCII 34 "
-^!"::Msgbox CTRL+ALT+quote is UNUSED
+;^!"::Msgbox CTRL+ALT+quote is UNUSED
+^!"::
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ERM5yIHF4yBNp4qvqypCLIwB1KPqh93-AitDJM5KjE-r0A?e=SppxBv --new-window --profile-directory=%VarProfileDirectory%
+return
+
 
 ;ASCII 35 #
 ;Emergency Sub Plan Document
@@ -647,9 +651,8 @@ return
 ;return
 
 ;ASCII 59 ;
-;^!;::Msgbox CTRL+ALT+; is UNUSED
 ^!;::
-Run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/phssci/Ef8hb4N85jNNmnYylAEGJ-EB5jqOJr1mYPF4blUputj1zA?e=pLlfb1 --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/phssci/Ef8hb4N85jNNmnYylAEGJ-EB5jqOJr1mYPF4blUputj1zA?e=PETtBf --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 60 <
@@ -1066,6 +1069,11 @@ Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-dire
 ;john_wfeld@msn.com is Profile 1
 }
 Else if (A_ComputerName = VarWorkComputerName)
+{
+Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
+;john_wfeld@msn.com is Profile 1
+}
+Else if (A_ComputerName = VarWorkLaptopName)
 {
 Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
 ;john_wfeld@msn.com is Profile 1
