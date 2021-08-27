@@ -1225,801 +1225,801 @@ Return
 ;^!)::Run chrome.exe https://teams.microsoft.com/l/channel/19%3a1a51dce0b69447b89d921b71e7c0a3a1%40thread.tacv2/General?groupId=95d5f52f-b85d-4232-9914-604d02f739e5&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d
 
 ;Usernames and Passwords
-:*:abigail287::abigail287@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:abigail803::abigail803@students.psd1.org  ;my 2021 T3 classes 
-:*:abraham443::abraham443@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:adan194::adan194@students.psd1.org  ;20-21 t2 accelerated 
-:*:adrian366::adrian366@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:afton144::afton144@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 6th Period 
-:*:alex006::alex006@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 3rd Period 
-:*:alex222::alex222@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 6th Period 
-:*:alex835::alex835@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:alexander027::alexander027@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS  MOS, 21-22,T1, 2nd Period  Waves, 21-22, T1, 6th Period
-:*:alexander404::alexander404@students.psd1.org  ;2021 t1 kinematics 
-:*:alexander618::alexander618@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II  Physics 111, 21-22, T1, 1st Period 
-:*:alexander952::alexander952@students.psd1.org  ;20-21 t2 accelerated 
-:*:alexandru629::alexandru629@students.psd1.org  ;my 2021 T3 classes 
-:*:alexis288::alexis288@students.psd1.org  ;20-21 t2 accelerated 
-:*:alexis640::alexis640@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:alexis755::alexis755@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:alfonso890::alfonso890@students.psd1.org  ;my e/i class of 2023 
-:*:alonso826::alonso826@students.psd1.org  ;2021 t1 kinematics 
-:*:alvaro637::alvaro637@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:america945::america945@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:amethyst958::amethyst958@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:ana320::ana320@students.psd1.org  ;my 2021 T3 classes 
-:*:anahi574::anahi574@students.psd1.org  ;my 2021 T3 classes 
-:*:anahie497::anahie497@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II  Physics 111, 21-22, T1, 1st Period 
-:*:anahy506::anahy506@students.psd1.org  ;my 2021 T3 classes 
-:*:analie459::analie459@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:andre006::andre006@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:andre007::andre007@students.psd1.org  ;my 2021 T3 classes 
-:*:andres025::andres025@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:andres405::andres405@students.psd1.org  ;my 2021 T3 classes 
-:*:andres902::andres902@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:andrew016::andrew016@students.psd1.org  ;Waves, 21-22, T1, 3rd Period 
-:*:andrew754::andrew754@students.psd1.org  ;20-21 t2 waves 
-:*:andy867::andy867@students.psd1.org  ;20-21 t2 accelerated 
-:*:angel003::angel003@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:angel404::angel404@students.psd1.org  ;20-21 t2 accelerated 
-:*:angel528::angel528@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:angel785::angel785@students.psd1.org  ;20-21 t2 accelerated 
-:*:anita006::anita006@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:antajha001::antajha001@students.psd1.org  ;my 2021 T3 classes 
-:*:anthony011::anthony011@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:anthony020::anthony020@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:anthony026::anthony026@students.psd1.org  ;20 21 t2 dropped 
-:*:anthony096::anthony096@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST  21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:anthony277::anthony277@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:anthony452::anthony452@students.psd1.org  ;my 2021 T3 classes 
-:*:antonio500::antonio500@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:arlette851::arlette851@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:arman052::arman052@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:armando980::armando980@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST  21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:ashley458::ashley458@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:ashley711::ashley711@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:atticus004::atticus004@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:austin790::austin790@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:ayden705::ayden705@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:belynda794::belynda794@students.psd1.org  ;my 2021 T3 classes 
-:*:benjamin409::benjamin409@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:benjamin916::benjamin916@students.psd1.org  ;20-21 t2 waves 
-:*:bennett352::bennett352@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 6th Period 
-:*:benson425::benson425@students.psd1.org  ;my 2021 T3 classes 
-:*:bernardo828::bernardo828@students.psd1.org  ;my 2021 T3 classes 
-:*:betzaida001::betzaida001@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:bradley041::bradley041@students.psd1.org  ;2021 t1 kinematics 
-:*:brandon617::brandon617@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:brandon786::brandon786@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:brenda006::brenda006@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:brian002::brian002@students.psd1.org  ;2021 t1 kinematics 
-:*:brian462::brian462@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:brian501::brian501@students.psd1.org  ;my 2021 T3 classes 
-:*:brianna089::brianna089@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:brittany344::brittany344@students.psd1.org  ;my e/i class of 2023 
-:*:bryan832::bryan832@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:caden835::caden835@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:caleb170::caleb170@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:camilla012::camilla012@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:carlos063::carlos063@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:carlos475::carlos475@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:carlos781::carlos781@students.psd1.org  ;20-21 t2 phys 112 
-:*:carlos890::carlos890@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:carmen027::carmen027@students.psd1.org  ;my e/i class of 2023 
-:*:carter525::carter525@students.psd1.org  ;20-21 t2 mos-1 and mos-2 21-22-T3-5(A) PHYSICS - KINEMATICS
-:*:casper001::casper001@students.psd1.org  ;my 2021 T3 classes 
-:*:celene340::celene340@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:celeste194::celeste194@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:celestine387::celestine387@students.psd1.org  ;my e/i class of 2023 
-:*:cesar001::cesar001@students.psd1.org  ;my 2021 T3 classes 
-:*:cesar624::cesar624@students.psd1.org  ;my 2021 T3 classes 
-:*:charles011::charles011@students.psd1.org  ;my 2021 T3 classes 
-:*:chase739::chase739@students.psd1.org  ;my e/i class of 2023 
-:*:cherish037::cherish037@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 21-22-T3-3(A) ACCELERATED PHYSICS
-:*:christian242::christian242@students.psd1.org  ;20-21 t2 phys 112 
-:*:christina001::christina001@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:christophe080::christophe080@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
-:*:christopher024::christopher024@students.psd1.org  ;20-21 t2 accelerated  Waves, 21-22, T1, 6th Period 21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:clayton002::clayton002@students.psd1.org  ;my 2021 T3 classes 
-:*:clemente001::clemente001@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:cole580::cole580@students.psd1.org  ;my 2021 T3 classes 
-:*:cresencio740::cresencio740@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:cristian277::cristian277@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:cristian491::cristian491@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:crystian585::crystian585@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:cynthia121::cynthia121@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:dakota005::dakota005@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:damien375::damien375@students.psd1.org  ;20-21 t2 mos-1 and mos-2  Waves, 21-22, T1, 6th Period
-:*:daneya874::daneya874@students.psd1.org  ;my 2021 T3 classes 
-:*:daniel029::daniel029@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:daniel037::daniel037@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:daniel368::daniel368@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:daniel784::daniel784@students.psd1.org  ;my 2021 T3 classes 
-:*:daniel891::daniel891@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:daniel952::daniel952@students.psd1.org  ;20-21 t2 waves 
-:*:danika248::danika248@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:dannella497::dannella497@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:david866::david866@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:deanna001::deanna001@students.psd1.org  ;my 2021 T3 classes 
-:*:desiree961::desiree961@students.psd1.org  ;my 2021 T3 classes 
-:*:destiny945::destiny945@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:devyn140::devyn140@students.psd1.org  ;20-21 t2 phys 112 
-:*:dezarae468::dezarae468@students.psd1.org  ;my 2021 T3 classes 
-:*:dianela434::dianela434@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 6th Period 
-:*:diego062::diego062@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:diego508::diego508@students.psd1.org  ;my 2021 T3 classes 
-:*:diondre353::diondre353@students.psd1.org  ;my 2021 T3 classes 
-:*:donovan238::donovan238@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:edgar712::edgar712@students.psd1.org  ;Physics 111, 21-22, T1, 1st Period 
-:*:edgar937::edgar937@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:efrain789::efrain789@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:elena329::elena329@students.psd1.org  ;20-21 t2 phys 112 
-:*:eli989::eli989@students.psd1.org  ;20-21 t2 accelerated 
-:*:eliana532::eliana532@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:elijah474::elijah474@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:elina683::elina683@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:elizabeth023::elizabeth023@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:elizabeth159::elizabeth159@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:elizabeth553::elizabeth553@students.psd1.org  ;20-21 t2 accelerated 
-:*:elizabeth592::elizabeth592@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
-:*:emanuel724::emanuel724@students.psd1.org  ;my 2021 T3 classes 
-:*:emely001::emely001@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:emma140::emma140@students.psd1.org  ;my 2021 T3 classes 
-:*:emmanuel011::emmanuel011@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:eric783::eric783@students.psd1.org  ;20-21 t2 mos-1 and mos-2  Physics 111, 21-22, T1, 1st Period 21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:eric936::eric936@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:erick082::erick082@students.psd1.org  ;my 2021 T3 classes 
-:*:erick830::erick830@students.psd1.org  ;my e/i class of 2023 
-:*:esthelia706::esthelia706@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:exabian001::exabian001@students.psd1.org  ;my 2021 T3 classes 
-:*:ezekiel016::ezekiel016@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:fabian239::fabian239@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:fatima002::fatima002@students.psd1.org  ;my e/i class of 2023 
-:*:felix028::felix028@students.psd1.org  ;20-21 t2 accelerated 
-:*:francisco041::francisco041@students.psd1.org  ;2021 t1 kinematics 
-:*:gannin602::gannin602@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:gauge001::gauge001@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:gerald914::gerald914@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 MOS, 21-22,T1, 2nd Period
-:*:gerardo574::gerardo574@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
-:*:gilbert530::gilbert530@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
-:*:giovanni657::giovanni657@students.psd1.org  ;my 2021 T3 classes 
-:*:giovanni930::giovanni930@students.psd1.org  ;my 2021 T3 classes 
-:*:gisele973::gisele973@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:giselle700::giselle700@students.psd1.org  ;2021 t1 kinematics 
-:*:gissel962::gissel962@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:guadalupe816::guadalupe816@students.psd1.org  ;20-21 t2 waves 
-:*:gyovanna153::gyovanna153@students.psd1.org  ;my 2021 T3 classes 
-:*:hailey474::hailey474@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:hector674::hector674@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:hiwot298::hiwot298@students.psd1.org  ;my 2021 T3 classes 
-:*:ian013::ian013@students.psd1.org  ;my 2021 T3 classes 
-:*:ilona834::ilona834@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
-:*:isaac603::isaac603@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:isaiah923::isaiah923@students.psd1.org  ;my e/i class of 2023 
-:*:ismael589::ismael589@students.psd1.org  ;my e/i class of 2023 
-:*:ivan136::ivan136@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:ivan913::ivan913@students.psd1.org  ;2021 t1 kinematics 
-:*:izabella287::izabella287@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:j001::j001@students.psd1.org  ;2021 t1 kinematics 
-:*:jacob016::jacob016@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:jacob231::jacob231@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:jacob421::jacob421@students.psd1.org  ;Waves, 21-22, T1, 6th Period 
-:*:jaime002::jaime002@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:james323::james323@students.psd1.org  ;my e/i class of 2023 
-:*:james445::james445@students.psd1.org  ;my e/i class of 2023 
-:*:japheth673::japheth673@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:jaqueline543::jaqueline543@students.psd1.org  ;Waves, 21-22, T1, 6th Period 
-:*:jared003::jared003@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:jared246::jared246@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:jared523::jared523@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:jason846::jason846@students.psd1.org  ;my 2021 T3 classes 
-:*:javier797::javier797@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:javier912::javier912@students.psd1.org  ;my 2021 T3 classes 
-:*:jaylynn618::jaylynn618@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:jazmin430::jazmin430@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:jd001::jd001@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 Waves, 21-22, T1, 3rd Period
-:*:jennifer181::jennifer181@students.psd1.org  ;Physics 111, 21-22, T1, 1st Period 
-:*:jennifer835::jennifer835@students.psd1.org  ;my 2021 T3 classes 
-:*:jeremiah008::jeremiah008@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 21-22-T3-6(A) PHYSICS - KINEMATICS
-:*:jesse002::jesse002@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 MOS, 21-22,T1, 2nd Period
-:*:jesus255::jesus255@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:jesus457::jesus457@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:jesus607::jesus607@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:jesus755::jesus755@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:jesus840::jesus840@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:jimmie953::jimmie953@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:joaquin458::joaquin458@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:johanna002::johanna002@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:john917::john917@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
-:*:johnnie614::johnnie614@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:jolie001::jolie001@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 MOS, 21-22,T1, 2nd Period
-:*:jonathan160::jonathan160@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:jonathan697::jonathan697@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:jonathan925::jonathan925@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:jordyn441::jordyn441@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:jorge640::jorge640@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:jorge652::jorge652@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:jorge718::jorge718@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:josaih838::josaih838@students.psd1.org  ;20-21 t2 accelerated 
-:*:jose032::jose032@students.psd1.org  ;my 2021 T3 classes 
-:*:jose147::jose147@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:jose207::jose207@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:jose215::jose215@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:jose228::jose228@students.psd1.org  ;20-21 t2 waves 
-:*:jose533::jose533@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS  my 2021 T3 classes  Waves, 21-22, T1, 6th Period
-:*:jose536::jose536@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:jose731::jose731@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:jose819::jose819@students.psd1.org  ;2021 t1 kinematics 
-:*:jose851::jose851@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:jose896::jose896@students.psd1.org  ;my 2021 T3 classes 
-:*:josette571::josette571@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:joshua012::joshua012@students.psd1.org  ;my e/i class of 2023 
-:*:joshua759::joshua759@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:josie275::josie275@students.psd1.org  ;my 2021 T3 classes 
-:*:juan051::juan051@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:juan275::juan275@students.psd1.org  ;my 2021 T3 classes 
-:*:juan434::juan434@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:juan701::juan701@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:juan774::juan774@students.psd1.org  ;20-21 t2 accelerated 
-:*:juan912::juan912@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:julian187::julian187@students.psd1.org  ;20-21 t2 accelerated  Waves, 21-22, T1, 6th Period
-:*:julian941::julian941@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:julianna003::julianna003@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:julieta646::julieta646@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:julio775::julio775@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:julio888::julio888@students.psd1.org  ;2021 t1 kinematics 
-:*:julissa613::julissa613@students.psd1.org  ;20-21 t2 accelerated 
-:*:justice232::justice232@students.psd1.org  ;20-21 t2 accelerated 
-:*:justice756::justice756@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:karely163::karely163@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:kassandra107::kassandra107@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:katie702::katie702@students.psd1.org  ;20-21 t2 accelerated 
-:*:kavya001::kavya001@students.psd1.org  ;my 2021 T3 classes 
-:*:kayne002::kayne002@students.psd1.org  ;20-21 t2 accelerated 
-:*:kelsie045::kelsie045@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:kendera721::kendera721@students.psd1.org  ;2021 t1 kinematics 
-:*:keren169::keren169@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:kevin075::kevin075@students.psd1.org  ;2021 t1 kinematics  Physics 111, 21-22, T1, 1st Period 21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:killian015::killian015@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
-:*:kylie650::kylie650@students.psd1.org  ;my 2021 T3 classes 
-:*:laiza286::laiza286@students.psd1.org  ;my 2021 T3 classes 
-:*:landon985::landon985@students.psd1.org  ;20-21 t2 accelerated 
-:*:leo678::leo678@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 my 2021 T3 classes
-:*:leonardo058::leonardo058@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:leonardo692::leonardo692@students.psd1.org  ;my 2021 T3 classes 
-:*:leonel154::leonel154@students.psd1.org  ;20-21 t2 accelerated 
-:*:leslie015::leslie015@students.psd1.org  ;20-21 t2 waves 
-:*:leslie448::leslie448@students.psd1.org  ;20-21 t2 accelerated 
-:*:levi850::levi850@students.psd1.org  ;2021 t1 kinematics 
-:*:lizandra518::lizandra518@students.psd1.org  ;20-21 t2 accelerated 
-:*:lizbeth631::lizbeth631@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:lizbeth900::lizbeth900@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:lizbeth984::lizbeth984@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:logan653::logan653@students.psd1.org  ;20-21 t2 accelerated 
-:*:logan959::logan959@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:london483::london483@students.psd1.org  ;my 2021 T3 classes 
-:*:lorena854::lorena854@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 MOS, 21-22,T1, 2nd Period
-:*:lucia276::lucia276@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:luis029::luis029@students.psd1.org  ;20 21 t2 dropped 
-:*:luis764::luis764@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:lupita002::lupita002@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
-:*:lynnelle431::lynnelle431@students.psd1.org  ;2021 t1 kinematics 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 21-22-T3-3(A) ACCELERATED PHYSICS
-:*:lynsie440::lynsie440@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:madalynn197::madalynn197@students.psd1.org  ;my 2021 T3 classes 
-:*:madison161::madison161@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:maksim113::maksim113@students.psd1.org  ;my 2021 T3 classes 
-:*:manuel026::manuel026@students.psd1.org  ;my 2021 T3 classes 
-:*:marcial469::marcial469@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:marelene675::marelene675@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:mariah656::mariah656@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:marializ001::marializ001@students.psd1.org  ;2021 t1 kinematics 
-:*:marina149::marina149@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:marquis001::marquis001@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:martha877::martha877@students.psd1.org  ;my 2021 T3 classes 
-:*:matthew564::matthew564@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:matthew926::matthew926@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:max440::max440@students.psd1.org  ;2021 t1 kinematics 
-:*:mayra761::mayra761@students.psd1.org  ;my 2021 T3 classes 
-:*:mccarty874::mccarty874@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II  my e/i class of 2023  Physics 111, 21-22, T1, 1st Period
-:*:melanie005::melanie005@students.psd1.org  ;my e/i class of 2023 
-:*:melanie286::melanie286@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:melany049::melany049@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:mercadez947::mercadez947@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:michael013::michael013@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:miguel295::miguel295@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS  my 2021 T3 classes  Waves, 21-22, T1, 3rd Period
-:*:miguel321::miguel321@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:miguel603::miguel603@students.psd1.org  ;my e/i class of 2023 
-:*:miguel733::miguel733@students.psd1.org  ;my 2021 T3 classes 
-:*:miguel755::miguel755@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:miguel869::miguel869@students.psd1.org  ;my 2021 T3 classes 
-:*:miguel899::miguel899@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:miguel923::miguel923@students.psd1.org  ;my 2021 T3 classes 
-:*:monserrat697::monserrat697@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:montserrath001::montserrath001@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:natalie009::natalie009@students.psd1.org  ;my e/i class of 2023 
-:*:nataly867::nataly867@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:nathan156::nathan156@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:nathan890::nathan890@students.psd1.org  ;my 2021 T3 classes 
-:*:nemecio118::nemecio118@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:nicholas009::nicholas009@students.psd1.org  ;20-21 T1 and T2 my 8th hour in person support 
-:*:noah877::noah877@students.psd1.org  ;20-21 t2 accelerated 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
-:*:noe106::noe106@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:octavio124::octavio124@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:orlando980::orlando980@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:oscar179::oscar179@students.psd1.org  ;my 2021 T3 classes 
-:*:oscar795::oscar795@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:owen704::owen704@students.psd1.org  ;my 2021 T3 classes 
-:*:pabigail287::poashr  ;my 2021 T3 classes 
-:*:pabigail803::role241  ;my e/i class of 2023 
-:*:pablo257::pablo257@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 MOS, 21-22,T1, 2nd Period
-:*:pablo597::pablo597@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:pabraham443::pray513  ;20-21 t2 mos-1 and mos-2 
-:*:padan194::4g56bm  ;my e/i class of 2023 
-:*:padrian366::know797  ;my 2021 T3 classes 
-:*:pafton144::gray243  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:palex006::oyzgd5  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:palex222::3dioqw  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:palex835::loud982  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:palexander027::rage552  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:palexander404::hill107  ;my 2021 T3 classes 
-:*:palexander618::gogbw0  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:palexander952::3z25i3  ;20-21 T1 and T2 my 8th hour in person support 
-:*:palexandru629::ex71k2  ;20-21 t2 waves 
-:*:palexis288::blue113  ;2021 t1 kinematics 
-:*:palexis640::deep566  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:palexis755::like588  ;MOS, 21-22,T1, 2nd Period 
-:*:palfonso890::told122  ;my 2021 T3 classes 
-:*:palonso826::xy1kod  ;my 2021 T3 classes 
-:*:palvaro637::your874  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pamerica945::talk380  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pamethyst958::sofa829  ;MOS, 21-22,T1, 2nd Period 
-:*:pana320::yk7y3o  ;20-21 t2 phys 112 
-:*:panahi574::zero828  ;my 2021 T3 classes 
-:*:panahie497::y2j7s3  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:panahy506::soap333  ;my e/i class of 2023 
-:*:panalie459::9rx072  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pandre006::vary521  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pandre007::t00cuq  ;my 2021 T3 classes 
-:*:pandres025::kite860  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pandres405::rj655m  ;my 2021 T3 classes 
-:*:pandres902::live609  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pandrew016::join083  ;Waves, 21-22, T1, 3rd Period 
-:*:pandrew754::pine313  ;20-21 t2 mos-1 and mos-2 
-:*:pandy867::gtimye  ;20-21 t2 mos-1 and mos-2 
-:*:pangel003::unit858  ;MOS, 21-22,T1, 2nd Period 
-:*:pangel404::when549  ;20-21 t2 phys 112 
-:*:pangel528::9i6gjo  ;20-21 t2 accelerated 
-:*:pangel785::boat220  ;my e/i class of 2023 
-:*:panita006::okay886  ;20-21 t2 accelerated 
-:*:pantajha001::wave200  ;20-21 t2 phys 112 
-:*:panthony011::goes365  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:panthony020::room807  ;MOS, 21-22,T1, 2nd Period 
-:*:panthony026::your851  ;my 2021 T3 classes 
-:*:panthony096::8odm16  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:panthony277::dear211  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:panthony452::1md3gn  ;my 2021 T3 classes 
-:*:pantonio500::r6wn7d  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:parlette851::fray053  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:parman052::tune701  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:parmando980::75kks5  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pashley458::path986  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pashley711::stow629  ;MOS, 21-22,T1, 2nd Period 
-:*:patticus004::DRAT  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:paustin790::plot113  ;MOS, 21-22,T1, 2nd Period 
-:*:payden705::work348  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pbelynda794::name693  ;20-21 t2 mos-1 and mos-2 
-:*:pbenjamin409::pave253  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pbenjamin916::gate733  ;my 2021 T3 classes 
-:*:pbennett352::dj76br  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pbenson425::tall135  ;20-21 t2 mos-1 and mos-2 
-:*:pbernardo828::jf9s7y  ;my 2021 T3 classes 
-:*:pbetzaida001::cane937  ;MOS, 21-22,T1, 2nd Period 
-:*:pbradley041::rude288  ;my e/i class of 2023 
-:*:pbrandon617::gust341  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pbrandon786::41rk0g  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pbrenda006::mess653  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pbrian002::crop075  ;my 2021 T3 classes 
-:*:pbrian462::onwciu  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pbrian501::crow489  ;20-21 t2 mos-1 and mos-2 
-:*:pbrianna089::king251  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pbrittany344::h3jgb3  ;my e/i class of 2023 
-:*:pbryan832::57mjus  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pcaden835::talk143  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pcaleb170::k96qm6  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pcamilla012::dish580  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pcarlos063::lawn878  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pcarlos475::blow868  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pcarlos781::m1n23n  ;20-21 t2 accelerated 
-:*:pcarlos890::acbdnc  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pcarmen027::vp8p95  ;2021 t1 kinematics 
-:*:pcarter525::many619  ;20-21 t2 accelerated 
-:*:pcasper001::dose047  ;20-21 t2 mos-1 and mos-2 
-:*:pcelene340::9dpn79  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pceleste194::gate940  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pcelestine387::2xt8i5  ;my 2021 T3 classes 
-:*:pcesar001::seep952  ;my 2021 T3 classes 
-:*:pcesar624::vm08w6  ;my 2021 T3 classes 
-:*:pcharles011::harm849  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pchase739::here754  ;2021 t1 kinematics 
-:*:pcherish037::dime741  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pchristian242::part877  ;20-21 t2 waves 
-:*:pchristina001::moon624  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pchristophe080::hind019  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pchristopher024::food877  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pclayton002::chip743  ;2021 t1 kinematics 
-:*:pclemente001::fine118  ;MOS, 21-22,T1, 2nd Period 
-:*:pcole580::wool036  ;my 2021 T3 classes 
-:*:pcresencio740::harm236  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pcristian277::none081  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pcristian491::gs87x8  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pcrystian585::i376pr  ;my 2021 T3 classes 
-:*:pcynthia121::fx0ucf  ;MOS, 21-22,T1, 2nd Period 
-:*:pdakota005::stop479  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pdamien375::n5ar9h  ;2021 t1 kinematics 
-:*:pdaneya874::keep342  ;my e/i class of 2023 
-:*:pdaniel029::save103  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pdaniel037::aoc6do  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pdaniel368::spot228  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pdaniel784::some928  ;my e/i class of 2023 
-:*:pdaniel891::tbu3uy  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pdaniel952::were409  ;2021 t1 kinematics 
-:*:pdanika248::been974  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pdannella497::w9jqze  ;MOS, 21-22,T1, 2nd Period 
-:*:pdavid866::tube810  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pdeanna001::base358  ;2021 t1 kinematics 
-:*:pdesiree961::gjz459  ;20-21 t2 mos-1 and mos-2 
-:*:pdestiny945::dock518  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pdevyn140::9rkrab  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pdezarae468::pool355  ;20-21 t2 accelerated 
-:*:pdianela434::busy068  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pdiego062::DRAT  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pdiego508::29f830  ;my 2021 T3 classes 
-:*:pdiondre353::28runh  ;my e/i class of 2023 
-:*:pdonovan238::seem097  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pedgar712::made727  ;Physics 111, 21-22, T1, 1st Period 
-:*:pedgar937::pump528  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pedro506::pedro506@students.psd1.org  ;my e/i class of 2023 
-:*:pedro950::pedro950@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pefrain789::wide291  ;20-21 t2 mos-1 and mos-2 
-:*:pelena329::pail455  ;20-21 t2 mos-1 and mos-2 
-:*:peli989::flat467  ;my 2021 T3 classes 
-:*:peliana532::word581  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pelijah474::took558  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pelina683::door334  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pelizabeth023::tale834  ;MOS, 21-22,T1, 2nd Period 
-:*:pelizabeth159::burn927  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pelizabeth553::k2wz2e  ;my 2021 T3 classes 
-:*:pelizabeth592::turn673  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pemanuel724::poor129  ;2021 t1 kinematics 
-:*:pemely001::wage155  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pemma140::here115  ;my 2021 T3 classes 
-:*:pemmanuel011::game517  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:peric783::1i9wbj  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:peric936::hiyqhm  ;my 2021 T3 classes 
-:*:perick082::0nco3v  ;2021 t1 kinematics 
-:*:perick830::mgahvc  ;other students 
-:*:perla117::perla117@students.psd1.org  ;20-21 t2 mos-1 and mos-2 
-:*:perla213::perla213@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:pesthelia706::tube580  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pexabian001::sack740  ;20-21 t2 mos-1 and mos-2 
-:*:pezekiel016::m2ws5z  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pfabian239::full459  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pfatima002::help043  ;my 2021 T3 classes 
-:*:pfelix028::fate720  ;20-21 t2 waves 
-:*:pfrancisco041::44stgn  ;20-21 t2 mos-1 and mos-2 
-:*:pgannin602::foot921  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pgauge001::rise750  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pgerald914::hbdijd  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pgerardo574::bbjtt8  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pgilbert530::golf303  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pgiovanni657::f66vst  ;20-21 t2 mos-1 and mos-2 
-:*:pgiovanni930::mitt170  ;2021 t1 kinematics 
-:*:pgisele973::54jruu  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pgiselle700::bziym7  ;my 2021 T3 classes 
-:*:pgissel962::joke673  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pguadalupe816::ts2cz2  ;20-21 t2 accelerated 
-:*:pgyovanna153::dvu0jo  ;my 2021 T3 classes 
-:*:phailey474::land463  ;MOS, 21-22,T1, 2nd Period 
-:*:phector674::yxfx28  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:phiwot298::gcb2an  ;20-21 t2 accelerated 
-:*:pian013::deal813  ;20-21 t2 waves 
-:*:pilona834::p043v6  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pisaac603::ball580  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pisaiah923::turn871  ;my 2021 T3 classes 
-:*:pismael589::s6gmm0  ;my 2021 T3 classes 
-:*:pivan136::much899  ;20-21 t2 mos-1 and mos-2 
-:*:pivan913::bo2uth  ;2021 t1 kinematics 
-:*:pizabella287::park759  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pj001::deer567  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pjacob016::they146  ;MOS, 21-22,T1, 2nd Period 
-:*:pjacob231::2xko7o  ;my 2021 T3 classes 
-:*:pjacob421::mbgvzv  ;Waves, 21-22, T1, 6th Period 
-:*:pjaime002::sled562  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pjames323::meal902  ;20-21 t2 mos-1 and mos-2 
-:*:pjames445::meal310  ;my 2021 T3 classes 
-:*:pjapheth673::card201  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pjaqueline543::uu0aiq  ;Waves, 21-22, T1, 6th Period 
-:*:pjared003::page262  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pjared246::flow523  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pjared523::twig314  ;my e/i class of 2023 
-:*:pjason846::53kuqf  ;20-21 t2 phys 112 
-:*:pjavier797::pwjnnn  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pjavier912::566w5j  ;my 2021 T3 classes 
-:*:pjaylynn618::horn396  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pjazmin430::na0em0  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pjd001::cool535  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pjennifer181::frog279  ;Physics 111, 21-22, T1, 1st Period 
-:*:pjennifer835::vwp9f0  ;20-21 t2 accelerated 
-:*:pjeremiah008::dawn251  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pjesse002::bask282  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pjesus255::xku88n  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pjesus457::5qn34z  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pjesus607::7r5knb  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pjesus755::ozpwsm  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pjesus840::e9sirb  ;my e/i class of 2023 
-:*:pjimmie953::eguaux  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pjoaquin458::seam335  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pjohanna002::once493  ;2021 t1 kinematics 
-:*:pjohn917::cram923  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pjohnnie614::mqwg80  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pjolie001::bell528  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pjonathan160::xr422p  ;2021 t1 kinematics 
-:*:pjonathan697::soft762  ;2021 t1 kinematics 
-:*:pjonathan925::a7encr  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pjordyn441::beam373  ;2021 t1 kinematics 
-:*:pjorge640::hind005  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pjorge652::help391  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pjorge718::deal777  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pjosaih838::stay401  ;my e/i class of 2023 
-:*:pjose032::dock314  ;my 2021 T3 classes 
-:*:pjose147::read731  ;MOS, 21-22,T1, 2nd Period 
-:*:pjose207::rock761  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pjose215::pray218  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pjose228::pike565  ;my e/i class of 2023 
-:*:pjose533::brag379  ;20-21 t2 accelerated 
-:*:pjose536::un1sny  ;20-21 t2 mos-1 and mos-2 
-:*:pjose731::hope538  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pjose819::yard071  ;my 2021 T3 classes 
-:*:pjose851::59km25  ;my 2021 T3 classes 
-:*:pjose896::08gmwy  ;my 2021 T3 classes 
-:*:pjosette571::aho14r  ;MOS, 21-22,T1, 2nd Period 
-:*:pjoshua012::that722  ;my 2021 T3 classes 
-:*:pjoshua759::hall324  ;MOS, 21-22,T1, 2nd Period 
-:*:pjosie275::bell998  ;2021 t1 kinematics 
-:*:pjuan051::with645  ;my 2021 T3 classes 
-:*:pjuan275::fq745w  ;my 2021 T3 classes 
-:*:pjuan434::golf926  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pjuan701::kt18q4  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pjuan774::time838  ;20-21 t2 accelerated 
-:*:pjuan912::er3urf  ;2021 t1 kinematics 
-:*:pjulian187::bwh9xq  ;20-21 t2 mos-1 and mos-2 
-:*:pjulian941::song661  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pjulianna003::till434  ;my 2021 T3 classes 
-:*:pjulieta646::6uzfzs  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pjulio775::soft220  ;MOS, 21-22,T1, 2nd Period 
-:*:pjulio888::beet713  ;20-21 t2 mos-1 and mos-2 
-:*:pjulissa613::ours846  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pjustice232::bold344  ;20-21 t2 accelerated 
-:*:pjustice756::7utbmi  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pkarely163::ra0jkn  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pkassandra107::ud9r2m  ;my 2021 T3 classes 
-:*:pkatie702::54jinj  ;20-21 t2 accelerated 
-:*:pkavya001::cope095  ;my 2021 T3 classes 
-:*:pkayne002::belt396  ;my 2021 T3 classes 
-:*:pkelsie045::dear666  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pkendera721::270q1h  ;2021 t1 kinematics 
-:*:pkeren169::DRAT  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pkeren169::oxkth2  ;Waves, 21-22, T1, 3rd Period 
-:*:pkevin075::feet840  ;20-21 t2 waves 
-:*:pkillian015::baby317  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pkylie650::kfkcdb  ;2021 t1 kinematics 
-:*:plaiza286::n91d6r  ;2021 t1 kinematics 
-:*:plandon985::bang853  ;2021 t1 kinematics 
-:*:pleo678::yqsqpf  ;2021 t1 kinematics 
-:*:pleonardo058::007u2h  ;MOS, 21-22,T1, 2nd Period 
-:*:pleonardo692::ne045p  ;my e/i class of 2023 
-:*:pleonel154::page088  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pleslie015::rail892  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pleslie448::txnuau  ;my 2021 T3 classes 
-:*:plevi850::ewx3xp  ;20-21 T1 and T2 my 8th hour in person support 
-:*:plizandra518::rake857  ;my e/i class of 2023 
-:*:plizbeth631::soap611  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:plizbeth900::kbydwf  ;20-21 T1 and T2 my 8th hour in person support 
-:*:plizbeth984::when499  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:plogan653::8be5rt  ;20-21 t2 accelerated 
-:*:plogan959::qcfwme  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:plondon483::line921  ;20-21 T1 and T2 my 8th hour in person support 
-:*:plorena854::boil393  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:plucia276::ours887  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pluis029::into956  ;20-21 t2 mos-1 and mos-2 
-:*:pluis764::corn507  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:plupita002::list987  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:plynnelle431::claw275  ;20-21 T1 and T2 my 8th hour in person support 
-:*:plynsie440::x2fx75  ;my 2021 T3 classes 
-:*:pmadalynn197::bill953  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmadison161::side372  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pmaksim113::n9wrr3  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmanuel026::kdywnd  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmarcial469::love432  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pmarelene675::soap910  ;MOS, 21-22,T1, 2nd Period 
-:*:pmariah656::DRAT  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pmarializ001::code733  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmarina149::size508  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmarquis001::luck370  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pmartha877::wm94e3  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmatthew564::cage159  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pmatthew926::meal373  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pmax440::very306  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmayra761::vh5syb  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmccarty874::rest337  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmelanie005::tray843  ;my 2021 T3 classes 
-:*:pmelanie286::gate037  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pmelany049::du5d7b  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pmercadez947::itgzd7  ;MOS, 21-22,T1, 2nd Period 
-:*:pmichael013::free044  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pmiguel295::list446  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pmiguel321::gate627  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pmiguel603::r6np7w  ;my 2021 T3 classes 
-:*:pmiguel733::ad2ysj  ;20-21 T1 and T2 my 8th hour in person support 
-:*:pmiguel755::will047  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pmiguel869::5h0ipz  ;my 2021 T3 classes 
-:*:pmiguel899::just422  ;2021 t1 kinematics 
-:*:pmiguel923::9914gf  ;my 2021 T3 classes 
-:*:pmonserrat697::hair215  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pmontserrath001::boom040  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pnatalie009::them370  ;my 2021 T3 classes 
-:*:pnataly867::star647  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:pnathan156::3nhtyh  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pnathan890::g2fjh3  ;20-21 t2 accelerated 
-:*:pnemecio118::zero492  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pnicholas009::core697  ;2021 t1 kinematics 
-:*:pnoah877::fpez13  ;20-21 t2 mos-1 and mos-2 
-:*:pnoe106::belt279  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:poctavio124::pray616  ;my 2021 T3 classes 
-:*:porlando980::word204  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:poscar179::tune652  ;20-21 t2 mos-1 and mos-2 
-:*:poscar795::bent329  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:powen704::q8gpd3  ;20-21 T1 and T2 my 8th hour in person support 
-:*:ppablo257::feet114  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:ppablo597::6wsei8  ;20-21 t2 accelerated 
-:*:ppedro506::fmz015  ;my 2021 T3 classes 
-:*:ppedro950::stco44  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pperla117::born998  ;20-21 t2 accelerated 
-:*:pperla213::3pfni3  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:ppricila449::bang958  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:prafael590::wtu5r1  ;MOS, 21-22,T1, 2nd Period 
-:*:prailynn809::ytubmh  ;my 2021 T3 classes 
-:*:praul640::yyb7co  ;my 2021 T3 classes 
-:*:praymond902::7avege  ;2021 t1 kinematics 
-:*:prene565::move238  ;MOS, 21-22,T1, 2nd Period 
-:*:pricardo552::4id77q  ;Waves, 21-22, T1, 3rd Period 
-:*:pricila449::pricila449@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:prodrigo005::zero075  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:progelio355::tube899  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:prosario929::dv6o7d  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:prose001::lean340  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pross343::thrtv8  ;20-21 t2 waves 
-:*:proxanna568::neck715  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:pruben982::gfpkoo  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:prylee760::over659  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:psalvador130::6qdiah  ;other students 
-:*:psarai898::beef998  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:psaul270::sink271  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:psaul527::five091  ; 
-:*:psayda106::ezcu73  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pscott847::gate026  ; 
-:*:psebastian400::fray839  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:psebastian482::page424  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:psergiy563::c2cdo0  ; 
-:*:psheila503::bare108  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:psilas403::bean834  ; 
-:*:pspencer004::give048  ;MOS, 21-22,T1, 2nd Period 
-:*:pstephan297::y3aeum  ; 
-:*:pstephanie388::czkqw9  ; 
-:*:pstephanie685::cn87b3  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:psusana747::tent365  ; 
-:*:ptalisha425::fiqpoe  ; 
-:*:ptania541::mxsrup  ; 
-:*:ptania910::deer734  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:ptanner829::sent574  ;MOS, 21-22,T1, 2nd Period 
-:*:ptatyana375::hoppwk  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:ptaya312::land466  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:ptrenton280::fn0xh2  ; 
-:*:ptyler747::cwi7ir  ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pubaldo916::990y0k  ; 
-:*:pulises061::foot115  ; 
-:*:pulises697::pint074  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:puriel783::mess876  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pvalentin271::eah84r  ; 
-:*:pvalerie225::sink061  ; 
-:*:pvanessa475::flaw841  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pvicente368::8o0mhy  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pvictor676::spot891  ;MOS, 21-22,T1, 2nd Period 
-:*:pvictor968::7zum7h  ; 
-:*:pviky227::hair834  ; 
-:*:pviolet873::g5i6jw  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pvitaliy658::rain882  ; 
-:*:pviviana540::hard990  ; 
-:*:pvladimir671::beep737  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:pweilan185::9icjib  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
-:*:pwilliam992::i720h5  ; 
-:*:pwyatt381::what650  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:pxavier274::walk743  ; 
-:*:pxavier676::vfh0n6  ; 
-:*:pximena069::mess910  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pxylia547::6w8zd2  ; 
-:*:pyareli706::8shzki  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:pyizel309::slip155  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pyoana335::8t9bie  ; 
-:*:pyrelda693::sofa246  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pyulisa495::flat012  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:pzammira771::gave756  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:rafael590::rafael590@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:railynn809::railynn809@students.psd1.org  ; 
-:*:raul640::raul640@students.psd1.org  ; 
-:*:raymond902::raymond902@students.psd1.org  ; 
-:*:rene565::rene565@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:ricardo552::ricardo552@students.psd1.org  ;Waves, 21-22, T1, 3rd Period 
-:*:rodrigo005::rodrigo005@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:rogelio355::rogelio355@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:rosario929::rosario929@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:rose001::rose001@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:ross343::ross343@students.psd1.org  ; 
-:*:roxanna568::roxanna568@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:ruben982::ruben982@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:rylee760::rylee760@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS my e/i class of 2023 
-:*:salvador130::salvador130@students.psd1.org  ; 
-:*:sarai898::sarai898@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:saul270::saul270@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:saul527::saul527@students.psd1.org  ; 
-:*:sayda106::sayda106@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
-:*:scott847::scott847@students.psd1.org  ; 
-:*:sebastian400::sebastian400@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:sebastian482::sebastian482@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
-:*:sergiy563::sergiy563@students.psd1.org  ; 
-:*:sheila503::sheila503@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:silas403::silas403@students.psd1.org  ; 
-:*:spencer004::spencer004@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:stephan297::stephan297@students.psd1.org  ; 
-:*:stephanie388::stephanie388@students.psd1.org  ; 
-:*:stephanie685::stephanie685@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:susana747::susana747@students.psd1.org  ; 
-:*:talisha425::talisha425@students.psd1.org  ; 
-:*:tania541::tania541@students.psd1.org  ; 
-:*:tania910::tania910@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:tanner829::tanner829@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:tatyana375::tatyana375@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:taya312::taya312@students.psd1.org  ;21-22-T3-3(A) ACCELERATED PHYSICS 
-:*:trenton280::trenton280@students.psd1.org  ; 
-:*:tyler747::tyler747@students.psd1.org  ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
-:*:ubaldo916::ubaldo916@students.psd1.org  ; 
-:*:ulises061::ulises061@students.psd1.org  ; 
-:*:ulises697::ulises697@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:uriel783::uriel783@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:valentin271::valentin271@students.psd1.org  ; 
-:*:valerie225::valerie225@students.psd1.org  ; 
-:*:vanessa475::vanessa475@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:vicente368::vicente368@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS 
-:*:victor676::victor676@students.psd1.org  ;MOS, 21-22,T1, 2nd Period 
-:*:victor968::victor968@students.psd1.org  ; 
-:*:viky227::viky227@students.psd1.org  ; 
-:*:violet873::violet873@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
-:*:vitaliy658::vitaliy658@students.psd1.org  ; 
-:*:viviana540::viviana540@students.psd1.org  ; 
-:*:vladimir671::vladimir671@students.psd1.org  ;21-22-T2-2(A) EARTH SCIENCE 3 
-:*:weilan185::weilan185@students.psd1.org  ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
-:*:william992::william992@students.psd1.org  ; 
-:*:wyatt381::wyatt381@students.psd1.org  ;21-22-T3-5(A) PHYSICS - KINEMATICS Physics 111, 21-22, T1, 1st Period 
-:*:xavier274::xavier274@students.psd1.org  ; 
-:*:xavier676::xavier676@students.psd1.org  ; 
-:*:ximena069::ximena069@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
-:*:xylia547::xylia547@students.psd1.org  ; 
-:*:yareli706::yareli706@students.psd1.org  ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 MOS, 21-22,T1, 2nd Period
-:*:yizel309::yizel309@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-3(A) ACCELERATED PHYSICS
-:*:yoana335::yoana335@students.psd1.org  ; 
-:*:yrelda693::yrelda693@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
-:*:yulisa495::yulisa495@students.psd1.org  ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
-:*:zammira771::zammira771@students.psd1.org  ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:abigail287::abigail287@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:abigail803::abigail803@students.psd1.org ;my 2021 T3 classes 
+:*:abraham443::abraham443@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:adan194::adan194@students.psd1.org ;20-21 t2 accelerated 
+:*:adrian366::adrian366@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:afton144::afton144@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 6th Period 
+:*:alex006::alex006@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 3rd Period 
+:*:alex222::alex222@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 6th Period 
+:*:alex835::alex835@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:alexander027::alexander027@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS  MOS, 21-22,T1, 2nd Period  Waves, 21-22, T1, 6th Period
+:*:alexander404::alexander404@students.psd1.org ;2021 t1 kinematics 
+:*:alexander618::alexander618@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II  Physics 111, 21-22, T1, 1st Period 
+:*:alexander952::alexander952@students.psd1.org ;20-21 t2 accelerated 
+:*:alexandru629::alexandru629@students.psd1.org ;my 2021 T3 classes 
+:*:alexis288::alexis288@students.psd1.org ;20-21 t2 accelerated 
+:*:alexis640::alexis640@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:alexis755::alexis755@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:alfonso890::alfonso890@students.psd1.org ;my e/i class of 2023 
+:*:alonso826::alonso826@students.psd1.org ;2021 t1 kinematics 
+:*:alvaro637::alvaro637@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:america945::america945@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:amethyst958::amethyst958@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:ana320::ana320@students.psd1.org ;my 2021 T3 classes 
+:*:anahi574::anahi574@students.psd1.org ;my 2021 T3 classes 
+:*:anahie497::anahie497@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II  Physics 111, 21-22, T1, 1st Period 
+:*:anahy506::anahy506@students.psd1.org ;my 2021 T3 classes 
+:*:analie459::analie459@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:andre006::andre006@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:andre007::andre007@students.psd1.org ;my 2021 T3 classes 
+:*:andres025::andres025@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:andres405::andres405@students.psd1.org ;my 2021 T3 classes 
+:*:andres902::andres902@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:andrew016::andrew016@students.psd1.org ;Waves, 21-22, T1, 3rd Period 
+:*:andrew754::andrew754@students.psd1.org ;20-21 t2 waves 
+:*:andy867::andy867@students.psd1.org ;20-21 t2 accelerated 
+:*:angel003::angel003@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:angel404::angel404@students.psd1.org ;20-21 t2 accelerated 
+:*:angel528::angel528@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:angel785::angel785@students.psd1.org ;20-21 t2 accelerated 
+:*:anita006::anita006@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:antajha001::antajha001@students.psd1.org ;my 2021 T3 classes 
+:*:anthony011::anthony011@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:anthony020::anthony020@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:anthony026::anthony026@students.psd1.org ;20 21 t2 dropped 
+:*:anthony096::anthony096@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST  21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:anthony277::anthony277@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:anthony452::anthony452@students.psd1.org ;my 2021 T3 classes 
+:*:antonio500::antonio500@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:arlette851::arlette851@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:arman052::arman052@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:armando980::armando980@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST  21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:ashley458::ashley458@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:ashley711::ashley711@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:atticus004::atticus004@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:austin790::austin790@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:ayden705::ayden705@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:belynda794::belynda794@students.psd1.org ;my 2021 T3 classes 
+:*:benjamin409::benjamin409@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:benjamin916::benjamin916@students.psd1.org ;20-21 t2 waves 
+:*:bennett352::bennett352@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 6th Period 
+:*:benson425::benson425@students.psd1.org ;my 2021 T3 classes 
+:*:bernardo828::bernardo828@students.psd1.org ;my 2021 T3 classes 
+:*:betzaida001::betzaida001@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:bradley041::bradley041@students.psd1.org ;2021 t1 kinematics 
+:*:brandon617::brandon617@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:brandon786::brandon786@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:brenda006::brenda006@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:brian002::brian002@students.psd1.org ;2021 t1 kinematics 
+:*:brian462::brian462@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:brian501::brian501@students.psd1.org ;my 2021 T3 classes 
+:*:brianna089::brianna089@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:brittany344::brittany344@students.psd1.org ;my e/i class of 2023 
+:*:bryan832::bryan832@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:caden835::caden835@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:caleb170::caleb170@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:camilla012::camilla012@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:carlos063::carlos063@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:carlos475::carlos475@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:carlos781::carlos781@students.psd1.org ;20-21 t2 phys 112 
+:*:carlos890::carlos890@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:carmen027::carmen027@students.psd1.org ;my e/i class of 2023 
+:*:carter525::carter525@students.psd1.org ;20-21 t2 mos-1 and mos-2 21-22-T3-5(A) PHYSICS - KINEMATICS
+:*:casper001::casper001@students.psd1.org ;my 2021 T3 classes 
+:*:celene340::celene340@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:celeste194::celeste194@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:celestine387::celestine387@students.psd1.org ;my e/i class of 2023 
+:*:cesar001::cesar001@students.psd1.org ;my 2021 T3 classes 
+:*:cesar624::cesar624@students.psd1.org ;my 2021 T3 classes 
+:*:charles011::charles011@students.psd1.org ;my 2021 T3 classes 
+:*:chase739::chase739@students.psd1.org ;my e/i class of 2023 
+:*:cherish037::cherish037@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 21-22-T3-3(A) ACCELERATED PHYSICS
+:*:christian242::christian242@students.psd1.org ;20-21 t2 phys 112 
+:*:christina001::christina001@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:christophe080::christophe080@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
+:*:christopher024::christopher024@students.psd1.org ;20-21 t2 accelerated  Waves, 21-22, T1, 6th Period 21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:clayton002::clayton002@students.psd1.org ;my 2021 T3 classes 
+:*:clemente001::clemente001@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:cole580::cole580@students.psd1.org ;my 2021 T3 classes 
+:*:cresencio740::cresencio740@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:cristian277::cristian277@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:cristian491::cristian491@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:crystian585::crystian585@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:cynthia121::cynthia121@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:dakota005::dakota005@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:damien375::damien375@students.psd1.org ;20-21 t2 mos-1 and mos-2  Waves, 21-22, T1, 6th Period
+:*:daneya874::daneya874@students.psd1.org ;my 2021 T3 classes 
+:*:daniel029::daniel029@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:daniel037::daniel037@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:daniel368::daniel368@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:daniel784::daniel784@students.psd1.org ;my 2021 T3 classes 
+:*:daniel891::daniel891@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:daniel952::daniel952@students.psd1.org ;20-21 t2 waves 
+:*:danika248::danika248@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:dannella497::dannella497@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:david866::david866@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:deanna001::deanna001@students.psd1.org ;my 2021 T3 classes 
+:*:desiree961::desiree961@students.psd1.org ;my 2021 T3 classes 
+:*:destiny945::destiny945@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:devyn140::devyn140@students.psd1.org ;20-21 t2 phys 112 
+:*:dezarae468::dezarae468@students.psd1.org ;my 2021 T3 classes 
+:*:dianela434::dianela434@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS  Waves, 21-22, T1, 6th Period 
+:*:diego062::diego062@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:diego508::diego508@students.psd1.org ;my 2021 T3 classes 
+:*:diondre353::diondre353@students.psd1.org ;my 2021 T3 classes 
+:*:donovan238::donovan238@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:edgar712::edgar712@students.psd1.org ;Physics 111, 21-22, T1, 1st Period 
+:*:edgar937::edgar937@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:efrain789::efrain789@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:elena329::elena329@students.psd1.org ;20-21 t2 phys 112 
+:*:eli989::eli989@students.psd1.org ;20-21 t2 accelerated 
+:*:eliana532::eliana532@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:elijah474::elijah474@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:elina683::elina683@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:elizabeth023::elizabeth023@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:elizabeth159::elizabeth159@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:elizabeth553::elizabeth553@students.psd1.org ;20-21 t2 accelerated 
+:*:elizabeth592::elizabeth592@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
+:*:emanuel724::emanuel724@students.psd1.org ;my 2021 T3 classes 
+:*:emely001::emely001@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:emma140::emma140@students.psd1.org ;my 2021 T3 classes 
+:*:emmanuel011::emmanuel011@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:eric783::eric783@students.psd1.org ;20-21 t2 mos-1 and mos-2  Physics 111, 21-22, T1, 1st Period 21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:eric936::eric936@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:erick082::erick082@students.psd1.org ;my 2021 T3 classes 
+:*:erick830::erick830@students.psd1.org ;my e/i class of 2023 
+:*:esthelia706::esthelia706@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:exabian001::exabian001@students.psd1.org ;my 2021 T3 classes 
+:*:ezekiel016::ezekiel016@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:fabian239::fabian239@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:fatima002::fatima002@students.psd1.org ;my e/i class of 2023 
+:*:felix028::felix028@students.psd1.org ;20-21 t2 accelerated 
+:*:francisco041::francisco041@students.psd1.org ;2021 t1 kinematics 
+:*:gannin602::gannin602@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:gauge001::gauge001@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:gerald914::gerald914@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 MOS, 21-22,T1, 2nd Period
+:*:gerardo574::gerardo574@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
+:*:gilbert530::gilbert530@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
+:*:giovanni657::giovanni657@students.psd1.org ;my 2021 T3 classes 
+:*:giovanni930::giovanni930@students.psd1.org ;my 2021 T3 classes 
+:*:gisele973::gisele973@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:giselle700::giselle700@students.psd1.org ;2021 t1 kinematics 
+:*:gissel962::gissel962@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:guadalupe816::guadalupe816@students.psd1.org ;20-21 t2 waves 
+:*:gyovanna153::gyovanna153@students.psd1.org ;my 2021 T3 classes 
+:*:hailey474::hailey474@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:hector674::hector674@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:hiwot298::hiwot298@students.psd1.org ;my 2021 T3 classes 
+:*:ian013::ian013@students.psd1.org ;my 2021 T3 classes 
+:*:ilona834::ilona834@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
+:*:isaac603::isaac603@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:isaiah923::isaiah923@students.psd1.org ;my e/i class of 2023 
+:*:ismael589::ismael589@students.psd1.org ;my e/i class of 2023 
+:*:ivan136::ivan136@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:ivan913::ivan913@students.psd1.org ;2021 t1 kinematics 
+:*:izabella287::izabella287@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:j001::j001@students.psd1.org ;2021 t1 kinematics 
+:*:jacob016::jacob016@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:jacob231::jacob231@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:jacob421::jacob421@students.psd1.org ;Waves, 21-22, T1, 6th Period 
+:*:jaime002::jaime002@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:james323::james323@students.psd1.org ;my e/i class of 2023 
+:*:james445::james445@students.psd1.org ;my e/i class of 2023 
+:*:japheth673::japheth673@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:jaqueline543::jaqueline543@students.psd1.org ;Waves, 21-22, T1, 6th Period 
+:*:jared003::jared003@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:jared246::jared246@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:jared523::jared523@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:jason846::jason846@students.psd1.org ;my 2021 T3 classes 
+:*:javier797::javier797@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:javier912::javier912@students.psd1.org ;my 2021 T3 classes 
+:*:jaylynn618::jaylynn618@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:jazmin430::jazmin430@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:jd001::jd001@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 Waves, 21-22, T1, 3rd Period
+:*:jennifer181::jennifer181@students.psd1.org ;Physics 111, 21-22, T1, 1st Period 
+:*:jennifer835::jennifer835@students.psd1.org ;my 2021 T3 classes 
+:*:jeremiah008::jeremiah008@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 21-22-T3-6(A) PHYSICS - KINEMATICS
+:*:jesse002::jesse002@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 MOS, 21-22,T1, 2nd Period
+:*:jesus255::jesus255@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:jesus457::jesus457@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:jesus607::jesus607@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:jesus755::jesus755@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:jesus840::jesus840@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:jimmie953::jimmie953@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:joaquin458::joaquin458@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:johanna002::johanna002@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:john917::john917@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
+:*:johnnie614::johnnie614@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:jolie001::jolie001@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 MOS, 21-22,T1, 2nd Period
+:*:jonathan160::jonathan160@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:jonathan697::jonathan697@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:jonathan925::jonathan925@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:jordyn441::jordyn441@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:jorge640::jorge640@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:jorge652::jorge652@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:jorge718::jorge718@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:josaih838::josaih838@students.psd1.org ;20-21 t2 accelerated 
+:*:jose032::jose032@students.psd1.org ;my 2021 T3 classes 
+:*:jose147::jose147@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:jose207::jose207@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:jose215::jose215@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:jose228::jose228@students.psd1.org ;20-21 t2 waves 
+:*:jose533::jose533@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS  my 2021 T3 classes  Waves, 21-22, T1, 6th Period
+:*:jose536::jose536@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:jose731::jose731@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:jose819::jose819@students.psd1.org ;2021 t1 kinematics 
+:*:jose851::jose851@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:jose896::jose896@students.psd1.org ;my 2021 T3 classes 
+:*:josette571::josette571@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:joshua012::joshua012@students.psd1.org ;my e/i class of 2023 
+:*:joshua759::joshua759@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:josie275::josie275@students.psd1.org ;my 2021 T3 classes 
+:*:juan051::juan051@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:juan275::juan275@students.psd1.org ;my 2021 T3 classes 
+:*:juan434::juan434@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:juan701::juan701@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:juan774::juan774@students.psd1.org ;20-21 t2 accelerated 
+:*:juan912::juan912@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:julian187::julian187@students.psd1.org ;20-21 t2 accelerated  Waves, 21-22, T1, 6th Period
+:*:julian941::julian941@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:julianna003::julianna003@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:julieta646::julieta646@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:julio775::julio775@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:julio888::julio888@students.psd1.org ;2021 t1 kinematics 
+:*:julissa613::julissa613@students.psd1.org ;20-21 t2 accelerated 
+:*:justice232::justice232@students.psd1.org ;20-21 t2 accelerated 
+:*:justice756::justice756@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:karely163::karely163@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:kassandra107::kassandra107@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:katie702::katie702@students.psd1.org ;20-21 t2 accelerated 
+:*:kavya001::kavya001@students.psd1.org ;my 2021 T3 classes 
+:*:kayne002::kayne002@students.psd1.org ;20-21 t2 accelerated 
+:*:kelsie045::kelsie045@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:kendera721::kendera721@students.psd1.org ;2021 t1 kinematics 
+:*:keren169::keren169@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:kevin075::kevin075@students.psd1.org ;2021 t1 kinematics  Physics 111, 21-22, T1, 1st Period 21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:killian015::killian015@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
+:*:kylie650::kylie650@students.psd1.org ;my 2021 T3 classes 
+:*:laiza286::laiza286@students.psd1.org ;my 2021 T3 classes 
+:*:landon985::landon985@students.psd1.org ;20-21 t2 accelerated 
+:*:leo678::leo678@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 my 2021 T3 classes
+:*:leonardo058::leonardo058@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:leonardo692::leonardo692@students.psd1.org ;my 2021 T3 classes 
+:*:leonel154::leonel154@students.psd1.org ;20-21 t2 accelerated 
+:*:leslie015::leslie015@students.psd1.org ;20-21 t2 waves 
+:*:leslie448::leslie448@students.psd1.org ;20-21 t2 accelerated 
+:*:levi850::levi850@students.psd1.org ;2021 t1 kinematics 
+:*:lizandra518::lizandra518@students.psd1.org ;20-21 t2 accelerated 
+:*:lizbeth631::lizbeth631@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:lizbeth900::lizbeth900@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:lizbeth984::lizbeth984@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:logan653::logan653@students.psd1.org ;20-21 t2 accelerated 
+:*:logan959::logan959@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:london483::london483@students.psd1.org ;my 2021 T3 classes 
+:*:lorena854::lorena854@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 MOS, 21-22,T1, 2nd Period
+:*:lucia276::lucia276@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:luis029::luis029@students.psd1.org ;20 21 t2 dropped 
+:*:luis764::luis764@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:lupita002::lupita002@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
+:*:lynnelle431::lynnelle431@students.psd1.org ;2021 t1 kinematics 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 21-22-T3-3(A) ACCELERATED PHYSICS
+:*:lynsie440::lynsie440@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:madalynn197::madalynn197@students.psd1.org ;my 2021 T3 classes 
+:*:madison161::madison161@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:maksim113::maksim113@students.psd1.org ;my 2021 T3 classes 
+:*:manuel026::manuel026@students.psd1.org ;my 2021 T3 classes 
+:*:marcial469::marcial469@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:marelene675::marelene675@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:mariah656::mariah656@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:marializ001::marializ001@students.psd1.org ;2021 t1 kinematics 
+:*:marina149::marina149@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:marquis001::marquis001@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:martha877::martha877@students.psd1.org ;my 2021 T3 classes 
+:*:matthew564::matthew564@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:matthew926::matthew926@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:max440::max440@students.psd1.org ;2021 t1 kinematics 
+:*:mayra761::mayra761@students.psd1.org ;my 2021 T3 classes 
+:*:mccarty874::mccarty874@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II  my e/i class of 2023  Physics 111, 21-22, T1, 1st Period
+:*:melanie005::melanie005@students.psd1.org ;my e/i class of 2023 
+:*:melanie286::melanie286@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:melany049::melany049@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:mercadez947::mercadez947@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:michael013::michael013@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:miguel295::miguel295@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS  my 2021 T3 classes  Waves, 21-22, T1, 3rd Period
+:*:miguel321::miguel321@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:miguel603::miguel603@students.psd1.org ;my e/i class of 2023 
+:*:miguel733::miguel733@students.psd1.org ;my 2021 T3 classes 
+:*:miguel755::miguel755@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:miguel869::miguel869@students.psd1.org ;my 2021 T3 classes 
+:*:miguel899::miguel899@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:miguel923::miguel923@students.psd1.org ;my 2021 T3 classes 
+:*:monserrat697::monserrat697@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:montserrath001::montserrath001@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:natalie009::natalie009@students.psd1.org ;my e/i class of 2023 
+:*:nataly867::nataly867@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:nathan156::nathan156@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:nathan890::nathan890@students.psd1.org ;my 2021 T3 classes 
+:*:nemecio118::nemecio118@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:nicholas009::nicholas009@students.psd1.org ;20-21 T1 and T2 my 8th hour in person support 
+:*:noah877::noah877@students.psd1.org ;20-21 t2 accelerated 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
+:*:noe106::noe106@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:octavio124::octavio124@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:orlando980::orlando980@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:oscar179::oscar179@students.psd1.org ;my 2021 T3 classes 
+:*:oscar795::oscar795@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:owen704::owen704@students.psd1.org ;my 2021 T3 classes 
+:*:pabigail287::poashr ;my 2021 T3 classes 
+:*:pabigail803::role241 ;my e/i class of 2023 
+:*:pablo257::pablo257@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 MOS, 21-22,T1, 2nd Period
+:*:pablo597::pablo597@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:pabraham443::pray513 ;20-21 t2 mos-1 and mos-2 
+:*:padan194::4g56bm ;my e/i class of 2023 
+:*:padrian366::know797 ;my 2021 T3 classes 
+:*:pafton144::gray243 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:palex006::oyzgd5 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:palex222::3dioqw ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:palex835::loud982 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:palexander027::rage552 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:palexander404::hill107 ;my 2021 T3 classes 
+:*:palexander618::gogbw0 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:palexander952::3z25i3 ;20-21 T1 and T2 my 8th hour in person support 
+:*:palexandru629::ex71k2 ;20-21 t2 waves 
+:*:palexis288::blue113 ;2021 t1 kinematics 
+:*:palexis640::deep566 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:palexis755::like588 ;MOS, 21-22,T1, 2nd Period 
+:*:palfonso890::told122 ;my 2021 T3 classes 
+:*:palonso826::xy1kod ;my 2021 T3 classes 
+:*:palvaro637::your874 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pamerica945::talk380 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pamethyst958::sofa829 ;MOS, 21-22,T1, 2nd Period 
+:*:pana320::yk7y3o ;20-21 t2 phys 112 
+:*:panahi574::zero828 ;my 2021 T3 classes 
+:*:panahie497::y2j7s3 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:panahy506::soap333 ;my e/i class of 2023 
+:*:panalie459::9rx072 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pandre006::vary521 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pandre007::t00cuq ;my 2021 T3 classes 
+:*:pandres025::kite860 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pandres405::rj655m ;my 2021 T3 classes 
+:*:pandres902::live609 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pandrew016::join083 ;Waves, 21-22, T1, 3rd Period 
+:*:pandrew754::pine313 ;20-21 t2 mos-1 and mos-2 
+:*:pandy867::gtimye ;20-21 t2 mos-1 and mos-2 
+:*:pangel003::unit858 ;MOS, 21-22,T1, 2nd Period 
+:*:pangel404::when549 ;20-21 t2 phys 112 
+:*:pangel528::9i6gjo ;20-21 t2 accelerated 
+:*:pangel785::boat220 ;my e/i class of 2023 
+:*:panita006::okay886 ;20-21 t2 accelerated 
+:*:pantajha001::wave200 ;20-21 t2 phys 112 
+:*:panthony011::goes365 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:panthony020::room807 ;MOS, 21-22,T1, 2nd Period 
+:*:panthony026::your851 ;my 2021 T3 classes 
+:*:panthony096::8odm16 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:panthony277::dear211 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:panthony452::1md3gn ;my 2021 T3 classes 
+:*:pantonio500::r6wn7d ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:parlette851::fray053 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:parman052::tune701 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:parmando980::75kks5 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pashley458::path986 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pashley711::stow629 ;MOS, 21-22,T1, 2nd Period 
+:*:patticus004::DRAT ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:paustin790::plot113 ;MOS, 21-22,T1, 2nd Period 
+:*:payden705::work348 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pbelynda794::name693 ;20-21 t2 mos-1 and mos-2 
+:*:pbenjamin409::pave253 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pbenjamin916::gate733 ;my 2021 T3 classes 
+:*:pbennett352::dj76br ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pbenson425::tall135 ;20-21 t2 mos-1 and mos-2 
+:*:pbernardo828::jf9s7y ;my 2021 T3 classes 
+:*:pbetzaida001::cane937 ;MOS, 21-22,T1, 2nd Period 
+:*:pbradley041::rude288 ;my e/i class of 2023 
+:*:pbrandon617::gust341 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pbrandon786::41rk0g ;20-21 T1 and T2 my 8th hour in person support 
+:*:pbrenda006::mess653 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pbrian002::crop075 ;my 2021 T3 classes 
+:*:pbrian462::onwciu ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pbrian501::crow489 ;20-21 t2 mos-1 and mos-2 
+:*:pbrianna089::king251 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pbrittany344::h3jgb3 ;my e/i class of 2023 
+:*:pbryan832::57mjus ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pcaden835::talk143 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pcaleb170::k96qm6 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pcamilla012::dish580 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pcarlos063::lawn878 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pcarlos475::blow868 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pcarlos781::m1n23n ;20-21 t2 accelerated 
+:*:pcarlos890::acbdnc ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pcarmen027::vp8p95 ;2021 t1 kinematics 
+:*:pcarter525::many619 ;20-21 t2 accelerated 
+:*:pcasper001::dose047 ;20-21 t2 mos-1 and mos-2 
+:*:pcelene340::9dpn79 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pceleste194::gate940 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pcelestine387::2xt8i5 ;my 2021 T3 classes 
+:*:pcesar001::seep952 ;my 2021 T3 classes 
+:*:pcesar624::vm08w6 ;my 2021 T3 classes 
+:*:pcharles011::harm849 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pchase739::here754 ;2021 t1 kinematics 
+:*:pcherish037::dime741 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pchristian242::part877 ;20-21 t2 waves 
+:*:pchristina001::moon624 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pchristophe080::hind019 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pchristopher024::food877 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pclayton002::chip743 ;2021 t1 kinematics 
+:*:pclemente001::fine118 ;MOS, 21-22,T1, 2nd Period 
+:*:pcole580::wool036 ;my 2021 T3 classes 
+:*:pcresencio740::harm236 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pcristian277::none081 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pcristian491::gs87x8 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pcrystian585::i376pr ;my 2021 T3 classes 
+:*:pcynthia121::fx0ucf ;MOS, 21-22,T1, 2nd Period 
+:*:pdakota005::stop479 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pdamien375::n5ar9h ;2021 t1 kinematics 
+:*:pdaneya874::keep342 ;my e/i class of 2023 
+:*:pdaniel029::save103 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pdaniel037::aoc6do ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pdaniel368::spot228 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pdaniel784::some928 ;my e/i class of 2023 
+:*:pdaniel891::tbu3uy ;20-21 T1 and T2 my 8th hour in person support 
+:*:pdaniel952::were409 ;2021 t1 kinematics 
+:*:pdanika248::been974 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pdannella497::w9jqze ;MOS, 21-22,T1, 2nd Period 
+:*:pdavid866::tube810 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pdeanna001::base358 ;2021 t1 kinematics 
+:*:pdesiree961::gjz459 ;20-21 t2 mos-1 and mos-2 
+:*:pdestiny945::dock518 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pdevyn140::9rkrab ;20-21 T1 and T2 my 8th hour in person support 
+:*:pdezarae468::pool355 ;20-21 t2 accelerated 
+:*:pdianela434::busy068 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pdiego062::DRAT ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pdiego508::29f830 ;my 2021 T3 classes 
+:*:pdiondre353::28runh ;my e/i class of 2023 
+:*:pdonovan238::seem097 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pedgar712::made727 ;Physics 111, 21-22, T1, 1st Period 
+:*:pedgar937::pump528 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pedro506::pedro506@students.psd1.org ;my e/i class of 2023 
+:*:pedro950::pedro950@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pefrain789::wide291 ;20-21 t2 mos-1 and mos-2 
+:*:pelena329::pail455 ;20-21 t2 mos-1 and mos-2 
+:*:peli989::flat467 ;my 2021 T3 classes 
+:*:peliana532::word581 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pelijah474::took558 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pelina683::door334 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pelizabeth023::tale834 ;MOS, 21-22,T1, 2nd Period 
+:*:pelizabeth159::burn927 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pelizabeth553::k2wz2e ;my 2021 T3 classes 
+:*:pelizabeth592::turn673 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pemanuel724::poor129 ;2021 t1 kinematics 
+:*:pemely001::wage155 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pemma140::here115 ;my 2021 T3 classes 
+:*:pemmanuel011::game517 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:peric783::1i9wbj ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:peric936::hiyqhm ;my 2021 T3 classes 
+:*:perick082::0nco3v ;2021 t1 kinematics 
+:*:perick830::mgahvc ;other students 
+:*:perla117::perla117@students.psd1.org ;20-21 t2 mos-1 and mos-2 
+:*:perla213::perla213@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:pesthelia706::tube580 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pexabian001::sack740 ;20-21 t2 mos-1 and mos-2 
+:*:pezekiel016::m2ws5z ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pfabian239::full459 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pfatima002::help043 ;my 2021 T3 classes 
+:*:pfelix028::fate720 ;20-21 t2 waves 
+:*:pfrancisco041::44stgn ;20-21 t2 mos-1 and mos-2 
+:*:pgannin602::foot921 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pgauge001::rise750 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pgerald914::hbdijd ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pgerardo574::bbjtt8 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pgilbert530::golf303 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pgiovanni657::f66vst ;20-21 t2 mos-1 and mos-2 
+:*:pgiovanni930::mitt170 ;2021 t1 kinematics 
+:*:pgisele973::54jruu ;20-21 T1 and T2 my 8th hour in person support 
+:*:pgiselle700::bziym7 ;my 2021 T3 classes 
+:*:pgissel962::joke673 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pguadalupe816::ts2cz2 ;20-21 t2 accelerated 
+:*:pgyovanna153::dvu0jo ;my 2021 T3 classes 
+:*:phailey474::land463 ;MOS, 21-22,T1, 2nd Period 
+:*:phector674::yxfx28 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:phiwot298::gcb2an ;20-21 t2 accelerated 
+:*:pian013::deal813 ;20-21 t2 waves 
+:*:pilona834::p043v6 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pisaac603::ball580 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pisaiah923::turn871 ;my 2021 T3 classes 
+:*:pismael589::s6gmm0 ;my 2021 T3 classes 
+:*:pivan136::much899 ;20-21 t2 mos-1 and mos-2 
+:*:pivan913::bo2uth ;2021 t1 kinematics 
+:*:pizabella287::park759 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pj001::deer567 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pjacob016::they146 ;MOS, 21-22,T1, 2nd Period 
+:*:pjacob231::2xko7o ;my 2021 T3 classes 
+:*:pjacob421::mbgvzv ;Waves, 21-22, T1, 6th Period 
+:*:pjaime002::sled562 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pjames323::meal902 ;20-21 t2 mos-1 and mos-2 
+:*:pjames445::meal310 ;my 2021 T3 classes 
+:*:pjapheth673::card201 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pjaqueline543::uu0aiq ;Waves, 21-22, T1, 6th Period 
+:*:pjared003::page262 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pjared246::flow523 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pjared523::twig314 ;my e/i class of 2023 
+:*:pjason846::53kuqf ;20-21 t2 phys 112 
+:*:pjavier797::pwjnnn ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pjavier912::566w5j ;my 2021 T3 classes 
+:*:pjaylynn618::horn396 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pjazmin430::na0em0 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pjd001::cool535 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pjennifer181::frog279 ;Physics 111, 21-22, T1, 1st Period 
+:*:pjennifer835::vwp9f0 ;20-21 t2 accelerated 
+:*:pjeremiah008::dawn251 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pjesse002::bask282 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pjesus255::xku88n ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pjesus457::5qn34z ;20-21 T1 and T2 my 8th hour in person support 
+:*:pjesus607::7r5knb ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pjesus755::ozpwsm ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pjesus840::e9sirb ;my e/i class of 2023 
+:*:pjimmie953::eguaux ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pjoaquin458::seam335 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pjohanna002::once493 ;2021 t1 kinematics 
+:*:pjohn917::cram923 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pjohnnie614::mqwg80 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pjolie001::bell528 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pjonathan160::xr422p ;2021 t1 kinematics 
+:*:pjonathan697::soft762 ;2021 t1 kinematics 
+:*:pjonathan925::a7encr ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pjordyn441::beam373 ;2021 t1 kinematics 
+:*:pjorge640::hind005 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pjorge652::help391 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pjorge718::deal777 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pjosaih838::stay401 ;my e/i class of 2023 
+:*:pjose032::dock314 ;my 2021 T3 classes 
+:*:pjose147::read731 ;MOS, 21-22,T1, 2nd Period 
+:*:pjose207::rock761 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pjose215::pray218 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pjose228::pike565 ;my e/i class of 2023 
+:*:pjose533::brag379 ;20-21 t2 accelerated 
+:*:pjose536::un1sny ;20-21 t2 mos-1 and mos-2 
+:*:pjose731::hope538 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pjose819::yard071 ;my 2021 T3 classes 
+:*:pjose851::59km25 ;my 2021 T3 classes 
+:*:pjose896::08gmwy ;my 2021 T3 classes 
+:*:pjosette571::aho14r ;MOS, 21-22,T1, 2nd Period 
+:*:pjoshua012::that722 ;my 2021 T3 classes 
+:*:pjoshua759::hall324 ;MOS, 21-22,T1, 2nd Period 
+:*:pjosie275::bell998 ;2021 t1 kinematics 
+:*:pjuan051::with645 ;my 2021 T3 classes 
+:*:pjuan275::fq745w ;my 2021 T3 classes 
+:*:pjuan434::golf926 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pjuan701::kt18q4 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pjuan774::time838 ;20-21 t2 accelerated 
+:*:pjuan912::er3urf ;2021 t1 kinematics 
+:*:pjulian187::bwh9xq ;20-21 t2 mos-1 and mos-2 
+:*:pjulian941::song661 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pjulianna003::till434 ;my 2021 T3 classes 
+:*:pjulieta646::6uzfzs ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pjulio775::soft220 ;MOS, 21-22,T1, 2nd Period 
+:*:pjulio888::beet713 ;20-21 t2 mos-1 and mos-2 
+:*:pjulissa613::ours846 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pjustice232::bold344 ;20-21 t2 accelerated 
+:*:pjustice756::7utbmi ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pkarely163::ra0jkn ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pkassandra107::ud9r2m ;my 2021 T3 classes 
+:*:pkatie702::54jinj ;20-21 t2 accelerated 
+:*:pkavya001::cope095 ;my 2021 T3 classes 
+:*:pkayne002::belt396 ;my 2021 T3 classes 
+:*:pkelsie045::dear666 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pkendera721::270q1h ;2021 t1 kinematics 
+:*:pkeren169::DRAT ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pkeren169::oxkth2 ;Waves, 21-22, T1, 3rd Period 
+:*:pkevin075::feet840 ;20-21 t2 waves 
+:*:pkillian015::baby317 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pkylie650::kfkcdb ;2021 t1 kinematics 
+:*:plaiza286::n91d6r ;2021 t1 kinematics 
+:*:plandon985::bang853 ;2021 t1 kinematics 
+:*:pleo678::yqsqpf ;2021 t1 kinematics 
+:*:pleonardo058::007u2h ;MOS, 21-22,T1, 2nd Period 
+:*:pleonardo692::ne045p ;my e/i class of 2023 
+:*:pleonel154::page088 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pleslie015::rail892 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pleslie448::txnuau ;my 2021 T3 classes 
+:*:plevi850::ewx3xp ;20-21 T1 and T2 my 8th hour in person support 
+:*:plizandra518::rake857 ;my e/i class of 2023 
+:*:plizbeth631::soap611 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:plizbeth900::kbydwf ;20-21 T1 and T2 my 8th hour in person support 
+:*:plizbeth984::when499 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:plogan653::8be5rt ;20-21 t2 accelerated 
+:*:plogan959::qcfwme ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:plondon483::line921 ;20-21 T1 and T2 my 8th hour in person support 
+:*:plorena854::boil393 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:plucia276::ours887 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pluis029::into956 ;20-21 t2 mos-1 and mos-2 
+:*:pluis764::corn507 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:plupita002::list987 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:plynnelle431::claw275 ;20-21 T1 and T2 my 8th hour in person support 
+:*:plynsie440::x2fx75 ;my 2021 T3 classes 
+:*:pmadalynn197::bill953 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmadison161::side372 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pmaksim113::n9wrr3 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmanuel026::kdywnd ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmarcial469::love432 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pmarelene675::soap910 ;MOS, 21-22,T1, 2nd Period 
+:*:pmariah656::DRAT ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pmarializ001::code733 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmarina149::size508 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmarquis001::luck370 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pmartha877::wm94e3 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmatthew564::cage159 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pmatthew926::meal373 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pmax440::very306 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmayra761::vh5syb ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmccarty874::rest337 ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmelanie005::tray843 ;my 2021 T3 classes 
+:*:pmelanie286::gate037 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pmelany049::du5d7b ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pmercadez947::itgzd7 ;MOS, 21-22,T1, 2nd Period 
+:*:pmichael013::free044 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pmiguel295::list446 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pmiguel321::gate627 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pmiguel603::r6np7w ;my 2021 T3 classes 
+:*:pmiguel733::ad2ysj ;20-21 T1 and T2 my 8th hour in person support 
+:*:pmiguel755::will047 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pmiguel869::5h0ipz ;my 2021 T3 classes 
+:*:pmiguel899::just422 ;2021 t1 kinematics 
+:*:pmiguel923::9914gf ;my 2021 T3 classes 
+:*:pmonserrat697::hair215 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pmontserrath001::boom040 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pnatalie009::them370 ;my 2021 T3 classes 
+:*:pnataly867::star647 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:pnathan156::3nhtyh ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pnathan890::g2fjh3 ;20-21 t2 accelerated 
+:*:pnemecio118::zero492 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pnicholas009::core697 ;2021 t1 kinematics 
+:*:pnoah877::fpez13 ;20-21 t2 mos-1 and mos-2 
+:*:pnoe106::belt279 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:poctavio124::pray616 ;my 2021 T3 classes 
+:*:porlando980::word204 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:poscar179::tune652 ;20-21 t2 mos-1 and mos-2 
+:*:poscar795::bent329 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:powen704::q8gpd3 ;20-21 T1 and T2 my 8th hour in person support 
+:*:ppablo257::feet114 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:ppablo597::6wsei8 ;20-21 t2 accelerated 
+:*:ppedro506::fmz015 ;my 2021 T3 classes 
+:*:ppedro950::stco44 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pperla117::born998 ;20-21 t2 accelerated 
+:*:pperla213::3pfni3 ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:ppricila449::bang958 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:prafael590::wtu5r1 ;MOS, 21-22,T1, 2nd Period 
+:*:prailynn809::ytubmh ;my 2021 T3 classes 
+:*:praul640::yyb7co ;my 2021 T3 classes 
+:*:praymond902::7avege ;2021 t1 kinematics 
+:*:prene565::move238 ;MOS, 21-22,T1, 2nd Period 
+:*:pricardo552::4id77q ;Waves, 21-22, T1, 3rd Period 
+:*:pricila449::pricila449@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:prodrigo005::zero075 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:progelio355::tube899 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:prosario929::dv6o7d ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:prose001::lean340 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pross343::thrtv8 ;20-21 t2 waves 
+:*:proxanna568::neck715 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:pruben982::gfpkoo ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:prylee760::over659 ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:psalvador130::6qdiah ;other students 
+:*:psarai898::beef998 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:psaul270::sink271 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:psaul527::five091 ; 
+:*:psayda106::ezcu73 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pscott847::gate026 ; 
+:*:psebastian400::fray839 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:psebastian482::page424 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:psergiy563::c2cdo0 ; 
+:*:psheila503::bare108 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:psilas403::bean834 ; 
+:*:pspencer004::give048 ;MOS, 21-22,T1, 2nd Period 
+:*:pstephan297::y3aeum ; 
+:*:pstephanie388::czkqw9 ; 
+:*:pstephanie685::cn87b3 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:psusana747::tent365 ; 
+:*:ptalisha425::fiqpoe ; 
+:*:ptania541::mxsrup ; 
+:*:ptania910::deer734 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:ptanner829::sent574 ;MOS, 21-22,T1, 2nd Period 
+:*:ptatyana375::hoppwk ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:ptaya312::land466 ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:ptrenton280::fn0xh2 ; 
+:*:ptyler747::cwi7ir ;21-22-T3-6(A) PHYSICS - KINEMATICS 
+:*:pubaldo916::990y0k ; 
+:*:pulises061::foot115 ; 
+:*:pulises697::pint074 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:puriel783::mess876 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pvalentin271::eah84r ; 
+:*:pvalerie225::sink061 ; 
+:*:pvanessa475::flaw841 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pvicente368::8o0mhy ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pvictor676::spot891 ;MOS, 21-22,T1, 2nd Period 
+:*:pvictor968::7zum7h ; 
+:*:pviky227::hair834 ; 
+:*:pviolet873::g5i6jw ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pvitaliy658::rain882 ; 
+:*:pviviana540::hard990 ; 
+:*:pvladimir671::beep737 ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:pweilan185::9icjib ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II 
+:*:pwilliam992::i720h5 ; 
+:*:pwyatt381::what650 ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:pxavier274::walk743 ; 
+:*:pxavier676::vfh0n6 ; 
+:*:pximena069::mess910 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pxylia547::6w8zd2 ; 
+:*:pyareli706::8shzki ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:pyizel309::slip155 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pyoana335::8t9bie ; 
+:*:pyrelda693::sofa246 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pyulisa495::flat012 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:pzammira771::gave756 ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:rafael590::rafael590@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:railynn809::railynn809@students.psd1.org ; 
+:*:raul640::raul640@students.psd1.org ; 
+:*:raymond902::raymond902@students.psd1.org ; 
+:*:rene565::rene565@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:ricardo552::ricardo552@students.psd1.org ;Waves, 21-22, T1, 3rd Period 
+:*:rodrigo005::rodrigo005@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:rogelio355::rogelio355@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:rosario929::rosario929@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:rose001::rose001@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:ross343::ross343@students.psd1.org ; 
+:*:roxanna568::roxanna568@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:ruben982::ruben982@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:rylee760::rylee760@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS my e/i class of 2023 
+:*:salvador130::salvador130@students.psd1.org ; 
+:*:sarai898::sarai898@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:saul270::saul270@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:saul527::saul527@students.psd1.org ; 
+:*:sayda106::sayda106@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 6th Period
+:*:scott847::scott847@students.psd1.org ; 
+:*:sebastian400::sebastian400@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:sebastian482::sebastian482@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
+:*:sergiy563::sergiy563@students.psd1.org ; 
+:*:sheila503::sheila503@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:silas403::silas403@students.psd1.org ; 
+:*:spencer004::spencer004@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:stephan297::stephan297@students.psd1.org ; 
+:*:stephanie388::stephanie388@students.psd1.org ; 
+:*:stephanie685::stephanie685@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:susana747::susana747@students.psd1.org ; 
+:*:talisha425::talisha425@students.psd1.org ; 
+:*:tania541::tania541@students.psd1.org ; 
+:*:tania910::tania910@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:tanner829::tanner829@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:tatyana375::tatyana375@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:taya312::taya312@students.psd1.org ;21-22-T3-3(A) ACCELERATED PHYSICS 
+:*:trenton280::trenton280@students.psd1.org ; 
+:*:tyler747::tyler747@students.psd1.org ;21-22-T3-6(A) PHYSICS - KINEMATICS Waves, 21-22, T1, 3rd Period
+:*:ubaldo916::ubaldo916@students.psd1.org ; 
+:*:ulises061::ulises061@students.psd1.org ; 
+:*:ulises697::ulises697@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:uriel783::uriel783@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:valentin271::valentin271@students.psd1.org ; 
+:*:valerie225::valerie225@students.psd1.org ; 
+:*:vanessa475::vanessa475@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:vicente368::vicente368@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS 
+:*:victor676::victor676@students.psd1.org ;MOS, 21-22,T1, 2nd Period 
+:*:victor968::victor968@students.psd1.org ; 
+:*:viky227::viky227@students.psd1.org ; 
+:*:violet873::violet873@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
+:*:vitaliy658::vitaliy658@students.psd1.org ; 
+:*:viviana540::viviana540@students.psd1.org ; 
+:*:vladimir671::vladimir671@students.psd1.org ;21-22-T2-2(A) EARTH SCIENCE 3 
+:*:weilan185::weilan185@students.psd1.org ;21-22-T2-1(A) PHYSICS 112 INTRO TO PHYS II Physics 111, 21-22, T1, 1st Period
+:*:william992::william992@students.psd1.org ; 
+:*:wyatt381::wyatt381@students.psd1.org ;21-22-T3-5(A) PHYSICS - KINEMATICS Physics 111, 21-22, T1, 1st Period 
+:*:xavier274::xavier274@students.psd1.org ; 
+:*:xavier676::xavier676@students.psd1.org ; 
+:*:ximena069::ximena069@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:xylia547::xylia547@students.psd1.org ; 
+:*:yareli706::yareli706@students.psd1.org ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 MOS, 21-22,T1, 2nd Period
+:*:yizel309::yizel309@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-3(A) ACCELERATED PHYSICS
+:*:yoana335::yoana335@students.psd1.org ; 
+:*:yrelda693::yrelda693@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
+:*:yulisa495::yulisa495@students.psd1.org ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2
+:*:zammira771::zammira771@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
 ;:*:foo::foo@students.psd1.org 
 ;:*:pfoo::foobar 
 
