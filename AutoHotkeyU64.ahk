@@ -100,21 +100,32 @@ PT3 Curriculum, Instruction and Assessment
 [end]
 )
 :*:..wpfaq::http://tiny.cc/wpfaq
-:*:.t1.1st::section_171725@psd1.org
-:*:.t1.2nd::Section_1734340707@psd1.org
-:*:.t1.5th::Section_1717271425@psd1.org;c7705af5.psd1.org@amer.teams.ms
-:*:.t1.6th::Section_1717327945@psd1.org
-:*:.t2.1st::Section_1718351735@psd1.org;358986c0.psd1.org@amer.teams.ms
-:*:.t2.2nd::Section_1734379288@psd1.org;7c6c46fe.psd1.org@amer.teams.ms
-:*:.t2.5th::Section_1721102055@psd1.org;Section_1721085966@psd1.org;9018b175.psd1.org@amer.teams.ms
-:*:.t2.6th::Section_1718331982@psd1.org;55ad665a.psd1.org@amer.teams.ms
-:*:.t2.8th::Section_186196@psd1.org;d60aeae5.psd1.org@amer.teams.ms
-:*:..t2::Section_1718351735@psd1.org;358986c0.psd1.org@amer.teams.ms;Section_1734379288@psd1.org;7c6c46fe.psd1.org@amer.teams.ms;Section_1721102055@psd1.org;Section_1721129826@psd1.org;9018b175.psd1.org@amer.teams.ms;Section_1718331982@psd1.org;55ad665a.psd1.org@amer.teams.ms
-:*:..1st::Section_1717304769@psd1.org;9dfbdc54.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
-:*:..2nd::Section_171726@psd1.org;93e41cad.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
-:*:..3rd::Section_1717282982@psd1.org;8915ac96.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
-:*:..6th::Section_1721129826@psd1.org;Section_172285@psd1.org;c5c8b565.psd1.org@amer.teams.ms;33796d03.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
-:*:..ei::Section_181138@psd1.org;jweisenfeldtest@students.psd1.org;
+;20-21 Email Aliases Below
+;:*:.t1.1st::section_171725@psd1.org
+;:*:.t1.2nd::Section_1734340707@psd1.org
+;:*:.t1.5th::Section_1717271425@psd1.org;c7705af5.psd1.org@amer.teams.ms
+;:*:.t1.6th::Section_1717327945@psd1.org
+;:*:.t2.1st::Section_1718351735@psd1.org;358986c0.psd1.org@amer.teams.ms
+;:*:.t2.2nd::Section_1734379288@psd1.org;7c6c46fe.psd1.org@amer.teams.ms
+;:*:.t2.5th::Section_1721102055@psd1.org;Section_1721085966@psd1.org;9018b175.psd1.org@amer.teams.ms
+;:*:.t2.6th::Section_1718331982@psd1.org;55ad665a.psd1.org@amer.teams.ms
+;:*:.t2.8th::Section_186196@psd1.org;d60aeae5.psd1.org@amer.teams.ms
+;:*:..t2::Section_1718351735@psd1.org;358986c0.psd1.org@amer.teams.ms;Section_1734379288@psd1.org;7c6c46fe.psd1.org@amer.teams.ms;Section_1721102055@psd1.org;Section_1721129826@psd1.org;9018b175.psd1.org@amer.teams.ms;Section_1718331982@psd1.org;55ad665a.psd1.org@amer.teams.ms
+;:*:..1st::Section_1717304769@psd1.org;9dfbdc54.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
+;:*:..2nd::Section_171726@psd1.org;93e41cad.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
+;:*:..3rd::Section_1717282982@psd1.org;8915ac96.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
+;:*:..6th::Section_1721129826@psd1.org;Section_172285@psd1.org;c5c8b565.psd1.org@amer.teams.ms;33796d03.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
+;:*:..ei::Section_181138@psd1.org;jweisenfeldtest@students.psd1.org;
+;20-21 Email Aliases Above
+;21-22 Email Aliases Below
+:*:..1st::Section_202617@psd1.org
+:*:..2nd::Section_203321@psd1.org
+:*:..3rd::Section_203322@psd1.org
+:*:..4th::jweisenfeldtest@students.psd1.org
+:*:..5th::jweisenfeldtest@students.psd1.org
+:*:..6th::Section_203323@psd1.org
+:*:..ei::Section_205946@psd1.org
+;21-22 Email Aliases Above
 :*:..cer::[answers may vary, students should strive to write complete sentences and provide an argument or reasoning for their answers]
 :*:..efhid::90042456
 :*:..cb::http://tiny.cc/mrwastrochoice
