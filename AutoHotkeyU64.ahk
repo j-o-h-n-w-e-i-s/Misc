@@ -100,21 +100,32 @@ PT3 Curriculum, Instruction and Assessment
 [end]
 )
 :*:..wpfaq::http://tiny.cc/wpfaq
-:*:.t1.1st::section_171725@psd1.org
-:*:.t1.2nd::Section_1734340707@psd1.org
-:*:.t1.5th::Section_1717271425@psd1.org;c7705af5.psd1.org@amer.teams.ms
-:*:.t1.6th::Section_1717327945@psd1.org
-:*:.t2.1st::Section_1718351735@psd1.org;358986c0.psd1.org@amer.teams.ms
-:*:.t2.2nd::Section_1734379288@psd1.org;7c6c46fe.psd1.org@amer.teams.ms
-:*:.t2.5th::Section_1721102055@psd1.org;Section_1721085966@psd1.org;9018b175.psd1.org@amer.teams.ms
-:*:.t2.6th::Section_1718331982@psd1.org;55ad665a.psd1.org@amer.teams.ms
-:*:.t2.8th::Section_186196@psd1.org;d60aeae5.psd1.org@amer.teams.ms
-:*:..t2::Section_1718351735@psd1.org;358986c0.psd1.org@amer.teams.ms;Section_1734379288@psd1.org;7c6c46fe.psd1.org@amer.teams.ms;Section_1721102055@psd1.org;Section_1721129826@psd1.org;9018b175.psd1.org@amer.teams.ms;Section_1718331982@psd1.org;55ad665a.psd1.org@amer.teams.ms
-:*:..1st::Section_1717304769@psd1.org;9dfbdc54.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
-:*:..2nd::Section_171726@psd1.org;93e41cad.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
-:*:..3rd::Section_1717282982@psd1.org;8915ac96.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
-:*:..6th::Section_1721129826@psd1.org;Section_172285@psd1.org;c5c8b565.psd1.org@amer.teams.ms;33796d03.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
-:*:..ei::Section_181138@psd1.org;jweisenfeldtest@students.psd1.org;
+;20-21 Email Aliases Below
+;:*:.t1.1st::section_171725@psd1.org
+;:*:.t1.2nd::Section_1734340707@psd1.org
+;:*:.t1.5th::Section_1717271425@psd1.org;c7705af5.psd1.org@amer.teams.ms
+;:*:.t1.6th::Section_1717327945@psd1.org
+;:*:.t2.1st::Section_1718351735@psd1.org;358986c0.psd1.org@amer.teams.ms
+;:*:.t2.2nd::Section_1734379288@psd1.org;7c6c46fe.psd1.org@amer.teams.ms
+;:*:.t2.5th::Section_1721102055@psd1.org;Section_1721085966@psd1.org;9018b175.psd1.org@amer.teams.ms
+;:*:.t2.6th::Section_1718331982@psd1.org;55ad665a.psd1.org@amer.teams.ms
+;:*:.t2.8th::Section_186196@psd1.org;d60aeae5.psd1.org@amer.teams.ms
+;:*:..t2::Section_1718351735@psd1.org;358986c0.psd1.org@amer.teams.ms;Section_1734379288@psd1.org;7c6c46fe.psd1.org@amer.teams.ms;Section_1721102055@psd1.org;Section_1721129826@psd1.org;9018b175.psd1.org@amer.teams.ms;Section_1718331982@psd1.org;55ad665a.psd1.org@amer.teams.ms
+;:*:..1st::Section_1717304769@psd1.org;9dfbdc54.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
+;:*:..2nd::Section_171726@psd1.org;93e41cad.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
+;:*:..3rd::Section_1717282982@psd1.org;8915ac96.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
+;:*:..6th::Section_1721129826@psd1.org;Section_172285@psd1.org;c5c8b565.psd1.org@amer.teams.ms;33796d03.psd1.org@amer.teams.ms;jweisenfeldtest@students.psd1.org;
+;:*:..ei::Section_181138@psd1.org;jweisenfeldtest@students.psd1.org;
+;20-21 Email Aliases Above
+;21-22 Email Aliases Below
+:*:..1st::Section_202617@psd1.org
+:*:..2nd::Section_203321@psd1.org
+:*:..3rd::Section_203322@psd1.org
+:*:..4th::jweisenfeldtest@students.psd1.org
+:*:..5th::jweisenfeldtest@students.psd1.org
+:*:..6th::Section_203323@psd1.org
+:*:..ei::Section_205946@psd1.org
+;21-22 Email Aliases Above
 :*:..cer::[answers may vary, students should strive to write complete sentences and provide an argument or reasoning for their answers]
 :*:..efhid::90042456
 :*:..cb::http://tiny.cc/mrwastrochoice
@@ -140,8 +151,10 @@ PT3 Curriculum, Instruction and Assessment
 :*:..2lkey::LKEY-51768-06216-ks2021
 :*:..3lkey::LKEY-69204-36115-ks2021
 ;:*:..mos::94512-PSD1-58243; TOO MANY USERS
-:*:..mos::42222-MOS2021-89256
 ;:*:..mos::77074-MOSTRI2-31445 ;used up!!!
+:*:..mos::42222-MOS2021-89256
+:*:..jl::LKEY-88711-63943-Brault4
+:*:..jm::64427-JB2122T1-26731
 :*:jwe::jweisenfeld@psd1.org
 :*:pjwe::Whe60187!
 :*:..best::http://tiny.cc/phsbestpractices
@@ -2023,9 +2036,58 @@ Return
 :*:zammira771::zammira771@students.psd1.org ;21-22-T2-5(A) EARTH SCIENCE 3 
 ;:*:foo::foo@students.psd1.org 
 ;:*:pfoo::foobar 
-
-
-
+:*:gabriel816::gabriel816@students.psd1.org ;Barquist 2122 T1 MOS
+:*:stephanie685::stephanie685@students.psd1.org ;Barquist 2122 T1 MOS
+:*:omar115::omar115@students.psd1.org ;Barquist 2122 T1 MOS
+:*:luis165::luis165@students.psd1.org ;Barquist 2122 T1 MOS
+:*:michael170::michael170@students.psd1.org ;Barquist 2122 T1 MOS
+:*:sebastian020::sebastian020@students.psd1.org ;Barquist 2122 T1 MOS
+:*:ingri616::ingri616@students.psd1.org ;Barquist 2122 T1 MOS
+:*:aquiles003::aquiles003@students.psd1.org ;Barquist 2122 T1 MOS
+:*:taryn792::taryn792@students.psd1.org ;Barquist 2122 T1 MOS
+:*:nancy429::nancy429@students.psd1.org ;Barquist 2122 T1 MOS
+:*:maddax649::maddax649@students.psd1.org ;Barquist 2122 T1 MOS
+:*:gianniannalicia001::gianniannalicia001@students.psd1.org ;Barquist 2122 T1 MOS
+:*:melissa862::melissa862@students.psd1.org ;Barquist 2122 T1 MOS
+:*:antonio033::antonio033@students.psd1.org ;Barquist 2122 T1 MOS
+:*:christian195::christian195@students.psd1.org ;Barquist 2122 T1 MOS
+:*:giovanni930::giovanni930@students.psd1.org ;Barquist 2122 T1 MOS
+:*:juan008::juan008@students.psd1.org ;Barquist 2122 T1 MOS
+:*:jose068::jose068@students.psd1.org ;Barquist 2122 T1 MOS
+:*:jesus607::jesus607@students.psd1.org ;Barquist 2122 T1 MOS
+:*:david866::david866@students.psd1.org ;Barquist 2122 T1 MOS
+:*:cristina530::cristina530@students.psd1.org ;Barquist 2122 T1 MOS
+:*:saul001::saul001@students.psd1.org ;Barquist 2122 T1 MOS
+:*:giovanny246::giovanny246@students.psd1.org ;Barquist 2122 T1 MOS
+:*:ana715::ana715@students.psd1.org ;Barquist 2122 T1 MOS
+:*:james902::james902@students.psd1.org ;Barquist 2122 T1 MOS
+:*:genesis020::genesis020@students.psd1.org ;Barquist 2122 T1 MOS
+:*:pgabriel816::mean460 ;Barquist 2122 T1 MOS
+:*:pstephanie685::cn87b3 ;Barquist 2122 T1 MOS
+:*:pomar115::cone751 ;Barquist 2122 T1 MOS
+:*:pluis165::gray775 ;Barquist 2122 T1 MOS
+:*:pmichael170::five428 ;Barquist 2122 T1 MOS
+:*:psebastian020::desk186 ;Barquist 2122 T1 MOS
+:*:pingri616::edmndq ;Barquist 2122 T1 MOS
+:*:paquiles003::half093 ;Barquist 2122 T1 MOS
+:*:ptaryn792::pdxqc1 ;Barquist 2122 T1 MOS
+:*:pnancy429::what659 ;Barquist 2122 T1 MOS
+:*:pmaddax649::took436 ;Barquist 2122 T1 MOS
+:*:pgianniannalicia001::west497 ;Barquist 2122 T1 MOS
+:*:pmelissa862::7vc54n ;Barquist 2122 T1 MOS
+:*:pantonio033::h2c1nt ;Barquist 2122 T1 MOS
+:*:pchristian195::prcnfk ;Barquist 2122 T1 MOS
+:*:pgiovanni930::mitt170 ;Barquist 2122 T1 MOS
+:*:pjuan008::team445 ;Barquist 2122 T1 MOS
+:*:pjose068::fell902 ;Barquist 2122 T1 MOS
+:*:pjesus607::7r5knb ;Barquist 2122 T1 MOS
+:*:pdavid866::tube810 ;Barquist 2122 T1 MOS
+:*:pcristina530::a4pm9b ;Barquist 2122 T1 MOS
+:*:psaul001::knew739 ;Barquist 2122 T1 MOS
+:*:pgiovanny246::q66i84 ;Barquist 2122 T1 MOS
+:*:pana715::romprg ;Barquist 2122 T1 MOS
+:*:pjames902::r0qeja ;Barquist 2122 T1 MOS
+:*:pgenesis020::link640 ;Barquist 2122 T1 MOS
 
 
 
