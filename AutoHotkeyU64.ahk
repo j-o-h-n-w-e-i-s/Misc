@@ -1177,15 +1177,20 @@ return
 ;2021 T1 6th Period was Astronomy
 
 ^!+F7::
-Msgbox, CTRL+ALT+SHIFT+F7 is not defined
+; Msgbox, CTRL+ALT+SHIFT+F7 is not defined
+; go to SEMPIX on the web 
+Run chrome.exe https://drive.google.com/drive/folders/1eA7HZ_UhbaT72wr6E3TRT__0F7Q9iYVl --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
-^!F8::Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window --profile-directory=%VarProfileDirectory%
+^!F8::
+;Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window --profile-directory=%VarProfileDirectory%
+;F8 goes to Teams and SHIFT+F8 go to Teams on the Web
+EnvGet, LocAppDat, LOCALAPPDATA
+Run "%LocAppDat%\Microsoft\Teams\Update.exe" --processStart "Teams.exe"
 return
 
 ^!+F8::
-; go to SEMPIX on the web 
-Run chrome.exe https://drive.google.com/drive/folders/1eA7HZ_UhbaT72wr6E3TRT__0F7Q9iYVl --new-window --profile-directory=%VarPersonalGmailProfile%
+Run chrome.exe https://teams.microsoft.com/_#/school//?ctx=teamsGrid --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!F9::Run onenote-cmd://
