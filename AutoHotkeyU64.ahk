@@ -508,7 +508,7 @@ return
 
 ;ASCII 45 -
 ;Open OneDrive in the browser
-^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2020-2021 --new-window --profile-directory=%VarProfileDirectory%
+^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow
 return
 
 ;ASCII 46 . nimble.com
