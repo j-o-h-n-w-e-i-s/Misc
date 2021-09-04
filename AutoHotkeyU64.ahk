@@ -805,12 +805,11 @@ return
 
 ;ASCII 103 g
 ;Open Guest Window
-;^!g::Run chrome.exe http://psd1.helloid.com --guest
-;^!g::Run chrome.exe http://www.gmetrix.net --guest
 ^!g::
 ;Run, chrome.exe http://www.desmos.com --guest 
 Run, chrome.exe http://www.gmetrix.net --guest 
-;Run, chrome.exe http://psd1.helloid.com --guest
+Run, chrome.exe https://login.theexpertta.com/Login.aspx --guest
+Run, chrome.exe http://psd1.helloid.com --guest
 ;Run, chrome.exe https://teams.microsoft.com/_#/school//?ctx=teamsGrid --guest
 ;Run, chrome.exe http://tiny.cc/phsps --guest
 ;Run, chrome.exe http://tiny.cc/mrwnano --guest
