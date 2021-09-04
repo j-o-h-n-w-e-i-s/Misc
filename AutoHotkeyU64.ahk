@@ -765,6 +765,7 @@ Run chrome.exe https://www.youtube.com/EmergencyAwesome/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/marvel/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/StarWarsExplained/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/MarvelStudiosMovies/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/c/MikeTholfsen/videos --new-MainWindow
 return
 
 ;ASCII 98 b
