@@ -830,7 +830,7 @@ if (A_ComputerName = VarHomeComputerName)
 else if (A_ComputerName = VarWorkComputerName)
     {
         Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
-        Run explorer.exe "C:\Users\jweisenfeld.WEISENFELDZ240\Documents\GitHub\Misc"  
+        Run explorer.exe "C:\Users\JohnWeis\Documents\GitHub\Misc"  
     }
 else if (A_ComputerName = VarWorkLaptopName )
     {
