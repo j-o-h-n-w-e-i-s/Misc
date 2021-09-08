@@ -4,7 +4,7 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 VarWorkingDir = %A_ScriptDir%
 VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
-VarWorkComputerName := "WEISENFELDZ240"
+VarWorkComputerName := "DESKTOP-QHQ43MJ"
 VarHomeComputerName := "DESKTOP-49MKQTR"
 VarWorkLaptopName := "TP213958"
 VarHomeJohnDotProfileName := "Profile 2" ;this is the chrome profile for john.weisenfeld@gmail.com on that computer
