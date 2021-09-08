@@ -24,8 +24,8 @@ VarPersonalGmailProfile = "Default" ;email is john.weisenfeld@gmail.com
 }
 else if (VarComputerName = VarWorkComputerName)
 {
-VarProfileDirectory = "Profile 2"
-VarPowerSchoolProfile = "Default"
+VarProfileDirectory = "Default"
+VarPowerSchoolProfile = "Profile 2"
 VarPersonalGmailProfile = "Profile 1"    
 }
 else if (VarComputerName = VarWorkLaptopName)
