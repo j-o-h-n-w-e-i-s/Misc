@@ -4,7 +4,7 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ;Ensures a consistent starting directory.
 VarWorkingDir = %A_ScriptDir%
 VarComputerName = %A_ComputerName% ;Can I set a ComputerName?
-VarWorkComputerName := "WEISENFELDZ240"
+VarWorkComputerName := "DESKTOP-QHQ43MJ"
 VarHomeComputerName := "DESKTOP-49MKQTR"
 VarWorkLaptopName := "TP213958"
 VarHomeJohnDotProfileName := "Profile 2" ;this is the chrome profile for john.weisenfeld@gmail.com on that computer
@@ -24,8 +24,8 @@ VarPersonalGmailProfile = "Default" ;email is john.weisenfeld@gmail.com
 }
 else if (VarComputerName = VarWorkComputerName)
 {
-VarProfileDirectory = "Profile 2"
-VarPowerSchoolProfile = "Default"
+VarProfileDirectory = "Default"
+VarPowerSchoolProfile = "Profile 2"
 VarPersonalGmailProfile = "Profile 1"    
 }
 else if (VarComputerName = VarWorkLaptopName)
@@ -830,7 +830,7 @@ if (A_ComputerName = VarHomeComputerName)
 else if (A_ComputerName = VarWorkComputerName)
     {
         Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
-        Run explorer.exe "C:\Users\jweisenfeld.WEISENFELDZ240\Documents\GitHub\Misc"  
+        Run explorer.exe "C:\Users\JohnWeis\Documents\GitHub\Misc"  
     }
 else if (A_ComputerName = VarWorkLaptopName )
     {
