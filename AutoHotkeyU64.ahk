@@ -1169,7 +1169,8 @@ return
 ;2021 T1 5th Period was PHYS 111
 
 ^!+F6::
-Msgbox, CTRL+ALT+SHIFT+F6 is not defined
+;Msgbox, CTRL+ALT+SHIFT+F6 is not defined
+Run "C:\Program Files (x86)\GMetrix\GMetrix SMSe\GMetrix SMSe.exe"
 return
 
 ^!F7::Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab  --new-window --profile-directory=%VarProfileDirectory%
