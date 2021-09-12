@@ -145,8 +145,8 @@ PT3 Curriculum, Instruction and Assessment
 :*:..sched::http://psd1.us/ahl2
 ;:*:..lkey::LKEY-97689-51061-T1MRWNPA ;All Used Up
 ;:*:..lkey::LKEY-91848-14860-T3MRWNPA ;All Used Up
-;:*:..lkey::LKEY-48330-89944-8TH2021 ;sent to 8th graders
-:*:..lkey::LKEY-91457-39633-JW2122T1 ;expires on 9/21
+;:*:..lkey::LKEY-91457-39633-JW2122T1 ;All Used Up
+:*:..lkey::LKEY-48330-89944-8TH2021 ;sent to 8th graders
 :*:..wenlkey::LKEY-91657-33795-CACWEN
 :*:..2lkey::LKEY-51768-06216-ks2021
 :*:..3lkey::LKEY-69204-36115-ks2021
