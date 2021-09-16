@@ -493,18 +493,10 @@ return
 
 ;ASCII 44 ,
 ^!,::
-if (A_ComputerName = VarHomeComputerName)
-{
-    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-window --profile-directory="Profile 1"
-}
-Else if (A_ComputerName = VarWorkComputerName)
-{
-    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-window --profile-directory="Profile 1"
-}
-Else 
-{
-Msgbox, "I don't know this computer"
-}
+Run, chrome.exe https://pascohigh.flexisched.net/dashboard.php# --new-window --profile-directory=%VarProfileDirectory%
+Run, chrome.exe https://pascohigh.flexisched.net/listFlexes.php --new-MainWindow
+Run, chrome.exe https://pascohigh.flexisched.net/teacherAttendance.php --new-MainWindow
+Run, chrome.exe https://pascohigh.flexisched.net/masterSchedule.php --new-MainWindow
 return
 
 ;ASCII 45 -
