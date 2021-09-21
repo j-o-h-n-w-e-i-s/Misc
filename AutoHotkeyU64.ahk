@@ -501,7 +501,7 @@ return
 
 ;ASCII 45 -
 ;Open OneDrive in the browser
-^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow
+^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 46 . nimble.com
@@ -800,7 +800,7 @@ return
 ;ASCII 103 g
 ;Open Guest Window
 ^!g::
-;Run, chrome.exe http://www.desmos.com --guest 
+Run, chrome.exe http://www.desmos.com --guest 
 Run, chrome.exe http://www.gmetrix.net --guest 
 Run, chrome.exe https://login.theexpertta.com/Login.aspx --guest
 Run, chrome.exe http://psd1.helloid.com --guest
@@ -1821,8 +1821,7 @@ Return
 :*:pkayne002::belt396 ;my 2021 T3 classes 
 :*:pkelsie045::dear666 ;21-22-T3-3(A) ACCELERATED PHYSICS 
 :*:pkendera721::270q1h ;2021 t1 kinematics 
-:*:pkeren169::DRAT ;21-22-T3-6(A) PHYSICS - KINEMATICS 
-:*:pkeren169::oxkth2 ;Waves, 21-22, T1, 3rd Period 
+:*:pkeren169::oxkth2 ;Waves, 21-22, T1, 3rd Period , 21-22-T3-6(A) PHYSICS - KINEMATICS
 :*:pkevin075::feet840 ;20-21 t2 waves 
 :*:pkillian015::baby317 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
 :*:pkylie650::kfkcdb ;2021 t1 kinematics 
@@ -2091,8 +2090,14 @@ Return
 :*:psarahi371::sail107 ; 2122 T1 MOS
 :*:miranda779::miranda779@students.psd1.org ;2122 T1 MOS
 :*:pmiranda779::nm93fw
-
-
+:*:lennart001::lennart001@students.psd1.org ;2122 T1 Waves
+:*:plennart001::flop071 ;2122 T1 Waves
+:*:mara001::mara001@students.psd1.org ;2122 T1 Waves
+:*:pmara001::name512 ;2122 T1 Waves
+:*:mckenna003::mckenna003@students.psd1.org ;2122 T1 Waves
+:*:pmckenna003::tale043 ;2122 T1 Waves
+:*:fatima281::fatima281@students.psd1.org ;2122 T1 Waves
+:*:pfatima281::myywwc ;2122 T1 Waves
 
 
 
