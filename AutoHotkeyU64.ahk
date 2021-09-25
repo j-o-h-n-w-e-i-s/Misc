@@ -243,6 +243,7 @@ PT3 Curriculum, Instruction and Assessment
 :*:pntrprz::enterprisepsd1
 :*:..linkcrew::I just nominated you for Link Crew!  Below are a little specifics.  Please email tfurth@psd1.org if you have further questions.
 :*:..perusall::WEISENFELD-BNU7Y
+:*:..disc::http://tiny.cc/phsespdis
 
 ;LOWER CASE ALPHABET
 
@@ -285,7 +286,9 @@ return
 Run chrome.exe https://tiny.cc/2022countdown --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
-^!BS:: Msgbox CTRL+ALT+BS is unused
+^!BS:: 
+;Msgbox CTRL+ALT+BS is unused
+Run chrome.exe "https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/sites/bulldoggaming/Shared Documents/2021-2022&listurl=https://liveedupsd1.sharepoint.com/sites/bulldoggaming/Shared Documents" --profile-directory=%VarProfileDirectory%
 return
 
 ^!ENTER:: Msgbox CTRL+ALT+ENTER is unused
@@ -1111,7 +1114,8 @@ return
 
 ;ASCII 126 ~
 ;^!~::Msgbox CTRL+ALT+~ is UNUSED
-^!~::Run chrome.exe https://learnpsd.psd1.org/screening/employee --new-window --profile-directory=%VarProfileDirectory%
+;^!~::Run chrome.exe https://learnpsd.psd1.org/screening/employee --new-window --profile-directory=%VarProfileDirectory%
+^!~::Run "%UserProf%\AppData\Local\Discord\app-1.0.9003\Discord.exe"
 return
 
 ;2021 T2 1st Period was Waves this is a Channel
