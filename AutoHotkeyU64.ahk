@@ -1023,7 +1023,7 @@ if (A_ComputerName = VarHomeComputerName)
 }
 Else if (A_ComputerName = VarWorkComputerName)
 {
-    Run "C:\Program Files (x86)\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
+    Run "C:\Program Files\Screencast-O-Matic\v2_JRE14\Screencast-O-Matic.exe" ;"C:\Users\johnw\AppData\Local\Screencast-O-Matic\v2\Screencast-O-Matic.exe"
 }
 Else if (A_ComputerName = VarWorkLaptopName)
 {
