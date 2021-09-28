@@ -873,14 +873,8 @@ return
 return
 
 ;ASCII 108 L
-;^!l::MsgBox, 1, "Unused", "This CTRL+ALT+L Shortcut is Unused", 30
-;^!l::Run chrome.exe https://admin.flipgrid.com/manage/discussion --new-window --profile-directory=%VarProfileDirectory%
 ^!l::
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/doc.aspx?sourcedoc={6cf7cb93-cb57-4dac-91fe-e828f8b00e60}&action=edit --new-window --profile-directory=%VarPowerSchoolProfile%
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=6A6A6A6A6A6A6A6A6A6A6A&sectionId=184502#classtoolsmode --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=3A3A3A3A3A3A3A3A3A3A3A&sectionId=184118#classtoolsmode --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=2A2A2A2A2A2A2A2A2A2A2A&sectionId=185826#classtoolsmode --new-MainWindow
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?foo=1A1A1A1A1A1A1A1A1A1A1A&sectionId=184120#classtoolsmode --new-MainWindow
+Run chrome.exe https://app.wiaaesports.com/organizations/54f1d7a0-e09c-4250-bccb-6819d3211883 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 109 M
