@@ -713,17 +713,19 @@ if (A_ComputerName = VarHomeComputerName)
 Else if (A_ComputerName = VarWorkComputerName)
 {
     Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Default"
-;??? is Default Profile on work computer
+;weisenfeldj@spu.edu is Default Profile on work computer
     Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 1"
-;??? is Profile 1 on work computer
+;johnweis@live.com is Profile 1 on work computer
     Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 2"
-;??? is Profile 2 on work computer
+;john_wfeld@msn.com is Profile 2 on work computer
     Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 3"
-;??? is Profile 3 on work computer
-    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 4"
-;??? is Profile 4 on work computer
+;enterprise@psd1.org is Profile 3 on work computer
+;    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 4"
+;weisenfeldj@spu.edu is Profile 4 on work computer
     Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 5"
-;??? is Profile 5 on work computer
+;weisenfeldj@cwu.edu is Profile 5 on work computer
+;    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 6"
+;weisenfeldj@cwu.edu Profile 6 on work computer
 }
 Else if (A_ComputerName = VarWorkLaptopName)
 {
