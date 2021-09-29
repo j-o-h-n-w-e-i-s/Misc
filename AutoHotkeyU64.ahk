@@ -699,6 +699,8 @@ if (A_ComputerName = VarHomeComputerName)
 {
     Run msedge.exe https://outlook.office365.com/mail/inbox/id/AAQkAGMwZTM3YzA3LWZkMDQtNGYzMi1hNTFlLTUyNmVhZWViMjIxMQAQALxLEq8M5uNPrbE3ii7y%2F2U%3D --new-window --profile-directory="Profile 4"
 ;weisenfeldj@cwu.edu is Profile 4 on home computer
+    Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 5"
+;enterprise@psd1.org is Profile 5 on home computer
 }
 Else if (A_ComputerName = VarWorkComputerName)
 {
