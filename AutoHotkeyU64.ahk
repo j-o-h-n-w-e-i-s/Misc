@@ -697,19 +697,18 @@ return
 ^![::
 if (A_ComputerName = VarHomeComputerName)
 {
+    Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Default"
+;johnweis@live.com is Default Profile
+;    Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
+;jweisenfeld@psd1.org is Profile 1 DO NOT USE IT CAN'T SYNC, CAN'T SIGN IN, WORTHLESS
+    Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
+;john_wfeld@msn.com is Profile 2
+    Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 3"
+;weisenfeldj@spu.edu is Profile 3 on home computer
     Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 4"
 ;weisenfeldj@cwu.edu is Profile 4 on home computer
     Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 5"
 ;enterprise@psd1.org is Profile 5 on home computer
-    Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 3"
-;weisenfeldj@spu.edu is Profile 3 on home computer
-    Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
-;john_wfeld@msn.com is Profile 2
-;    Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
-;jweisenfeld@psd1.org is Profile 1 DO NOT USE IT CAN'T SYNC, CAN'T SIGN IN, WORTHLESS
-    Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Default"
-;johnweis@live.com is Default Profile
-
 }
 Else if (A_ComputerName = VarWorkComputerName)
 {
