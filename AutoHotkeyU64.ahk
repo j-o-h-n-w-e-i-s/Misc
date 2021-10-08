@@ -244,6 +244,10 @@ PT3 Curriculum, Instruction and Assessment
 :*:..linkcrew::I just nominated you for Link Crew!  Below are a little specifics.  Please email tfurth@psd1.org if you have further questions.
 :*:..perusall::WEISENFELD-BNU7Y
 :*:..disc::http://tiny.cc/phsespdis
+:*:..rjrexz::omar958@students.psd1.org ;Omar Ochoa
+:*:..fancyman::mark970@students.psd1.org ;Mark B
+:*:..tobijhanks::andres089@students.psd1.org ;Andres Chamorro
+:*:..xavil::xavier950@students.psd1.org ;Xavier Llamas
 
 ;LOWER CASE ALPHABET
 
@@ -1070,24 +1074,10 @@ return
 return
 
 ;ASCII 125 }
-^!}:: Msgbox CTRL+ALT+} is UNUSED
-return
-
-#^!}:: ;WIN+CTRL+ALT+}
-if (A_ComputerName = VarHomeComputerName)
-{
-Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 1"
-;john_wfeld@msn.com is Profile 1
-}
-Else if (A_ComputerName = VarWorkComputerName)
-{
-Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Profile 2"
-;john_wfeld@msn.com is Profile 1
-}
-Else 
-{
-Msgbox, "I don't know this computer"
-}
+;^!}:: Msgbox CTRL+ALT+} is UNUSED
+;return
+^!}:: ;WIN+CTRL+ALT+}
+Run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/PSD-CTE/Etw-mHxpVctHme_Mt234-6oB29g26raofp6PBqHdyf1ZBw?e=UKkKrh --new-window --profile-directory=%VarProfileDirectory%
 return
 
 
