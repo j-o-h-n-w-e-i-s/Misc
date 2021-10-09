@@ -713,6 +713,8 @@ if (A_ComputerName = VarHomeComputerName)
 ;weisenfeldj@cwu.edu is Profile 4 on home computer
     Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 5"
 ;enterprise@psd1.org is Profile 5 on home computer
+    Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 6"
+;jolena_wfeld@msn.com is Profile 6 on home computer
 }
 Else if (A_ComputerName = VarWorkComputerName)
 {
@@ -728,8 +730,8 @@ Else if (A_ComputerName = VarWorkComputerName)
 ;weisenfeldj@spu.edu is Profile 4 on work computer
     Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 5"
 ;weisenfeldj@cwu.edu is Profile 5 on work computer
-;    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 6"
-;weisenfeldj@cwu.edu Profile 6 on work computer
+    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 6"
+;jolena_wfeld@msn.com Profile 6 on work computer
 }
 Else if (A_ComputerName = VarWorkLaptopName)
 {
