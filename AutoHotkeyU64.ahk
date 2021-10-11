@@ -783,12 +783,16 @@ return
 ;^!a::Run "AutoHotkeyU64.ahk"
 ;^!a::Msgbox CTRL+ALT+A is unused.
 ^!a::
-Run chrome.exe https://www.youtube.com/c/JonBergmann1/videos --new-Window --profile-directory=%VarProfileDirectory%
+;Run chrome.exe https://www.youtube.com/c/JonBergmann1/videos --new-Window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://www.youtube.com/EmergencyAwesome/videos --new-MainWindow 
 Run chrome.exe https://www.youtube.com/c/marvel/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/StarWarsExplained/videos --new-MainWindow
-Run chrome.exe https://www.youtube.com/c/MarvelStudiosMovies/videos --new-MainWindow
+;Run chrome.exe https://www.youtube.com/c/MarvelStudiosMovies/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/MikeTholfsen/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/c/physicsgirl/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/c/MarkRober/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/c/smartereveryday/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/user/theslowmoguys/videos --new-MainWindow
 return
 
 ;ASCII 98 b
