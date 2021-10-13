@@ -893,7 +893,9 @@ Run, chrome.exe https://visualping.io --new-MainWindow
 return
 
 ;ASCII 106 J
-^!j::Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory=%VarProfileDirectory%
+^!j::
+;Run chrome.exe https://canvas.instructure.com/courses/2477035 --new-window --profile-directory=%VarProfileDirectory%
+Run "C:\Program Files (x86)\Cisco Systems\Cisco Jabber\CiscoJabber.exe" 
 return
 
 ;ASCII 107 k
