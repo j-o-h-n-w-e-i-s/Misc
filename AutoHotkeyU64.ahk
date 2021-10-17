@@ -669,7 +669,9 @@ Run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/phssci/Ef8hb4N85jNNmnYyl
 return
 
 ;ASCII 60 <
-^!<::Run chrome.exe https://tiny.cc --new-window --profile-directory=%VarProfileDirectory%
+^!<::
+Run chrome.exe https://tiny.cc --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://tinycc.com --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 61 =
@@ -679,7 +681,8 @@ Run "%UserProf%\Documents\Smoothed Brown Noise 8-Hours.mp3"
 return
 
 ;ASCII 62 >
-^!>::Run chrome.exe https://tinycc.com --new-window --profile-directory=%VarProfileDirectory%
+^!>::
+Run "C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Acrobat.exe"
 return
 
 ;ASCII 63 ?
