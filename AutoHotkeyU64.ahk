@@ -1103,7 +1103,8 @@ return
 return
 
 ^!+F1::
-Msgbox, CTRL+ALT+SHIFT+F1 is not defined
+;Msgbox, CTRL+ALT+SHIFT+F1 is not defined
+Run chrome.exe https://web.microsoftstream.com/channel/8ca56496-ca74-40e4-a186-0b3a4779f8be --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;2021 T2 2nd Period was PHYS 112 this is a Channel
