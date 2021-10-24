@@ -1114,7 +1114,9 @@ return
 return
 
 ^!+F2::
-Msgbox, CTRL+ALT+SHIFT+F2 is not defined
+;Msgbox, CTRL+ALT+SHIFT+F2 is not defined
+;MicrosoftStream ClassPolicy Channel
+Run chrome.exe https://web.microsoftstream.com/channel/baa6002e-7d9f-4a2c-a11f-ca7cdd730559 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;20201 T2 5th Period was MOS 1 and MOS 2 this is a channel link
