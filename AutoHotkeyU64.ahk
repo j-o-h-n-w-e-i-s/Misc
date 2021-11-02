@@ -1099,7 +1099,10 @@ return
 return
 
 ;2021 T2 1st Period was Waves this is a Channel
-^!F1::Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window --profile-directory=%VarProfileDirectory%
+^!F1::
+;Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window --profile-directory=%VarProfileDirectory%
+;2122 T1 1st Period was PHYS 111
+Run chrome.exe https://web.microsoftstream.com/channel/a298fbbe-5fe4-49b8-a1b8-33b3c54b9f48 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!+F1::
