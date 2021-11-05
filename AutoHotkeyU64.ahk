@@ -491,7 +491,15 @@ return
 ;ASCII 41 )
 ;^!):: MsgBox CTRL+ALT+) is UNUSED
 ^!):: 
-Run, chrome.exe https://journals.ashs.org/ --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://journals.ashs.org/ --new-window --profile-directory=%VarProfileDirectory%
+return
+
+;ASCII 42 *
+^!*::
+Run, chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/BISPHS/EUZyTgyJMaJHq1vAXyhDwukBHisb-B9QWI2BR3ORX1Ogpw?e=9ak4uL --new-window --profile-directory=%VarProfileDirectory%
+Run, chrome.exe https://liveedupsd1.sharepoint.com/:b:/s/BISPHS/EZYpjQyRlelLkV7Kr28NbuQBic9eSz9iQLWvP1WqfrU-JQ?e=Jp9ZYk --new-MainWindow
+Run, chrome.exe https://liveedupsd1.sharepoint.com/:x:/s/BISPHS/ETef6o-UYs1OhhvPxTPZf9gBnzyB2biC012ZBslj4MaUpw?e=abfXCR --new-MainWindow
+Run, chrome.exe https://liveedupsd1.sharepoint.com/:f:/s/BISPHS/EkNLnBsfbZZHqZtOjGDFFrcBn1ceRgYa0MT9u-ZdLcf_8A?e=VmZfNp --new-MainWindow
 return
 
 ;ASCII 43 +
