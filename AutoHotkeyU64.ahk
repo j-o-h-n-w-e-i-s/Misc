@@ -798,6 +798,7 @@ Run chrome.exe https://www.youtube.com/c/physicsgirl/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/MarkRober/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/smartereveryday/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/user/theslowmoguys/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/c/veritasium/videos --new-MainWindow
 return
 
 ;ASCII 98 b
