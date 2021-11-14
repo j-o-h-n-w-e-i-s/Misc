@@ -771,7 +771,29 @@ return
 return
 
 ;ASCII 93 ]
-^!]:: Msgbox CTRL+ALT+] is UNUSED
+^!]:: 
+;Msgbox CTRL+ALT+] is UNUSED
+if (A_ComputerName = VarHomeComputerName)
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox --new-window --profile-directory="Profile 5"
+;enterprise@psd1.org is Profile 5 on home computer
+}
+Else if (A_ComputerName = VarWorkComputerName)
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 3"
+;enterprise@psd1.org is Profile 3 on work computer
+}
+Else if (A_ComputerName = VarWorkLaptopName)
+{
+    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 3"
+;??? is Profile 3 on work computer
+}
+Else 
+{
+Msgbox, "I don't know this computer"
+}
+return
+
 return
 
 ;ASCII 94 ^
