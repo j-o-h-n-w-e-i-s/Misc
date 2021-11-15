@@ -248,6 +248,8 @@ PT3 Curriculum, Instruction and Assessment
 :*:..fancyman::mark970@students.psd1.org ;Mark B
 :*:..tobijhanks::andres089@students.psd1.org ;Andres Chamorro
 :*:..xavil::xavier950@students.psd1.org ;Xavier Llamas
+:*:..dla::ghuisingh@psd1.org`;{Enter}dlamb@psd1.org`;{Enter}c84261b7.psd1.org@amer.teams.ms`;{Enter}andres089@students.psd1.org`;{Enter} 
+:*:..splain::We are an "email club" with 6th 7th and 8th graders that are interested in space.  You don't have to be in high school to like space or be in an email group where we share information and questions about space.
 
 ;LOWER CASE ALPHABET
 
@@ -829,6 +831,7 @@ Run chrome.exe https://www.youtube.com/c/MarkRober/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/smartereveryday/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/user/theslowmoguys/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/veritasium/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/channel/UCrTVK7WbzTaJdEmaroebAOQ/videos --new-MainWindow
 return
 
 ;ASCII 98 b
