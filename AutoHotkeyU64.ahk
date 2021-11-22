@@ -248,7 +248,7 @@ PT3 Curriculum, Instruction and Assessment
 ;:*:..fancyman::mark970@students.psd1.org ;Mark B
 :*:..tobijhanks::andres089@students.psd1.org ;Andres Chamorro
 :*:..xavil::xavier950@students.psd1.org ;Xavier Llamas
-:*:..dla::ghuisingh@psd1.org`;{Enter}dlamb@psd1.org`;{Enter}c84261b7.psd1.org@amer.teams.ms`;{Enter}andres089@students.psd1.org`;{Enter}xavier950@students.psd1.org`;{Enter}omar958@students.psd1.org`;
+:*:..dla::ghuisingh@psd1.org`;{Enter}dlamb@psd1.org`;{Enter}c84261b7.psd1.org@amer.teams.ms`;{Enter}andres089@students.psd1.org`;{Enter}xavier950@students.psd1.org`;{Enter}omar958@students.psd1.org`;tsturza@psd1.org`;
 :*:..splain::We are an "email club" with 6th 7th and 8th graders that are interested in space.  You don't have to be in high school to like space or be in an email group where we share information and questions about space.{Enter}{Enter}Click here https://outlook.office.com/people/group/psd1.org/themoon and then "Join" to join "The Moon" email group.  Click here https://outlook.office.com/people/group/psd1.org/mars and then "Join" to join the "Mars" email group.
 :*:..themars::Go to https://outlook.office.com/people/group/psd1.org/mars and click "Join" to sign up or "Leave group" to stop getting these emails.
 :*:..themoon::Go to https://outlook.office.com/people/group/psd1.org/themoon and click "Join" to sign up or "Leave group" to stop getting these emails.
