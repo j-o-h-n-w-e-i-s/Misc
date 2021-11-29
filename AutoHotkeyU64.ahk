@@ -1113,7 +1113,9 @@ return
 return
 
 ;ASCII 123 {
-^!{:: Msgbox CTRL+ALT+{ is UNUSED
+^!{::
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EYq_uDpHMvpLvaq-XDf9P8YBkGnemitVZXRSSgJB6LW4SQ?e=OaHdMz --new-window --profile-directory=%VarProfileDirectory%
+; Msgbox CTRL+ALT+{ is UNUSED
 return
 
 ;ASCII 124 |
