@@ -652,6 +652,8 @@ Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215713&f
 ; URL to OneNote?
 ; URL to Nimble for this class?
 ; URL to ExpertTA?
+Run "c:\users\johnweis\downloads\Word_2019_teacher_workbook.pdf"
+;Run "c:\users\johnweis\downloads\PowerPoint_2019_teacher_workbook(1).pdf"
 return
 
 ;ASCII 55 7
