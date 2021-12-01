@@ -118,12 +118,18 @@ PT3 Curriculum, Instruction and Assessment
 ;:*:..ei::Section_181138@psd1.org;jweisenfeldtest@students.psd1.org;
 ;20-21 Email Aliases Above
 ;21-22 Email Aliases Below
-:*:..1st::Section_202617@psd1.org
-:*:..2nd::Section_203321@psd1.org
-:*:..3rd::Section_203322@psd1.org
+:*:.t1.1st::Section_202617@psd1.org
+:*:.t1.2nd::Section_203321@psd1.org
+:*:.t1.3rd::Section_203322@psd1.org
+:*:.t1.4th::jweisenfeldtest@students.psd1.org
+:*:.t1.5th::jweisenfeldtest@students.psd1.org
+:*:.t1.6th::Section_203323@psd1.org
+:*:..1st::Section_203645@psd1.org
+:*:..2nd::Section_203765@psd1.org
+:*:..3rd::jweisenfeldtest@students.psd1.org
 :*:..4th::jweisenfeldtest@students.psd1.org
-:*:..5th::jweisenfeldtest@students.psd1.org
-:*:..6th::Section_203323@psd1.org
+:*:..5th::Section_203766@psd1.org
+:*:..6th::Section_202882@psd1.org
 :*:..ei::Section_205946@psd1.org
 ;21-22 Email Aliases Above
 :*:..cer::[answers may vary, students should strive to write complete sentences and provide an argument or reasoning for their answers]
