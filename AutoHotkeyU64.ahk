@@ -590,6 +590,15 @@ return
 ^!1::
 ; 21-22 Physics 111
 ; Multi-Day Attendance Recording
+;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215007&frn=003202617 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Seating Chart
+;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215007#classtoolsmode --new-MainWindow
+; PowerTeacherPro
+;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=202617 --new-MainWindow
+; Student Info
+;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215007&frn=003202617 --new-MainWindow
+; 21-22 Physics 112
+; Multi-Day Attendance Recording
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215007&frn=003202617 --new-window --profile-directory=%VarPowerSchoolProfile%
 ; Seating Chart
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215007#classtoolsmode --new-MainWindow
@@ -606,6 +615,15 @@ return
 ^!2::
 ; 21-22 MOS 1
 ; Multi-Day Attendance Recording
+;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215711&frn=003203321 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Seating Chart
+;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215711#classtoolsmode --new-MainWindow
+; PowerTeacherPro
+;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203321 --new-MainWindow
+; Student Info
+;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215711&frn=003203321 --new-MainWindow
+; 21-22 ASTRO 2ND
+; Multi-Day Attendance Recording
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215711&frn=003203321 --new-window --profile-directory=%VarPowerSchoolProfile%
 ; Seating Chart
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215711#classtoolsmode --new-MainWindow
@@ -620,15 +638,16 @@ return
 
 ;ASCII 51 3
 ^!3::
-; 21-22 Waves
+; 21-22 Waves 3RD
 ; Multi-Day Attendance Recording
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215712&frn=003203322 --new-window --profile-directory=%VarPowerSchoolProfile%
+;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215712&frn=003203322 --new-window --profile-directory=%VarPowerSchoolProfile%
 ; Seating Chart
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215712#classtoolsmode --new-MainWindow
+;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215712#classtoolsmode --new-MainWindow
 ; PowerTeacherPro
-Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203322 --new-MainWindow
+;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203322 --new-MainWindow
 ; Student Info
-Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215712&frn=003203322 --new-MainWindow
+;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215712&frn=003203322 --new-MainWindow
+Run chrome.exe http://tiny.cc/phspstch --new-window --profile-directory=%VarPowerSchoolProfile%
 ; URL to OneNote?
 ; URL to Nimble for this class?
 ; URL to ExpertTA?
