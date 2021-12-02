@@ -153,7 +153,7 @@ PT3 Curriculum, Instruction and Assessment
 ;:*:..lkey::LKEY-91848-14860-T3MRWNPA ;All Used Up
 ;:*:..lkey::LKEY-91457-39633-JW2122T1 ;All Used Up
 ;:*:..lkey::LKEY-48330-89944-8TH2021 ;sent to 8th graders
-:*:lkey::LKEY-69204-36115-ks2021 ;Schneider created this does it still work?
+:*:..lkey::LKEY-69204-36115-ks2021 ;Schneider created this does it still work?
 :*:..wenlkey::LKEY-91657-33795-CACWEN
 :*:..2lkey::LKEY-51768-06216-ks2021
 :*:..3lkey::LKEY-69204-36115-ks2021
@@ -930,11 +930,11 @@ return
 ;ASCII 103 g
 ;Open Guest Window
 ^!g::
-Run, chrome.exe http://www.desmos.com --guest 
+;Run, chrome.exe http://www.desmos.com --guest 
 Run, chrome.exe http://www.gmetrix.net --guest 
-Run, chrome.exe https://login.theexpertta.com/Login.aspx --guest
-Run, chrome.exe http://psd1.helloid.com --guest
-Run, chrome.exe https://teams.microsoft.com/_#/school//?ctx=teamsGrid --guest
+;Run, chrome.exe https://login.theexpertta.com/Login.aspx --guest
+;Run, chrome.exe http://psd1.helloid.com --guest
+;Run, chrome.exe https://teams.microsoft.com/_#/school//?ctx=teamsGrid --guest
 ;Run, chrome.exe http://tiny.cc/phsps --guest
 ;Run, chrome.exe http://tiny.cc/mrwnano --guest
 ;Run, chrome.exe https://app.perusall.com --guest
@@ -2185,38 +2185,38 @@ Return
 :*:pjose648::vase762 ; T1 MOS
 :*:olivia265::olivia265@students.psd1.org ; T1 MOS
 :*:polivia265::crew559 ; T1 MOS
-:*:pjorge616::boot070 ;21-22 T2 MOS 6th
-:*:pmichael013::free044 ;21-22 T2 MOS 6th
-:*:ppricila449::bang958 ;21-22 T2 MOS 6th
-:*:pmelanie286::gate037 ;21-22 T2 MOS 6th
-:*:pjose696::yg6xnr ;21-22 T2 MOS 6th
-:*:pjuan434::golf926 ;21-22 T2 MOS 6th
-:*:pjorge640::hind005 ;21-22 T2 MOS 6th
-:*:panthony096::8odm16 ;21-22 T2 MOS 6th
-:*:pcarlos475::blow868 ;21-22 T2 MOS 6th
-:*:pdakota005::stop479 ;21-22 T2 MOS 6th
-:*:psheila503::bare108 ;21-22 T2 MOS 6th
-:*:pnatalie717::jxja9t ;21-22 T2 MOS 6th
-:*:pnemecio118::zero492 ;21-22 T2 MOS 6th
-:*:pemmanuel923::note693 ;21-22 T2 MOS 6th
-:*:pgilbert530::golf303 ;21-22 T2 MOS 6th
-:*:pgannin602::foot921 ;21-22 T2 MOS 6th
-:*:pkillian015::baby317 ;21-22 T2 MOS 6th
-:*:plitzy414::snug292 ;21-22 T2 MOS 6th
-:*:pjulian466::none820 ;21-22 T2 MOS 6th
-:*:pcaleb170::k96qm6 ;21-22 T2 MOS 6th
-:*:pbrandon659::m6by50 ;21-22 T2 MOS 6th
-:*:pluis764::corn507 ;21-22 T2 MOS 6th
-:*:porlando980::word204 ;21-22 T2 MOS 6th
-:*:pcristian277::none081 ;21-22 T2 MOS 6th
-:*:pulises697::pint074 ;21-22 T2 MOS 6th
-:*:pjasmine836::ek811v ;21-22 T2 MOS 6th
-:*:panthony011::goes365 ;21-22 T2 MOS 6th
-:*:palexa809::same011 ;21-22 T2 MOS 6th
-:*:puriel147::fwscd1 ;21-22 T2 MOS 6th
-:*:pezekiel016::m2ws5z ;21-22 T2 MOS 6th
-:*:pyizel309::slip155 ;21-22 T2 MOS 6th
-:*:pyulisa495::flat012 ;21-22 T2 MOS 6th
+:*:pjorge616::boot070 ;21-22 T2 MOS 6th*
+:*:pmichael013::free044 ;21-22 T2 MOS 6th*
+:*:ppricila449::bang958 ;21-22 T2 MOS 6th*
+:*:pmelanie286::gate037 ;21-22 T2 MOS 6th*
+:*:pjose696::yg6xnr ;21-22 T2 MOS 6th*
+:*:pjuan434::golf926 ;21-22 T2 MOS 6th*
+:*:pjorge640::hind005 ;21-22 T2 MOS 6th*
+:*:panthony096::8odm16 ;21-22 T2 MOS 6th*
+:*:pcarlos475::blow868 ;21-22 T2 MOS 6th*
+:*:pdakota005::stop479 ;21-22 T2 MOS 6th*
+:*:psheila503::bare108 ;21-22 T2 MOS 6th*
+:*:pnatalie717::jxja9t ;21-22 T2 MOS 6th*
+:*:pnemecio118::zero492 ;21-22 T2 MOS 6th*
+:*:pemmanuel923::note693 ;21-22 T2 MOS 6th*
+:*:pgilbert530::golf303 ;21-22 T2 MOS 6th*
+:*:pgannin602::foot921 ;21-22 T2 MOS 6th*
+:*:pkillian015::baby317 ;21-22 T2 MOS 6th*
+:*:plitzy414::snug292 ;21-22 T2 MOS 6th*
+:*:pjulian466::none820 ;21-22 T2 MOS 6th*
+:*:pcaleb170::k96qm6 ;21-22 T2 MOS 6th*
+:*:pbrandon659::m6by50 ;21-22 T2 MOS 6th*
+:*:pluis764::corn507 ;21-22 T2 MOS 6th*
+:*:porlando980::word204 ;21-22 T2 MOS 6th*
+:*:pcristian277::none081 ;21-22 T2 MOS 6th*
+:*:pulises697::pint074 ;21-22 T2 MOS 6th*
+:*:pjasmine836::ek811v ;21-22 T2 MOS 6th*
+:*:panthony011::goes365 ;21-22 T2 MOS 6th*
+:*:palexa809::same011 ;21-22 T2 MOS 6th*
+:*:puriel147::fwscd1 ;21-22 T2 MOS 6th*
+:*:pezekiel016::m2ws5z ;21-22 T2 MOS 6th*
+:*:pyizel309::slip155 ;21-22 T2 MOS 6th*
+:*:pyulisa495::flat012 ;21-22 T2 MOS 6th*
 :*:pjosiah392::hint706 ;21-22 T2 ASTRO 2nd
 :*:pjovanie798::path274 ;21-22 T2 ASTRO 2nd
 :*:pmatthew926::meal373 ;21-22 T2 ASTRO 2nd
