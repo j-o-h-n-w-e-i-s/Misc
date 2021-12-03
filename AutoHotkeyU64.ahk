@@ -335,11 +335,14 @@ return
 
 ;ASCII 34 "
 ;^!"::Msgbox CTRL+ALT+quote is UNUSED
+;planning excel COI spreadsheets
 ^!"::
 Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ERM5yIHF4yBNp4qvqypCLIwB1KPqh93-AitDJM5KjE-r0A?e=SppxBv --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ETC_jQA0sq9AlZYOL0iLrXsB8jZOT2TKc7nzS0MgwNKloQ?e=GIUa0W --new-MainWindow
 Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EYq_uDpHMvpLvaq-XDf9P8YBkGnemitVZXRSSgJB6LW4SQ?e=OaHdMz --new-MainWindow
 Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EY-ruw41B-NHlQbyh811PCsBhxfxszYj3lVQugpATepg3g?e=j43Av9 --new-MainWindow
+;District Calendar  http://psd1.us/calendar 
+run chrome.exe https://drive.google.com/file/d/1DxCaYvQ-RJQiyRDN2zFAITNsCR5gUCco/view --new-MainWindow 
 return
 
 ;ASCII 35 #
@@ -998,7 +1001,9 @@ return
 ;^!k::MsgBox, 1, "Unused", "This CTRL+ALT+K Shortcut is Unused", 30
 ;^!k::Run c:\Users\jweisenfeld\Appdata\Roaming\npm\selenium-side-runner c:\users\jweisenfeld\downloads\Demo.side
 ;^!k::Run chrome.exe https://to-do.office.com/tasks/?fromOwa=true&graduated=true --new-window 
-^!k::Run chrome.exe "https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2020-2021/T3 Distance Learners Parents and Guardians.txt&parent=/personal/jweisenfeld_psd1_org/Documents/2020-2021" --new-window --profile-directory=%VarProfileDirectory%
+;^!k::Run chrome.exe "https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2020-2021/T3 Distance Learners Parents and Guardians.txt&parent=/personal/jweisenfeld_psd1_org/Documents/2020-2021" --new-window --profile-directory=%VarProfileDirectory%
+^!k::
+Run powershell -Command "Stop-Process -Force -Name "chrome""
 return
 
 ;ASCII 108 L
