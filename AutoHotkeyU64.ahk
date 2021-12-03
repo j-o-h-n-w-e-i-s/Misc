@@ -932,9 +932,9 @@ return
 ^!g::
 ;Run, chrome.exe http://www.desmos.com --guest 
 Run, chrome.exe http://www.gmetrix.net --guest 
-;Run, chrome.exe https://login.theexpertta.com/Login.aspx --guest
-;Run, chrome.exe http://psd1.helloid.com --guest
-;Run, chrome.exe https://teams.microsoft.com/_#/school//?ctx=teamsGrid --guest
+Run, chrome.exe https://login.theexpertta.com/Login.aspx --guest
+Run, chrome.exe http://psd1.helloid.com --guest
+Run, chrome.exe https://teams.microsoft.com/_#/school//?ctx=teamsGrid --guest
 ;Run, chrome.exe http://tiny.cc/phsps --guest
 ;Run, chrome.exe http://tiny.cc/mrwnano --guest
 ;Run, chrome.exe https://app.perusall.com --guest
