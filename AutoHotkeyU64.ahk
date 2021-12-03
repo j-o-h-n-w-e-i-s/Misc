@@ -936,8 +936,9 @@ return
 ;Run, chrome.exe http://www.desmos.com --guest 
 Run, chrome.exe http://www.gmetrix.net --guest 
 Run, chrome.exe https://login.theexpertta.com/Login.aspx --guest
-Run, chrome.exe http://psd1.helloid.com --guest
+;Run, chrome.exe http://psd1.helloid.com --guest
 Run, chrome.exe https://teams.microsoft.com/_#/school//?ctx=teamsGrid --guest
+Run, chrome.exe https://outlook.office.com/mail/inbox --guest
 ;Run, chrome.exe http://tiny.cc/phsps --guest
 ;Run, chrome.exe http://tiny.cc/mrwnano --guest
 ;Run, chrome.exe https://app.perusall.com --guest
@@ -951,7 +952,7 @@ EnvGet, LocAppDat, LOCALAPPDATA
 if (A_ComputerName = VarHomeComputerName)
     {
         Run "%LocAppDat%\Programs\Microsoft VS Code\Code.exe" "AutoHotkeyU64.ahk"
-        Run explorer.exe "D:\GitHub\Misc"  
+        Run explorer.exe "C:\Users\johnw\Documents\GitHub\Misc"  
     }
 else if (A_ComputerName = VarWorkComputerName)
     {
