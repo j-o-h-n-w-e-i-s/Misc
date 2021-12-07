@@ -2367,3 +2367,5 @@ Return
 :*:eliana532::eliana532@students.psd1.org ; 21-22 T2 ASTRO 5th
 :*:zammira771::zammira771@students.psd1.org ; 21-22 T2 ASTRO 5th
 :*:julieta646::julieta646@students.psd1.org ; 21-22 T2 ASTRO 5th
+:*:meidi256::meidi256@students.psd1.org ; 21-22 T2 MOS 6TH
+:*:pmeidi256::yard931 ; 21-22 T2 MOS 6TH
