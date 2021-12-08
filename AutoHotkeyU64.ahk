@@ -343,6 +343,7 @@ Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_
 Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EY-ruw41B-NHlQbyh811PCsBhxfxszYj3lVQugpATepg3g?e=j43Av9 --new-MainWindow
 ;District Calendar  http://psd1.us/calendar 
 run chrome.exe https://drive.google.com/file/d/1DxCaYvQ-RJQiyRDN2zFAITNsCR5gUCco/view --new-MainWindow 
+run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/phssci/Eo2hVVSY7kNAtNCZbN11wAkBSqswTEdWH2ND8rQ2P6T7ZA?e=xJrS45 --new-MainWindow 
 return
 
 ;ASCII 35 #
@@ -528,6 +529,7 @@ Run, chrome.exe https://pascohigh.flexisched.net/dashboard.php# --new-window --p
 Run, chrome.exe https://pascohigh.flexisched.net/listFlexes.php --new-MainWindow
 Run, chrome.exe https://pascohigh.flexisched.net/teacherAttendance.php --new-MainWindow
 Run, chrome.exe https://pascohigh.flexisched.net/masterSchedule.php --new-MainWindow
+Run, chrome.exe https://curriculum.characterstrong.com/ssel/grade-11-session-7/ --new-MainWindow
 return
 
 ;ASCII 45 -
@@ -1197,67 +1199,84 @@ return
 ^!~::Run "%UserProf%\AppData\Local\Discord\app-1.0.9003\Discord.exe"
 return
 
-;2021 T2 1st Period was Waves this is a Channel
 ^!F1::
-;Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window --profile-directory=%VarProfileDirectory%
-;2122 T1 1st Period was PHYS 111
-Run chrome.exe https://web.microsoftstream.com/channel/a298fbbe-5fe4-49b8-a1b8-33b3c54b9f48 --new-window --profile-directory=%VarProfileDirectory%
+;Physics 112 Videos on Microsoft Stream
+Run chrome.exe https://web.microsoftstream.com/channel/08679eb0-1f93-41c5-86ae-a81fb7cf0879 --new-window
 return
 
 ^!+F1::
-;Msgbox, CTRL+ALT+SHIFT+F1 is not defined
-Run chrome.exe https://web.microsoftstream.com/channel/8ca56496-ca74-40e4-a186-0b3a4779f8be --new-window --profile-directory=%VarProfileDirectory%
+Msgbox, CTRL+ALT+SHIFT+F1 is not defined will put Quizzes for Physics 112 here
 return
 
-;2021 T2 2nd Period was PHYS 112 this is a Channel
-;^!F2::Run chrome.exe https://web.microsoftstream.com/channel/08679eb0-1f93-41c5-86ae-a81fb7cf0879 --new-window
-;2021 T3 2nd Period was NANO this is a Channel
-^!F2::Run chrome.exe https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e --new-window --profile-directory=%VarProfileDirectory%
+^!F2::
+;Earth Science 3 Astronomy Videos on Microsoft Stream
+Run chrome.exe https://web.microsoftstream.com/channel/3c108aa0-d437-41bf-a5e6-393e88eb3ebf --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!+F2::
-;Msgbox, CTRL+ALT+SHIFT+F2 is not defined
-;MicrosoftStream ClassPolicy Channel
-Run chrome.exe https://web.microsoftstream.com/channel/baa6002e-7d9f-4a2c-a11f-ca7cdd730559 --new-window --profile-directory=%VarProfileDirectory%
+;Quizzes for Astronomy which was 2122 T2 2nd and 5th Period
+; Kepler's First Law Diagram Quiz
+Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx#FormId=CnGXhcFG7kylEJpMNl4IHTsaWbHUtLNMmgGMz5mRmkFUNDc5SkdMM1RJOFk2UVdZOUlMVkxSRExKMi4u&Token=5b321793357a4ce89885ec474eda5eda --new-window --profile-directory=%VarProfileDirectory%
 return
 
-;20201 T2 5th Period was MOS 1 and MOS 2 this is a channel link
-^!F3::Run chrome.exe https://web.microsoftstream.com/channel/683c442e-13be-4066-82cc-4e4661fd9011 --new-window --profile-directory=%VarProfileDirectory%
+^!F3::
+;Msgbox, CTRL+ALT+F3 is not defined
+;Using PowerTeacher Pro Videos on Microsoft Stream
+Run chrome.exe https://web.microsoftstream.com/channel/8ca56496-ca74-40e4-a186-0b3a4779f8be --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!+F3::
 Msgbox, CTRL+ALT+SHIFT+F3 is not defined
 return
 
-;2021 T2 6th Period was Accelerated Physics this is a Channel
-^!F4::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory=%VarProfileDirectory%
+^!F4::
+;Msgbox, CTRL+ALT+F3 is not defined
+;Using PowerTeacher Pro Videos on Microsoft Stream
+Run chrome.exe https://web.microsoftstream.com/channel/8ca56496-ca74-40e4-a186-0b3a4779f8be --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ^!+F4::
 Msgbox, CTRL+ALT+SHIFT+F4 is not defined
 return
 
-;2021 T1 1st Period was Kinematics this was a Group Channel
-^!F5::Run chrome.exe https://web.microsoftstream.com/channel/4cf6dea8-1d63-4784-8025-1e1bf7a3fdad  --new-window --profile-directory=%VarProfileDirectory%
+^!F5::
+;Earth Science 3 Astronomy Videos on Microsoft Stream
+Run chrome.exe https://web.microsoftstream.com/channel/3c108aa0-d437-41bf-a5e6-393e88eb3ebf --new-window --profile-directory=%VarProfileDirectory%
 return
-;2021 T1 2nd Period was Accelerated Physics (this is a channel)
 
 ^!+F5::
 Msgbox, CTRL+ALT+SHIFT+F5 is not defined
+; Kepler's First Law Diagram Quiz
+Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx#FormId=CnGXhcFG7kylEJpMNl4IHTsaWbHUtLNMmgGMz5mRmkFUNDc5SkdMM1RJOFk2UVdZOUlMVkxSRExKMi4u&Token=5b321793357a4ce89885ec474eda5eda --new-window --profile-directory=%VarProfileDirectory%
 return
 
-^!F6::Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd  --new-window --profile-directory=%VarProfileDirectory%
+^!F6::
+;MOS Videos on Microsoft Stream
+Run chrome.exe https://web.microsoftstream.com/channel/683c442e-13be-4066-82cc-4e4661fd9011 --new-window --profile-directory=%VarProfileDirectory%
 return
-;2021 T1 5th Period was PHYS 111
 
 ^!+F6::
-;Msgbox, CTRL+ALT+SHIFT+F6 is not defined
-Run "C:\Program Files (x86)\GMetrix\GMetrix SMSe\GMetrix SMSe.exe"
+Msgbox, CTRL+ALT+SHIFT+F6 is not defined
 return
 
-^!F7::Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab  --new-window --profile-directory=%VarProfileDirectory%
+;The Great Courses, Intro To Nanotechnology Videos on Microsoft Stream
+;Run chrome.exe https://web.microsoftstream.com/channel/e761bb5b-9274-467c-bdaf-efb803f4c56e --new-window --profile-directory=%VarProfileDirectory%
+;Physics 1 Kinematics Videos on Microsoft Stream
+;Run chrome.exe https://web.microsoftstream.com/channel/4cf6dea8-1d63-4784-8025-1e1bf7a3fdad  --new-window --profile-directory=%VarProfileDirectory%
+;Physics 2 Waves Videos on Microsoft Stream
+;Run chrome.exe https://web.microsoftstream.com/channel/91fffbb3-208b-4c88-a5a2-bac2ed17755e --new-window --profile-directory=%VarProfileDirectory%
+;Physics Accelerated Videos on Microsoft Stream
+;Run chrome.exe https://web.microsoftstream.com/channel/8bb0099d-1a7a-4fd4-ab51-375f1438fabd --new-window --profile-directory=%VarProfileDirectory%
+;MicrosoftStream ClassPolicy Channel
+;Run chrome.exe https://web.microsoftstream.com/channel/baa6002e-7d9f-4a2c-a11f-ca7cdd730559 --new-window --profile-directory=%VarProfileDirectory%
+;Physics 111 Videos on Microsoft Stream
+;Run chrome.exe https://web.microsoftstream.com/channel/a292724a-ea99-4011-bca1-b5f0a0b03aab --new-window --profile-directory=%VarProfileDirectory%
+;More Physics 111 Videos on Microsoft Stream
+;Run chrome.exe https://web.microsoftstream.com/channel/a298fbbe-5fe4-49b8-a1b8-33b3c54b9f48 --new-window --profile-directory=%VarProfileDirectory%
+
+^!F7::
+Run "C:\Program Files (x86)\GMetrix\GMetrix SMSe\GMetrix SMSe.exe"
 return
-;2021 T1 6th Period was Astronomy
 
 ^!+F7::
 ; Msgbox, CTRL+ALT+SHIFT+F7 is not defined
