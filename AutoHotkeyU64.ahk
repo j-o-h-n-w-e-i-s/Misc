@@ -508,7 +508,9 @@ return
 ;ASCII 41 )
 ;^!):: MsgBox CTRL+ALT+) is UNUSED
 ^!):: 
-Run chrome.exe https://journals.ashs.org/ --new-window --profile-directory=%VarProfileDirectory%
+;Run chrome.exe https://journals.ashs.org/ --new-window --profile-directory=%VarProfileDirectory%
+;Schedule Exams Portal In Certiport
+Run chrome.exe https://www.certiport.com/Portal/desktopdefault.aspx?tabid=796&roleid=76 --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 42 *
