@@ -344,6 +344,7 @@ Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_
 ;District Calendar  http://psd1.us/calendar 
 run chrome.exe https://drive.google.com/file/d/1DxCaYvQ-RJQiyRDN2zFAITNsCR5gUCco/view --new-MainWindow 
 run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/phssci/Eo2hVVSY7kNAtNCZbN11wAkBSqswTEdWH2ND8rQ2P6T7ZA?e=xJrS45 --new-MainWindow 
+run chrome.exe https://liveedupsd1.sharepoint.com/sites/PLCDART-Astronomy/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={3A0ABFB8-74E8-49D6-B0E6-C96966BBB13A} -new-MainWindow
 return
 
 ;ASCII 35 #
