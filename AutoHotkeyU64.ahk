@@ -2392,3 +2392,5 @@ Return
 :*:julieta646::julieta646@students.psd1.org ; 21-22 T2 ASTRO 5th
 :*:meidi256::meidi256@students.psd1.org ; 21-22 T2 MOS 6TH
 :*:pmeidi256::yard931 ; 21-22 T2 MOS 6TH
+:*:darian530::darian530@students.psd1.org ; 21-22 T2 MOS 6TH
+:*:pdarian530::move742 ; 21-22 T2 MOS 6TH
