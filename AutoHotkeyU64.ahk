@@ -1020,6 +1020,7 @@ return
 ;ASCII 108 L
 ^!l::
 Run chrome.exe https://app.wiaaesports.com/organizations/54f1d7a0-e09c-4250-bccb-6819d3211883 --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://app.playvs.com/app --new-MainWindow
 return
 
 ;ASCII 109 M
