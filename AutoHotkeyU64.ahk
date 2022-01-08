@@ -1073,7 +1073,7 @@ if (A_ComputerName = VarHomeComputerName)
     ;Msgbox, %A_ComputerName%
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
-    Run chrome.exe https://drive.google.com/drive/folders/1h9HTtF2qnKOjG-5yqfGY85vfiwBB9aTu --new-window --profile-directory=%VarPersonalGmailProfile%
+    Run chrome.exe https://drive.google.com/drive/folders/191_H3Syt8GtqfMMPf6paTLByke7ockIp --new-window --profile-directory=%VarPersonalGmailProfile%
     Run explorer.exe "C:\Users\Public\Documents\GoogleScanned Local"
     Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
