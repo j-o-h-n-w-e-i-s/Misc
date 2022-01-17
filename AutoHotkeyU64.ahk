@@ -1346,6 +1346,9 @@ return
 F10::DllCall("PowrProf\SetSuspendState", "int", 0, "int", 0, "int", 0)
 Return
 
+~LButton & RButton::MouseClick, Middle
+~RButton & LButton::MouseClick, Middle
+
 ;these shortcuts that go to a Teams Channel just don't work
 ;^!!::Run chrome.exe https://teams.microsoft.com/l/channel/19%3acd94b0c55f2f4770a43b908fdd701b34%40thread.tacv2/General?groupId=85226ffd-e680-48aa-886d-d1ae83563e03&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d --new-window
 ;^!!::Run chrome.exe "https://teams.microsoft.com/l/channel/19%3a0aa3de7bfb9941d69022b410f18ba257%40thread.tacv2/General?groupId=7472bc95-8161-4f99-abb1-b0e35d52abfa&tenantId=8597710a-46c1-4cee-a510-9a4c365e081d" --new-window
