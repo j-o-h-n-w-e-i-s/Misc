@@ -259,6 +259,7 @@ PT3 Curriculum, Instruction and Assessment
 :*:..splain::We are an "email club" with 6th 7th and 8th graders that are interested in space.  You don't have to be in high school to like space or be in an email group where we share information and questions about space.{Enter}{Enter}Click here https://outlook.office.com/people/group/psd1.org/themoon and then "Join" to join "The Moon" email group.  Click here https://outlook.office.com/people/group/psd1.org/mars and then "Join" to join the "Mars" email group.
 :*:..themars::Go to https://outlook.office.com/people/group/psd1.org/mars and click "Join" to sign up or "Leave group" to stop getting these emails.
 :*:..themoon::Go to https://outlook.office.com/people/group/psd1.org/themoon and click "Join" to sign up or "Leave group" to stop getting these emails.
+:*:..bent2::amramirez@psd1.org;aerdmann@psd1.org;bjohnson@psd1.org;tsommerville@psd1.org;cbender@psd1.org;spowers@psd1.org;bthomas@psd1.org;kbennion@psd1.org;bmeredith@psd1.org;jolena.weisenfeld@gmail.com;ben.weisenfeld@gmail.com
 
 ;LOWER CASE ALPHABET
 
