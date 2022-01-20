@@ -677,18 +677,12 @@ return
 
 ;ASCII 53 5
 ^!5::
-; 21-22 T2
-; 21-22 ASTRO 5TH
-; Multi-Day Attendance Recording
+Run chrome.exe about:blank --new-window --profile-directory=%VarPowerSchoolProfile%
+;Run chrome.exe about:blank --new-MainWindow
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=216156#classtoolsmode --new-window --profile-directory=%VarPowerSchoolProfile%
+Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?sectionGroupId=SectionGroup_MjAzNzY1MjAzNzY2 --new-window --profile-directory=%VarPowerSchoolProfile%
+Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=216156&frn=003203766 --new-window --profile-directory=%VarPowerSchoolProfile%
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=216156&frn=003203766&attPeriod=5&meetingMode=ATT_ModeMeeting&meetingType=meeting&periodId=7388 --new-window --profile-directory=%VarPowerSchoolProfile%
-; Seating Chart
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=216156#classtoolsmode --new-MainWindow
-; PowerTeacherPro
-;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203766 --new-MainWindow
-Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionGroupId=SectionGroup_MjAzNzY1MjAzNzY2 --new-MainWindow
-; Student Info
-Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=216156&frn=003203766 --new-MainWindow
-;Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%VarPowerSchoolProfile%
 return
 
 ;ASCII 54 6
