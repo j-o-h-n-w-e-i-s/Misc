@@ -701,11 +701,11 @@ return
 ; Multi-Day Attendance Recording
 Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215272&frn=003202882&attPeriod=6&meetingMode=ATT_ModeMeeting&meetingType=meeting&periodId=7389 --new-window --profile-directory=%VarPowerSchoolProfile%
 ; Seating Chart
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215272#classtoolsmode --new-MainWindow
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215272#classtoolsmode --new-window --profile-directory=%VarPowerSchoolProfile%
 ; PowerTeacherPro
-Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=202882 --new-MainWindow
+Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=202882 --new-window --profile-directory=%VarPowerSchoolProfile%
 ; Student Info
-Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215272&frn=003202882 --new-MainWindow
+Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215272&frn=003202882 --new-window --profile-directory=%VarPowerSchoolProfile%
 ; URL to OneNote?
 ; URL to Nimble for this class?
 ; URL to ExpertTA?
