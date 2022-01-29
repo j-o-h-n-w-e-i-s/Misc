@@ -905,6 +905,7 @@ Run chrome.exe https://www.youtube.com/c/veritasium/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/channel/UCrTVK7WbzTaJdEmaroebAOQ/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/NASA/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/NASAJPL/videos --new-MainWindow
+Run chrome.exe https://www.youtube.com/c/PhysicsExplained3/videos --new-MainWindow
 return
 
 ;ASCII 98 b
@@ -1024,6 +1025,8 @@ return
 ^!l::
 Run chrome.exe https://app.wiaaesports.com/organizations/54f1d7a0-e09c-4250-bccb-6819d3211883 --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://app.playvs.com/app --new-MainWindow
+Run chrome.exe https://help.playvs.com/en/articles/5652916-high-school-spring-2022-schedule-all-games --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://help.playvs.com/en/collections/3195671-spring-22-season-info --new-window --profile-directory=%VarProfileDirectory%
 return
 
 ;ASCII 109 M
