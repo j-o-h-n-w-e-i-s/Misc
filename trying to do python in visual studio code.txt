@@ -1,0 +1,30 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+dt = 0.01
+x0 = 10
+v0 = 10
+a0 = -1
+
+A = [ [1,dt,0],[0,1,dt],[0,0,1]]
+print(A)
+x =np.array([[x0],[v0],[a0]])
+print(x)
+b = np.vstack((x))
+print(b)
+
+for i in range (0,20) :
+ y = np.dot(A,y)
+ b = np.hstack((b,np.vstack((y))))
+ print(y)
+
+print(b)
+
+plt.figure(0)
+plt.plot(b[0,:])
+plt.title("position versus time")
+
+plt.figure(1)
+plt.plot(b[1,:])
+plt.title("velocity versus time")
