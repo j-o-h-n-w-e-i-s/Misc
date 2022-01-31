@@ -906,7 +906,7 @@ Run chrome.exe https://www.youtube.com/channel/UCrTVK7WbzTaJdEmaroebAOQ/videos -
 Run chrome.exe https://www.youtube.com/c/NASA/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/NASAJPL/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/PhysicsExplained3/videos --new-MainWindow
-Run chrome.exe https://https://apod.nasa.gov/apod/ -new-MainWindow
+Run chrome.exe https://apod.nasa.gov/apod/ -new-MainWindow
 return
 
 ;ASCII 98 b
