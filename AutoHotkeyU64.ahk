@@ -907,6 +907,8 @@ Run chrome.exe https://www.youtube.com/c/NASA/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/NASAJPL/videos --new-MainWindow
 Run chrome.exe https://www.youtube.com/c/PhysicsExplained3/videos --new-MainWindow
 Run chrome.exe https://apod.nasa.gov/apod/ -new-MainWindow
+Run chrome.exe https://www.youtube.com/playlist?list=PLWFlMBumSLSaqgYlK2wD7XSPRQ2p-_Tl4 --new-MainWindow
+Run chrome.exe https://trinket.io/library/folder/allain --new-MainWindow
 return
 
 ;ASCII 98 b
