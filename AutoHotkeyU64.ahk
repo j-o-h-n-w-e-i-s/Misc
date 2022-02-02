@@ -1194,7 +1194,12 @@ return
 return
 
 ;ASCII 123 {
-^!{:: Msgbox CTRL+ALT+{ is UNUSED
+^!{::
+  Run, mmsys.cpl
+  WinWait, Sound
+  ControlSend ,SysListView321, {Down 1}
+  ControlClick ,&Set Default
+  ControlClick ,Ok
 return
 
 ;ASCII 124 |
@@ -1202,10 +1207,13 @@ return
 return
 
 ;ASCII 125 }
-;^!}:: Msgbox CTRL+ALT+} is UNUSED
-;return
-^!}:: ;WIN+CTRL+ALT+}
-Run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/PSD-CTE/Etw-mHxpVctHme_Mt234-6oB29g26raofp6PBqHdyf1ZBw?e=UKkKrh --new-window --profile-directory=%VarProfileDirectory%
+^!}::
+;Run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/PSD-CTE/Etw-mHxpVctHme_Mt234-6oB29g26raofp6PBqHdyf1ZBw?e=UKkKrh --new-window --profile-directory=%VarProfileDirectory%
+  Run, mmsys.cpl
+  WinWait, Sound
+  ControlSend ,SysListView321, {Down 6}
+  ControlClick ,&Set Default
+  ControlClick ,Ok
 return
 
 
