@@ -545,7 +545,20 @@ return
 
 ;ASCII 45 -
 ;Open OneDrive in the browser
-^!-::Run chrome.exe  https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow --profile-directory=%VarProfileDirectory%
+^!-::
+if (A_ComputerName = VarHomeComputerName)
+{
+    Run msedge.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow --profile-directory="Profile 1"
+}
+Else If (A_ComputerName = VarWorkComputerName)
+{
+    Run msedge.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow --profile-directory="Profile 1"
+}
+Else 
+{
+    MsgBox "I don't know this computer, Opening Edge Default Profile"
+    Run msedge.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow --profile-directory="Default"
+}
 return
 
 ;ASCII 46 . nimble.com
