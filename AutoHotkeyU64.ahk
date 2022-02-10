@@ -552,7 +552,7 @@ if (A_ComputerName = VarHomeComputerName)
 }
 Else If (A_ComputerName = VarWorkComputerName)
 {
-    Run msedge.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow --profile-directory="Profile 1"
+    Run msedge.exe https://liveedupsd1-my.sharepoint.com/personal/jweisenfeld_psd1_org/_layouts/15/onedrive.aspx?id=/personal/jweisenfeld_psd1_org/Documents/2021-2022 --new-MainWindow --profile-directory="Default"
 }
 Else 
 {
@@ -728,7 +728,7 @@ Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215272&f
 ; URL to OneNote?
 ; URL to Nimble for this class?
 ; URL to ExpertTA?
-Run "%UserProf%\Downloads\Word_2019_teacher_workbook.pdf"
+Run "%UserProf%\Downloads\PowerPoint_2019_teacher_workbook.pdf"
 ;Run "%UserProf%\Downloads\PowerPoint_2019_teacher_workbook(1).pdf"
 return
 
@@ -866,7 +866,7 @@ if (A_ComputerName = VarHomeComputerName)
 }
 Else if (A_ComputerName = VarWorkComputerName)
 {
-    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 3"
+    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Default"
 ;enterprise@psd1.org is Profile 3 on work computer
 }
 Else if (A_ComputerName = VarWorkLaptopName)
