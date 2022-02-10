@@ -1,0 +1,15 @@
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\CrushTheCopier.csproj.AssemblyReference.cache
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\CrushTheCopier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\CrushTheCopier.AssemblyInfoInputs.cache
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\CrushTheCopier.AssemblyInfo.cs
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\CrushTheCopier.csproj.CoreCompileInputs.cache
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\bin\Debug\net6.0\CrushTheCopier.exe
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\bin\Debug\net6.0\CrushTheCopier.deps.json
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\bin\Debug\net6.0\CrushTheCopier.runtimeconfig.json
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\bin\Debug\net6.0\CrushTheCopier.dll
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\bin\Debug\net6.0\ref\CrushTheCopier.dll
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\bin\Debug\net6.0\CrushTheCopier.pdb
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\CrushTheCopier.dll
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\ref\CrushTheCopier.dll
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\CrushTheCopier.pdb
+C:\Users\JohnWeis\Documents\GitHub\Misc\CrushTheCopier\obj\Debug\net6.0\CrushTheCopier.genruntimeconfig.cache
