@@ -1044,7 +1044,9 @@ Run chrome.exe https://app.wiaaesports.com/organizations/54f1d7a0-e09c-4250-bccb
 Run chrome.exe https://app.playvs.com/app --new-MainWindow
 Run chrome.exe https://help.playvs.com/en/articles/5652916-high-school-spring-2022-schedule-all-games --new-window --profile-directory=%VarProfileDirectory%
 Run chrome.exe https://help.playvs.com/en/collections/3195671-spring-22-season-info --new-window --profile-directory=%VarProfileDirectory%
-return
+Run chrome.exe https://help.playvs.com/en/articles/5872507-mario-kart-8-deluxe-rulebook --new-MainWindow
+Run chrome.exe https://help.playvs.com/en/articles/5954709-overwatch-rulebook-youth-program --new-MainWindow
+Run chrome.exe https://help.playvs.com/en/articles/4919168-super-smash-bros-ultimate-rulebook --new-MainWindow
 
 ;ASCII 109 M
 ;Open Chrome to SOM
