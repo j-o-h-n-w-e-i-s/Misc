@@ -937,8 +937,8 @@ return
 ;no --profile-directory
 ;^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --headless --disable-gpu --screenshot
 ;no disable-gpu
-;^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory=%VarProfileDirectory%
-^!c::Send {ALT}+{PrintScreen}
+^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory=%VarProfileDirectory%
+;^!c::Send {ALT}+{PrintScreen}
 return
 
 ;ASCII 100 d
