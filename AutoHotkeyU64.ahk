@@ -1047,6 +1047,7 @@ Run chrome.exe https://help.playvs.com/en/collections/3195671-spring-22-season-i
 Run chrome.exe https://help.playvs.com/en/articles/5872507-mario-kart-8-deluxe-rulebook --new-MainWindow
 Run chrome.exe https://help.playvs.com/en/articles/5954709-overwatch-rulebook-youth-program --new-MainWindow
 Run chrome.exe https://help.playvs.com/en/articles/4919168-super-smash-bros-ultimate-rulebook --new-MainWindow
+return 
 
 ;ASCII 109 M
 ;Open Chrome to SOM
