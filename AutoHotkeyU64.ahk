@@ -1236,7 +1236,7 @@ return
 ;ASCII 126 ~
 ;^!~::Msgbox CTRL+ALT+~ is UNUSED
 ;^!~::Run chrome.exe https://learnpsd.psd1.org/screening/employee --new-window --profile-directory=%VarProfileDirectory%
-^!~::Run "%UserProf%\AppData\Local\Discord\app-1.0.9003\Discord.exe"
+^!~::Run "%UserProf%\AppData\Local\Discord\app-1.0.9004\Discord.exe"
 return
 
 ^!F1::
