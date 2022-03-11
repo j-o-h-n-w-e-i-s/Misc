@@ -357,6 +357,7 @@ run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/phssci/Eo2hVVSY7kNAtNCZb
 run chrome.exe https://liveedupsd1.sharepoint.com/sites/PLCDART-Astronomy/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={3A0ABFB8-74E8-49D6-B0E6-C96966BBB13A} -new-MainWindow
 run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/PSD-CTE/Ee-a-Iwo8-RDhxQ_PDeI_8ABEXbJwqsOD00mEcDkvX19zA?e=Ws40EJ --new-MainWindow
 Run chrome.exe https://liveedupsd1.sharepoint.com/:x:/r/sites/PLCDART-Astronomy/ --new-MainWindow
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ET27m9T-E_9JiTDYwE2rVusBUoroc6es2sofqRvcaZrgqA?e=FKCbAF --new-MainWindow
 return
 
 ;ASCII 35 #
