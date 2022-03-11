@@ -153,14 +153,16 @@ PT3 Curriculum, Instruction and Assessment
 ;:*:..lkey::LKEY-91848-14860-T3MRWNPA ;All Used Up
 ;:*:..lkey::LKEY-91457-39633-JW2122T1 ;All Used Up
 ;:*:..lkey::LKEY-48330-89944-8TH2021 ;sent to 8th graders
-:*:..lkey::LKEY-69204-36115-ks2021 ;Schneider created this does it still work?
-:*:..wenlkey::LKEY-91657-33795-CACWEN
-:*:..2lkey::LKEY-51768-06216-ks2021
+:*:..lkey::LKEY-66011-14746-KS2021 ;16 uses remaining
+;:*:..lkey::LKEY-69204-36115-ks2021 ;Schneider created this does it still work? ;12 remaning.
+:*:..wenlkey::LKEY-91657-33795-CACWEN ;20 remaining uses
+:*:..2lkey::LKEY-51768-06216-ks2021 ;12 remaining uses
 :*:..3lkey::LKEY-69204-36115-ks2021
 ;:*:..mos::94512-PSD1-58243; TOO MANY USERS
 ;:*:..mos::77074-MOSTRI2-31445 ;used up!!!
 :*:..2mos::94512-PSD1-58243 ;2mos has all 2016 and 2019 exams.
-:*:..mos::42222-MOS2021-89256
+;:*:..mos::42222-MOS2021-89256 ; only 18 left
+:*:..mos::91007-MOS2021-87888 ; 0 of 100 used, all exams!!
 :*:..jl::LKEY-88711-63943-Brault4
 :*:..jm::64427-JB2122T1-26731
 :*:jwe::jweisenfeld@psd1.org
@@ -1771,7 +1773,7 @@ Return
 :*:parmando980::75kks5 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
 :*:pashley458::path986 ;21-22-T2-2(A) EARTH SCIENCE 3 
 :*:pashley711::stow629 ;MOS, 21-22,T1, 2nd Period 
-:*:patticus004::DRAT ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:patticus004::mold781 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
 :*:paustin790::plot113 ;MOS, 21-22,T1, 2nd Period 
 :*:payden705::work348 ;21-22-T3-3(A) ACCELERATED PHYSICS 
 :*:pbelynda794::name693 ;20-21 t2 mos-1 and mos-2 
@@ -2440,3 +2442,5 @@ Return
 :*:pjonathan161::m66de1 ; 21-22 T2 Astro 2nd
 :*:jose866::jose866@students.psd1.org ; 21-22 T2 Astro 2nd
 :*:pjose866::z5h8y4 ; 21-22 T2 Astro 2nd
+:*:xitlaly417::xitlaly417@students.psd1.org ; 21-22 T3 MOS2
+:*:pxitlaly417::dear240 ; 21-22 T3 MOS2
