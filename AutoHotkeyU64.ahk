@@ -153,8 +153,8 @@ PT3 Curriculum, Instruction and Assessment
 ;:*:..lkey::LKEY-91848-14860-T3MRWNPA ;All Used Up
 ;:*:..lkey::LKEY-91457-39633-JW2122T1 ;All Used Up
 ;:*:..lkey::LKEY-48330-89944-8TH2021 ;sent to 8th graders
-:*:..lkey::LKEY-66011-14746-KS2021 ;16 uses remaining
-;:*:..lkey::LKEY-69204-36115-ks2021 ;Schneider created this does it still work? ;12 remaning.
+;:*:..lkey::LKEY-66011-14746-KS2021 ;All Used Up!
+:*:..lkey::LKEY-69204-36115-ks2021 ;Schneider created this does it still work? ;12 remaning.
 :*:..wenlkey::LKEY-91657-33795-CACWEN ;20 remaining uses
 :*:..2lkey::LKEY-51768-06216-ks2021 ;12 remaining uses
 :*:..3lkey::LKEY-69204-36115-ks2021
