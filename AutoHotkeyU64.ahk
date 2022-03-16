@@ -347,18 +347,22 @@ return
 ;^!"::Msgbox CTRL+ALT+quote is UNUSED
 ;planning excel COI spreadsheets
 ^!"::
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ERM5yIHF4yBNp4qvqypCLIwB1KPqh93-AitDJM5KjE-r0A?e=SppxBv --new-window --profile-directory=%VarProfileDirectory%
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ETC_jQA0sq9AlZYOL0iLrXsB8jZOT2TKc7nzS0MgwNKloQ?e=GIUa0W --new-MainWindow
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EYq_uDpHMvpLvaq-XDf9P8YBkGnemitVZXRSSgJB6LW4SQ?e=OaHdMz --new-MainWindow
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EY-ruw41B-NHlQbyh811PCsBhxfxszYj3lVQugpATepg3g?e=j43Av9 --new-MainWindow
-;District Calendar  http://psd1.us/calendar 
-run chrome.exe https://drive.google.com/file/d/1DxCaYvQ-RJQiyRDN2zFAITNsCR5gUCco/view --new-MainWindow 
-run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/phssci/Eo2hVVSY7kNAtNCZbN11wAkBSqswTEdWH2ND8rQ2P6T7ZA?e=xJrS45 --new-MainWindow 
-run chrome.exe https://liveedupsd1.sharepoint.com/sites/PLCDART-Astronomy/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={3A0ABFB8-74E8-49D6-B0E6-C96966BBB13A} -new-MainWindow
-run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/PSD-CTE/Ee-a-Iwo8-RDhxQ_PDeI_8ABEXbJwqsOD00mEcDkvX19zA?e=Ws40EJ --new-MainWindow
-Run chrome.exe https://liveedupsd1.sharepoint.com/:x:/r/sites/PLCDART-Astronomy/ --new-MainWindow
+;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ERM5yIHF4yBNp4qvqypCLIwB1KPqh93-AitDJM5KjE-r0A?e=SppxBv --new-window --profile-directory=%VarProfileDirectory%
+;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ETC_jQA0sq9AlZYOL0iLrXsB8jZOT2TKc7nzS0MgwNKloQ?e=GIUa0W --new-MainWindow
+;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EYq_uDpHMvpLvaq-XDf9P8YBkGnemitVZXRSSgJB6LW4SQ?e=OaHdMz --new-MainWindow
+;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EY-ruw41B-NHlQbyh811PCsBhxfxszYj3lVQugpATepg3g?e=j43Av9 --new-MainWindow
+;District Calendar  http://psd1.us/calendar
+Run chrome.exe http://psd1.us/calendar --new-window --profile-directory=%VarProfileDirectory%
+; 21-22 T2 
+;run chrome.exe https://drive.google.com/file/d/1DxCaYvQ-RJQiyRDN2zFAITNsCR5gUCco/view --new-MainWindow 
+;run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/phssci/Eo2hVVSY7kNAtNCZbN11wAkBSqswTEdWH2ND8rQ2P6T7ZA?e=xJrS45 --new-MainWindow 
+;run chrome.exe https://liveedupsd1.sharepoint.com/sites/PLCDART-Astronomy/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={3A0ABFB8-74E8-49D6-B0E6-C96966BBB13A} -new-MainWindow
+;run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/PSD-CTE/Ee-a-Iwo8-RDhxQ_PDeI_8ABEXbJwqsOD00mEcDkvX19zA?e=Ws40EJ --new-MainWindow
+;Run chrome.exe https://liveedupsd1.sharepoint.com/:x:/r/sites/PLCDART-Astronomy/ --new-MainWindow
+; 21-22 T3
 Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ET27m9T-E_9JiTDYwE2rVusBUoroc6es2sofqRvcaZrgqA?e=FKCbAF --new-MainWindow
 Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/Ee_u1-pyjY9DvFSCM3PDeIMBrFp4-ovFOo1TkPgT-6WQrA?e=TlCEXv --new-MainWindow
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EZNJ-TNW-CtOi58lRDO6IOABlyahUUgG-jDzrgCriR6-vw?e=5XxguY --new-MainWindow
 return
 
 ;ASCII 35 #
