@@ -628,73 +628,17 @@ return
 
 ;ASCII 49 1
 ^!1::
-; 21-22 Physics 111
-; Multi-Day Attendance Recording
-;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215007&frn=003202617 --new-window --profile-directory=%VarPowerSchoolProfile%
-; Seating Chart
-;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215007#classtoolsmode --new-MainWindow
-; PowerTeacherPro
-;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=202617 --new-MainWindow
-; Student Info
-;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215007&frn=003202617 --new-MainWindow
-; 21-22 Physics 112
-; Multi-Day Attendance Recording
-Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=216035&frn=003203645&attPeriod=1&meetingMode=ATT_ModeMeeting&meetingType=meeting&ATT_Source_Code=Teacher&periodId=7384 --new-window --profile-directory=%VarPowerSchoolProfile%
-; Seating Chart
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=216035#classtoolsmode --new-window --profile-directory=%VarPowerSchoolProfile%
-; PowerTeacherPro
-Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203645 --new-window --profile-directory=%VarPowerSchoolProfile%
-; Student Info
-Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=216035&frn=003203645 --new-window --profile-directory=%VarPowerSchoolProfile%
-; URL to OneNote?
-; URL to Nimble for this class?
-; URL to ExpertTA?
+Run chrome.exe https://pschool.psd1.org/teachers/home.html --new-window --profile-directory=%VarPowerSchoolProfile%
 return
 
 ;ASCII 50 2
 ^!2::
-; 21-22 MOS 1
-; Multi-Day Attendance Recording
-;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215711&frn=003203321 --new-window --profile-directory=%VarPowerSchoolProfile%
-; Seating Chart
-;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215711#classtoolsmode --new-MainWindow
-; PowerTeacherPro
-;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203321 --new-MainWindow
-; Student Info
-;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215711&frn=003203321 --new-MainWindow
-; 21-22 T2
-; 21-22 ASTRO 2ND
-; Multi-Day Attendance Recording
-Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?sectionid=216155&frn=003203765&att_period=2&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&Period_ID=7385 --new-window --profile-directory=%VarPowerSchoolProfile%
-; Seating Chart
-Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=216155#classtoolsmode --new-MainWindow
-; PowerTeacherPro
-;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203765 --new-MainWindow
-Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionGroupId=SectionGroup_MjAzNzY1MjAzNzY2 --new-MainWindow
-; Student Info
-Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=216155&frn=003203765 --new-MainWindow
-; URL to OneNote?
-; URL to Nimble for this class?
-; URL to ExpertTA?
+Run chrome.exe https://pschool.psd1.org/teachers/home.html --new-window --profile-directory=%VarPowerSchoolProfile%
 return
 
 ;ASCII 51 3
 ^!3::
-; 21-22 Waves 3RD
-; Multi-Day Attendance Recording
-;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215712&frn=003203322 --new-window --profile-directory=%VarPowerSchoolProfile%
-; Seating Chart
-;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215712#classtoolsmode --new-MainWindow
-; PowerTeacherPro
-;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203322 --new-MainWindow
-; Student Info
-;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215712&frn=003203322 --new-MainWindow
-; 21-22 T2
-; 3rd Period is Lunch/Plan
-Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%VarPowerSchoolProfile%
-; URL to OneNote?
-; URL to Nimble for this class?
-; URL to ExpertTA?
+Run chrome.exe https://pschool.psd1.org/teachers/home.html --new-window --profile-directory=%VarPowerSchoolProfile%
 return
 
 ;ASCII 52 4
