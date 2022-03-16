@@ -265,7 +265,7 @@ PT3 Curriculum, Instruction and Assessment
 :*:..themars::Go to https://outlook.office.com/people/group/psd1.org/mars and click "Join" to sign up or "Leave group" to stop getting these emails.
 :*:..themoon::Go to https://outlook.office.com/people/group/psd1.org/themoon and click "Join" to sign up or "Leave group" to stop getting these emails.
 :*:..bent2::amramirez@psd1.org;aerdmann@psd1.org;bjohnson@psd1.org;tsommerville@psd1.org;cbender@psd1.org;spowers@psd1.org;bthomas@psd1.org;kbennion@psd1.org;bmeredith@psd1.org;jolena.weisenfeld@gmail.com;ben.weisenfeld@gmail.com
-:*:..jcw::John C. Weisenfeld
+:*:..jcw::John C. Weisenfeld 2
 :*:..425::425 301 7404
 ;LOWER CASE ALPHABET
 
