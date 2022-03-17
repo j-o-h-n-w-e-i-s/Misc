@@ -153,16 +153,14 @@ PT3 Curriculum, Instruction and Assessment
 ;:*:..lkey::LKEY-91848-14860-T3MRWNPA ;All Used Up
 ;:*:..lkey::LKEY-91457-39633-JW2122T1 ;All Used Up
 ;:*:..lkey::LKEY-48330-89944-8TH2021 ;sent to 8th graders
-;:*:..lkey::LKEY-66011-14746-KS2021 ;All Used Up!
-:*:..lkey::LKEY-69204-36115-ks2021 ;Schneider created this does it still work? ;12 remaning.
-:*:..wenlkey::LKEY-91657-33795-CACWEN ;20 remaining uses
-:*:..2lkey::LKEY-51768-06216-ks2021 ;12 remaining uses
+:*:..lkey::LKEY-69204-36115-ks2021 ;Schneider created this does it still work?
+:*:..wenlkey::LKEY-91657-33795-CACWEN
+:*:..2lkey::LKEY-51768-06216-ks2021
 :*:..3lkey::LKEY-69204-36115-ks2021
 ;:*:..mos::94512-PSD1-58243; TOO MANY USERS
 ;:*:..mos::77074-MOSTRI2-31445 ;used up!!!
 :*:..2mos::94512-PSD1-58243 ;2mos has all 2016 and 2019 exams.
-;:*:..mos::42222-MOS2021-89256 ; only 18 left
-:*:..mos::91007-MOS2021-87888 ; 0 of 100 used, all exams!!
+:*:..mos::42222-MOS2021-89256
 :*:..jl::LKEY-88711-63943-Brault4
 :*:..jm::64427-JB2122T1-26731
 :*:jwe::jweisenfeld@psd1.org
@@ -265,7 +263,7 @@ PT3 Curriculum, Instruction and Assessment
 :*:..themars::Go to https://outlook.office.com/people/group/psd1.org/mars and click "Join" to sign up or "Leave group" to stop getting these emails.
 :*:..themoon::Go to https://outlook.office.com/people/group/psd1.org/themoon and click "Join" to sign up or "Leave group" to stop getting these emails.
 :*:..bent2::amramirez@psd1.org;aerdmann@psd1.org;bjohnson@psd1.org;tsommerville@psd1.org;cbender@psd1.org;spowers@psd1.org;bthomas@psd1.org;kbennion@psd1.org;bmeredith@psd1.org;jolena.weisenfeld@gmail.com;ben.weisenfeld@gmail.com
-:*:..jcw::John C. Weisenfeld 2
+:*:..jcw::John C. Weisenfeld
 :*:..425::425 301 7404
 ;LOWER CASE ALPHABET
 
@@ -347,22 +345,17 @@ return
 ;^!"::Msgbox CTRL+ALT+quote is UNUSED
 ;planning excel COI spreadsheets
 ^!"::
-;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ERM5yIHF4yBNp4qvqypCLIwB1KPqh93-AitDJM5KjE-r0A?e=SppxBv --new-window --profile-directory=%VarProfileDirectory%
-;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ETC_jQA0sq9AlZYOL0iLrXsB8jZOT2TKc7nzS0MgwNKloQ?e=GIUa0W --new-MainWindow
-;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EYq_uDpHMvpLvaq-XDf9P8YBkGnemitVZXRSSgJB6LW4SQ?e=OaHdMz --new-MainWindow
-;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EY-ruw41B-NHlQbyh811PCsBhxfxszYj3lVQugpATepg3g?e=j43Av9 --new-MainWindow
-;District Calendar  http://psd1.us/calendar
-Run chrome.exe http://psd1.us/calendar --new-window --profile-directory=%VarProfileDirectory%
-; 21-22 T2 
-;run chrome.exe https://drive.google.com/file/d/1DxCaYvQ-RJQiyRDN2zFAITNsCR5gUCco/view --new-MainWindow 
-;run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/phssci/Eo2hVVSY7kNAtNCZbN11wAkBSqswTEdWH2ND8rQ2P6T7ZA?e=xJrS45 --new-MainWindow 
-;run chrome.exe https://liveedupsd1.sharepoint.com/sites/PLCDART-Astronomy/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={3A0ABFB8-74E8-49D6-B0E6-C96966BBB13A} -new-MainWindow
-;run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/PSD-CTE/Ee-a-Iwo8-RDhxQ_PDeI_8ABEXbJwqsOD00mEcDkvX19zA?e=Ws40EJ --new-MainWindow
-;Run chrome.exe https://liveedupsd1.sharepoint.com/:x:/r/sites/PLCDART-Astronomy/ --new-MainWindow
-; 21-22 T3
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ET27m9T-E_9JiTDYwE2rVusBUoroc6es2sofqRvcaZrgqA?e=FKCbAF --new-MainWindow
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/Ee_u1-pyjY9DvFSCM3PDeIMBrFp4-ovFOo1TkPgT-6WQrA?e=TlCEXv --new-MainWindow
-Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EZNJ-TNW-CtOi58lRDO6IOABlyahUUgG-jDzrgCriR6-vw?e=5XxguY --new-MainWindow
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ERM5yIHF4yBNp4qvqypCLIwB1KPqh93-AitDJM5KjE-r0A?e=SppxBv --new-window --profile-directory=%VarProfileDirectory%
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/ETC_jQA0sq9AlZYOL0iLrXsB8jZOT2TKc7nzS0MgwNKloQ?e=GIUa0W --new-MainWindow
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EYq_uDpHMvpLvaq-XDf9P8YBkGnemitVZXRSSgJB6LW4SQ?e=OaHdMz --new-MainWindow
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EY-ruw41B-NHlQbyh811PCsBhxfxszYj3lVQugpATepg3g?e=j43Av9 --new-MainWindow
+;District Calendar  http://psd1.us/calendar 
+run chrome.exe https://drive.google.com/file/d/1DxCaYvQ-RJQiyRDN2zFAITNsCR5gUCco/view --new-MainWindow 
+run chrome.exe https://liveedupsd1.sharepoint.com/:o:/s/phssci/Eo2hVVSY7kNAtNCZbN11wAkBSqswTEdWH2ND8rQ2P6T7ZA?e=xJrS45 --new-MainWindow 
+run chrome.exe https://liveedupsd1.sharepoint.com/sites/PLCDART-Astronomy/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={3A0ABFB8-74E8-49D6-B0E6-C96966BBB13A} -new-MainWindow
+run chrome.exe https://liveedupsd1.sharepoint.com/:w:/s/PSD-CTE/Ee-a-Iwo8-RDhxQ_PDeI_8ABEXbJwqsOD00mEcDkvX19zA?e=Ws40EJ --new-MainWindow
+Run chrome.exe https://liveedupsd1.sharepoint.com/:x:/r/sites/PLCDART-Astronomy/ --new-MainWindow
+;Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/r/personal/jweisenfeld_psd1_org/_layouts/15/Doc.aspx?sourcedoc=%7Bd49bbb3d-13fe-49ff-8930-d8c04dab56eb%7D&action=edit&wdPreviousSession=81d16bf9-b859-4549-bf4a-eb7585a92e14 --new-MainWindow
 return
 
 ;ASCII 35 #
@@ -628,24 +621,78 @@ return
 
 ;ASCII 49 1
 ^!1::
-Run chrome.exe https://pschool.psd1.org/teachers/home.html --new-window --profile-directory=%VarPowerSchoolProfile%
+; 21-22 Physics 111
+; Multi-Day Attendance Recording
+;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215007&frn=003202617 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Seating Chart
+;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215007#classtoolsmode --new-MainWindow
+; PowerTeacherPro
+;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=202617 --new-MainWindow
+; Student Info
+;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215007&frn=003202617 --new-MainWindow
+; 21-22 Physics 112
+; Multi-Day Attendance Recording
+Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=216035&frn=003203645&attPeriod=1&meetingMode=ATT_ModeMeeting&meetingType=meeting&ATT_Source_Code=Teacher&periodId=7384 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Seating Chart
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=216035#classtoolsmode --new-window --profile-directory=%VarPowerSchoolProfile%
+; PowerTeacherPro
+Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203645 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Student Info
+Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=216035&frn=003203645 --new-window --profile-directory=%VarPowerSchoolProfile%
+; URL to OneNote?
+; URL to Nimble for this class?
+; URL to ExpertTA?
 return
 
 ;ASCII 50 2
 ^!2::
-Run chrome.exe https://pschool.psd1.org/teachers/home.html --new-window --profile-directory=%VarPowerSchoolProfile%
+; 21-22 MOS 1
+; Multi-Day Attendance Recording
+;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215711&frn=003203321 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Seating Chart
+;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215711#classtoolsmode --new-MainWindow
+; PowerTeacherPro
+;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203321 --new-MainWindow
+; Student Info
+;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215711&frn=003203321 --new-MainWindow
+; 21-22 T2
+; 21-22 ASTRO 2ND
+; Multi-Day Attendance Recording
+Run chrome.exe https://pschool.psd1.org/teachers/classattendance.html?sectionid=216155&frn=003203765&att_period=2&Att_Mode_Code=ATT_ModeMeeting&pagetype=meeting&Period_ID=7385 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Seating Chart
+Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=216155#classtoolsmode --new-MainWindow
+; PowerTeacherPro
+;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203765 --new-MainWindow
+Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionGroupId=SectionGroup_MjAzNzY1MjAzNzY2 --new-MainWindow
+; Student Info
+Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=216155&frn=003203765 --new-MainWindow
+; URL to OneNote?
+; URL to Nimble for this class?
+; URL to ExpertTA?
 return
 
 ;ASCII 51 3
 ^!3::
-Run chrome.exe https://pschool.psd1.org/teachers/home.html --new-window --profile-directory=%VarPowerSchoolProfile%
+; 21-22 Waves 3RD
+; Multi-Day Attendance Recording
+;Run chrome.exe https://pschool.psd1.org/teachers/attendance-grid.action?sectionId=215712&frn=003203322 --new-window --profile-directory=%VarPowerSchoolProfile%
+; Seating Chart
+;Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215712#classtoolsmode --new-MainWindow
+; PowerTeacherPro
+;Run chrome.exe  https://pschool.psd1.org/teachers/index.html#/?sectionId=203322 --new-MainWindow
+; Student Info
+;Run chrome.exe https://pschool.psd1.org/teachers/summary.html?sectionid=215712&frn=003203322 --new-MainWindow
+; 21-22 T2
+; 3rd Period is Lunch/Plan
+Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%VarPowerSchoolProfile%
+; URL to OneNote?
+; URL to Nimble for this class?
+; URL to ExpertTA?
 return
 
 ;ASCII 52 4
-; 21-22 T2
-; 4th Period is Lunch/Plan
 ^!4::
-Run chrome.exe https://pschool.psd1.org/teachers/pw.html --new-window --profile-directory=%VarPowerSchoolProfile%
+Run chrome.exe https://pschool.psd1.org/teachers/index.html#/?sectionGroupId=SectionGroup_MjAyNzc0MjAzNTY1 --new-window --profile-directory=%VarPowerSchoolProfile%
 return
 
 ;ASCII 53 5
@@ -1723,7 +1770,7 @@ Return
 :*:parmando980::75kks5 ;21-22-T2-6(A) MICROSOFT OFFICE SPECIALIST 
 :*:pashley458::path986 ;21-22-T2-2(A) EARTH SCIENCE 3 
 :*:pashley711::stow629 ;MOS, 21-22,T1, 2nd Period 
-:*:patticus004::mold781 ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
+:*:patticus004::DRAT ;21-22-T3-2(A) MICROSOFT OFFICE SPECIALIST 2 
 :*:paustin790::plot113 ;MOS, 21-22,T1, 2nd Period 
 :*:payden705::work348 ;21-22-T3-3(A) ACCELERATED PHYSICS 
 :*:pbelynda794::name693 ;20-21 t2 mos-1 and mos-2 
@@ -2392,5 +2439,3 @@ Return
 :*:pjonathan161::m66de1 ; 21-22 T2 Astro 2nd
 :*:jose866::jose866@students.psd1.org ; 21-22 T2 Astro 2nd
 :*:pjose866::z5h8y4 ; 21-22 T2 Astro 2nd
-:*:xitlaly417::xitlaly417@students.psd1.org ; 21-22 T3 MOS2
-:*:pxitlaly417::dear240 ; 21-22 T3 MOS2
