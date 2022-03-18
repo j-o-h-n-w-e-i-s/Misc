@@ -2367,3 +2367,7 @@ Return
 :*:pjose866::z5h8y4 ; 21-22 T2 Astro 2nd
 :*:xitlaly417::xitlaly417@students.psd1.org ; 21-22 T3 MOS2
 :*:pxitlaly417::dear240 ; 21-22 T3 MOS2
+:*:owen590::owen590@students.psd1.org ; 21-22 T3 PHYS ACCEL
+:*:powen590::only855 ; 21-22 T3 PHYS ACCEL
+:*:erika910::erika910@students.psd1.org ; 21-22 T3 PHYS ACCEL
+:*:perika910::iq9gby ; 21-22 T3 PHYS ACCEL
