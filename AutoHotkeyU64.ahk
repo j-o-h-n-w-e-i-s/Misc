@@ -2358,3 +2358,5 @@ Return
 :*:valeria431::valeria431@students.psd1.org ;  21-22 T3 PHYS2
 :*:pvaleria431::uji8s6 ;  21-22 T3 PHYS2
 :*:..see::See the attached OneNote Page.
+:*:briana948::briana948@students.psd1.org ; 21-22 T3 MOS2
+:*:pbriana948::xauk7v ; 21-22 T3 MOS2
