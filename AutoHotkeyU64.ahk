@@ -527,6 +527,7 @@ Run, chrome.exe https://pascohigh.flexisched.net/listFlexes.php --new-MainWindow
 Run, chrome.exe https://pascohigh.flexisched.net/teacherAttendance.php --new-MainWindow
 Run, chrome.exe https://pascohigh.flexisched.net/masterSchedule.php --new-MainWindow
 Run, chrome.exe https://curriculum.characterstrong.com/ssel/grade-11-session-7/ --new-MainWindow
+Run chrome.exe  https://liveedupsd1-my.sharepoint.com/:f:/g/personal/jweisenfeld_psd1_org/Ep-QffqndBdGsrR5xsBU_UMBGF7RsR9ZgcAQbVdSwGbAWw --new-MainWindow
 return
 
 ;ASCII 45 -
