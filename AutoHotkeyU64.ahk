@@ -618,6 +618,7 @@ return
 ^!3::
 ;21-22 T3 3rd Period Seating Chart
 Run chrome.exe https://pschool.psd1.org/teachers/seatingchartcontainer.action?sectionId=215163#classtoolsmode --new-window --profile-directory=%VarPowerSchoolProfile%
+Run chrome.exe http://psd1.us/2003physicswarmups --new-MainWindow 
 return
 
 ;ASCII 52 4
