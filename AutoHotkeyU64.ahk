@@ -689,10 +689,11 @@ return
 
 ;ASCII 64 @
 ^!@::
-Run chrome.exe http://www.asciitable.com/ --guest
-Run chrome.exe https://www.urldecoder.io/ --guest
-Run chrome.exe https://www.howtogeek.com/409581/how-to-write-an-autohotkey-script/ --guest
-Run chrome.exe https://defkey.com/ --guest
+;Run chrome.exe http://www.asciitable.com/ --guest
+;Run chrome.exe https://www.urldecoder.io/ --guest
+;Run chrome.exe https://www.howtogeek.com/409581/how-to-write-an-autohotkey-script/ --guest
+;Run chrome.exe https://defkey.com/ --guest
+Run chrome.exe http://tiny.cc/certlinks --new-MainWindow
 return
 
 ;UPPER CASE ALPHABET IS NOT DISTINGUISHED FROM LOWER!!!
