@@ -1162,9 +1162,7 @@ Run chrome.exe https://web.microsoftstream.com/channel/3c108aa0-d437-41bf-a5e6-3
 return
 
 ^!+F2::
-;Quizzes for Astronomy which was 2122 T2 2nd and 5th Period
-; Kepler's First Law Diagram Quiz
-Run chrome.exe https://forms.office.com/Pages/DesignPage.aspx#FormId=CnGXhcFG7kylEJpMNl4IHTsaWbHUtLNMmgGMz5mRmkFUNDc5SkdMM1RJOFk2UVdZOUlMVkxSRExKMi4u&Token=5b321793357a4ce89885ec474eda5eda --new-window --profile-directory=%VarProfileDirectory%
+Msgbox, CTRL+ALT+SHIFT+F2 is not defined
 return
 
 ^!F3::
