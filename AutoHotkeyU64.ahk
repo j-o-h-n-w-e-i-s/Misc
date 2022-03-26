@@ -1162,7 +1162,7 @@ Run chrome.exe https://web.microsoftstream.com/channel/3c108aa0-d437-41bf-a5e6-3
 return
 
 ^!+F2::
-Msgbox, CTRL+ALT+SHIFT+F2 is not defined
+Run chrome.exe https://liveedupsd1-my.sharepoint.com/:x:/g/personal/jweisenfeld_psd1_org/EacbaVeNZl9BvFKbK5XX1bEBWodwuyBpBtiuSWWBc1W_Jw?e=nqQy9L --new-MainWindow 
 return
 
 ^!F3::
