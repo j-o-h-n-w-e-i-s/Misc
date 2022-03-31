@@ -556,7 +556,7 @@ if (A_ComputerName = VarHomeComputerName)
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
     Run chrome.exe https://app.nimble.com/#app/b/homepage --new-window --profile-directory=%VarPersonalGmailProfile%
-    Run chrome.exe https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC --new-MainWindow
+    Run chrome.exe https://www.disneyplus.com/series/moon-knight/4S3oOF1knocS --new-MainWindow
     Run chrome.exe https://www.facebook.com --new-MainWindow
     Run chrome.exe https://www.twitter.com --new-MainWindow
 }
