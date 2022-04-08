@@ -859,7 +859,8 @@ return
 
 ;ASCII 101 e
 ;Open Your Email
-^!e::Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory=%VarProfileDirectory%
+;^!e::Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory=%VarProfileDirectory%
+^!e::Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn
 return
 
 ;ASCII 102 f
