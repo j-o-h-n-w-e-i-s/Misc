@@ -859,8 +859,26 @@ return
 
 ;ASCII 101 e
 ;Open Your Email
-;^!e::Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory=%VarProfileDirectory%
-^!e::Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn
+^!e::
+if (A_ComputerName = VarHomeComputerName)
+    {
+        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn
+    }
+else if (A_ComputerName = VarWorkComputerName)
+    {
+        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn
+    }
+else if (A_ComputerName = VarWorkLaptopName )
+    {
+        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=Default --app-id=pkooggnaalmfkidjmlhoelhdllpphaga
+    }
+else 
+    {
+        Msgbox, "I don't know this computer"
+        Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory=%VarProfileDirectory%
+
+    }
+
 return
 
 ;ASCII 102 f
