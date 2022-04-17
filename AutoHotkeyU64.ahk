@@ -870,7 +870,8 @@ else if (A_ComputerName = VarWorkComputerName)
     }
 else if (A_ComputerName = VarWorkLaptopName )
     {
-        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn    }
+        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn    
+    }
 else 
     {
         Msgbox, "I don't know this computer"
