@@ -846,7 +846,7 @@ return
 ;no disable-gpu
 ^!c::Run chrome.exe https://outlook.office.com/calendar/view/day --new-window --profile-directory=%VarProfileDirectory%
 ;^!c::Send {ALT}+{PrintScreen}
-return
+return 
 
 ;ASCII 100 d
 ;^!d::MsgBox, 1, "Unused", "This CTRL+ALT+D Shortcut is Unused", 30
@@ -862,7 +862,7 @@ return
 ^!e::
 if (A_ComputerName = VarHomeComputerName)
     {
-        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn
+        Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe"  --profile-directory="Profile 1" --app-id=faolnafnngnfdaknnbpnkhgohbobgegn --app-url=https://outlook.office.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
     }
 else if (A_ComputerName = VarWorkComputerName)
     {
@@ -870,15 +870,12 @@ else if (A_ComputerName = VarWorkComputerName)
     }
 else if (A_ComputerName = VarWorkLaptopName )
     {
-        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=Default --app-id=pkooggnaalmfkidjmlhoelhdllpphaga
-    }
+        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn    }
 else 
     {
         Msgbox, "I don't know this computer"
-        Run chrome.exe https://outlook.office.com/mail/inbox/id/AAQkADgwMTI0M2ZmLTE5YjctNDBjMC05NDBhLTNmMjMwMzZhNDRmMwAQABAQT6Jy6zxFnarWXSuRvjs --new-window --profile-directory=%VarProfileDirectory%
-
+        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn
     }
-
 return
 
 ;ASCII 102 f
