@@ -146,7 +146,7 @@ PT3 Curriculum, Instruction and Assessment
 :*:..best::http://tiny.cc/phsbestpractices
 :*:..equity::13c0ebeb.psd1.org@amer.teams.ms
 :*:xyg::https://outlook.office.com/people/group/psd1.org/[alias] 
-:*:@st::@students.psd1.org
+:*:spo::@students.psd1.org
 :*:..enter::enterprise@psd1.org
 :*:..penter::enterprisepsd1
 :*:..nano::http://tiny.cc/mrwnano
