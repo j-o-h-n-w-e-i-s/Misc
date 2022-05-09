@@ -862,7 +862,8 @@ return
 ^!e::
 if (A_ComputerName = VarHomeComputerName)
     {
-        Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe"  --profile-directory="Profile 1" --app-id=faolnafnngnfdaknnbpnkhgohbobgegn --app-url=https://outlook.office.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
+;        Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe"  --profile-directory="Profile 1" --app-id=faolnafnngnfdaknnbpnkhgohbobgegn --app-url=https://outlook.office.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
+        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn
     }
 else if (A_ComputerName = VarWorkComputerName)
     {
