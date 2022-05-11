@@ -142,11 +142,11 @@ PT3 Curriculum, Instruction and Assessment
 :*:..jl::LKEY-88711-63943-Brault4
 :*:..jm::64427-JB2122T1-26731
 :*:jwe::jweisenfeld@psd1.org
-:*:pjwe::Whe60187{!}
+:*:pjwe::RescueTriesAnswer
 :*:..best::http://tiny.cc/phsbestpractices
 :*:..equity::13c0ebeb.psd1.org@amer.teams.ms
 :*:xyg::https://outlook.office.com/people/group/psd1.org/[alias] 
-:*:@st::@students.psd1.org
+:*:spo::@students.psd1.org
 :*:..enter::enterprise@psd1.org
 :*:..penter::enterprisepsd1
 :*:..nano::http://tiny.cc/mrwnano
@@ -862,7 +862,8 @@ return
 ^!e::
 if (A_ComputerName = VarHomeComputerName)
     {
-        Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe"  --profile-directory="Profile 1" --app-id=faolnafnngnfdaknnbpnkhgohbobgegn --app-url=https://outlook.office.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
+;        Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe"  --profile-directory="Profile 1" --app-id=faolnafnngnfdaknnbpnkhgohbobgegn --app-url=https://outlook.office.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
+        Run "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=%VarProfileDirectory% --app-id=faolnafnngnfdaknnbpnkhgohbobgegn
     }
 else if (A_ComputerName = VarWorkComputerName)
     {
