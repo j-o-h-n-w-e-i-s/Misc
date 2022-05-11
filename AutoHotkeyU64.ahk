@@ -143,6 +143,7 @@ PT3 Curriculum, Instruction and Assessment
 :*:..jm::64427-JB2122T1-26731
 :*:jwe::jweisenfeld@psd1.org
 :*:pjwe::RescueTriesAnswer
+:*:pwhe::Whe60187{!}
 :*:..best::http://tiny.cc/phsbestpractices
 :*:..equity::13c0ebeb.psd1.org@amer.teams.ms
 :*:xyg::https://outlook.office.com/people/group/psd1.org/[alias] 
@@ -700,7 +701,7 @@ return
 ;ASCII 65 A ;ASCII 90 Z ;SEE 97-122
 
 ;ASCII 91 [
-^![::
+^!]::
 if (A_ComputerName = VarHomeComputerName)
 {
     Run msedge.exe https://outlook.live.com/mail/0/inbox --new-window --profile-directory="Default"
@@ -764,7 +765,7 @@ return
 return
 
 ;ASCII 93 ]
-^!]:: 
+^![:: 
 ;Msgbox CTRL+ALT+] is UNUSED
 if (A_ComputerName = VarHomeComputerName)
 {
