@@ -737,6 +737,8 @@ Else if (A_ComputerName = VarWorkComputerName)
 ;weisenfeldj@cwu.edu is Profile 5 on work computer
     Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 6"
 ;jolena_wfeld@msn.com Profile 6 on work computer
+    Run msedge.exe https://outlook.office365.com/mail/inbox/ --new-window --profile-directory="Profile 7"
+;j.w@live.com is Profile 7 on work computer
 }
 Else if (A_ComputerName = VarWorkLaptopName)
 {
