@@ -136,6 +136,7 @@ PT3 Curriculum, Instruction and Assessment
 :*:..3lkey::LKEY-69204-36115-ks2021
 ;:*:..mos::94512-PSD1-58243; TOO MANY USERS
 ;:*:..mos::77074-MOSTRI2-31445 ;used up!!!
+:*:..summopps::Summer Opportunities - ScienceNews <65487ffe.psd1.org@amer.teams.ms>
 :*:..2mos::94512-PSD1-58243 ;2mos has all 2016 and 2019 exams.
 ;:*:..mos::42222-MOS2021-89256 ; only 18 left
 :*:..mos::91007-MOS2021-87888 ; 0 of 100 used, all exams!!
