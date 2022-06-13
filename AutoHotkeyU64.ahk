@@ -2386,3 +2386,9 @@ Return
 :*:pbriana948::xauk7v ; 21-22 T3 MOS2
 :*:leslie542::leslie542@students.psd1.org ; 21-22 T3 PHYS ACCEL
 :*:pleslie542::6beu40 ; 21-22 T3 PHYS ACCEL
+:*:cezar960::cezar960@students.psd1.org ; 21-22 T3 PHYS2
+:*:pcezar960::cave991 ; 21-22 T3 PHYS2
+:*:eric260::eric260@students.psd1.org ; 21-22 T3 PHYS2
+:*:peric260::fake255 ; 21-22 T3 PHYS2
+:*:tonkra001::tonkra001@students.psd1.org ; E/I and PHYS2 21-22
+:*:ptonkra001::disc699 ; E/I and PHYS2 21-22
