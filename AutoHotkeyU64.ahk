@@ -188,10 +188,6 @@ PT3 Curriculum, Instruction and Assessment
 ;:*:mrwzoom::https://psd1-org.zoom.us/j/2843430623?pwd=ZVJxUkROK0N3U1dIMVo0NXBqTDAxdz09
 :*:..doble::Here are step-by-step instructions for requesting dual credit for passing Word Certification Exam.{Enter}The credit is for an "advanced Word usage" class at CBC.{Enter}https://drive.google.com/file/d/1B2XFpDOGM-zDYpER7Jn5J-ymYxk2j_Ii/view?usp=sharing
 :*:..plan::https://liveedupsd1-my.sharepoint.com/:x:/r/personal/jweisenfeld_psd1_org/_layouts/15/Doc.aspx?sourcedoc=%7BDA2B81EC-4F1D-4021-9866-00A0E6A358FC%7D&file=Synch-Asynch-Planner-Weisenfeld.xlsx&wdOrigin=OFFICECOM-WEB.START.REC&action=default&mobileredirect=true
-;two letter shortcuts are really powerful and process before everything else
-;:*:jw::jweisenfeld@psd1.org
-;exclamation points don't register
-;:*:Whe::Whe60187!
 :*:..enboiler::Looking forward to seeing STUDENT on Monday!{Return}{Return}STUDENT is in my 8th-In-Person-Support session on Monday morning at 8:30am at PHS in Room 136B ( http://tiny.cc/phsfloorplan){Return}{Return}STUDENT:  please remember to wear your mask, bring your laptop, keep social distance (6ft), and don't come if you are feeling sick or have a fever!{Return}{Return}I will be helping her/him look at Teams assignments, get started on them, and make a plan for this week.{Return}{Return}Please let me know if there is anything else!
 :*:..esboiler::¡Espero ver a ESTUDIANTE el lunes!{Return}{Return}{Return}{Return}El ESTUDIANTE estará en mi octava sesión de apoyo en persona el lunes por la mañana a las 8:30 am en PHS en el salón 136B (http://tiny.cc/phsfloorplan){Return}{Return}{Return}{Return}ESTUDIANTE: recuerde usar su máscara, traer su computadora portátil, mantener la distancia social (6 pies) y no venir si se siente enfermo o tiene fiebre.{Return}{Return}{Return}{Return}Lo ayudaré a ver las asignaciones de Teams, comenzar con ellas y hacer un plan para esta semana.{Return}{Return}{Return}{Return}Por favor avíseme si hay algo más¡
 :*:..ruboiler::Жду встречи с STUDENT в понедельник!{Return}{Return}STUDENT находится на моем сеансе личной поддержки в понедельник утром в 8:30 в PHS в комнате 136B. (http://tiny.cc/phsfloorplan){Return}{Return}STUDENT: пожалуйста, не забудьте надеть маску, взять с собой ноутбук, держаться на расстоянии и не приходить, если вы чувствуете себя плохо или у вас жар!{Return}{Return}Я помогу ей ознакомиться с заданиями в ее командах (особенно по испанскому и американскому языку) и составить план на эту неделю.{Return}{Return}Дайте мне знать, если есть еще что-нибудь!
@@ -245,6 +241,60 @@ PT3 Curriculum, Instruction and Assessment
 :*:..bent2::amramirez@psd1.org;aerdmann@psd1.org;bjohnson@psd1.org;tsommerville@psd1.org;cbender@psd1.org;spowers@psd1.org;bthomas@psd1.org;kbennion@psd1.org;bmeredith@psd1.org;jolena.weisenfeld@gmail.com;ben.weisenfeld@gmail.com
 :*:..jcw::John C. Weisenfeld 2
 :*:..425::425 301 7404
+:*:..git::pushd %USERPROFILE%\Documents\GitHub\Misc
+
+;NUMPAD
+^!NUMPAD1::Msgbox CTRL+ALT+Numpad1
+return
+
+^!+NUMPAD1::Msgbox CTRL+ALT+SHIFT+Numpad1
+return
+
+;NUMPAD
+^!NUMPAD2::Msgbox CTRL+ALT+Numpad2
+return
+
+;NUMPAD
+^!NUMPAD3::Msgbox CTRL+ALT+Numpad3
+return
+
+;NUMPAD
+^!NUMPAD4::Msgbox CTRL+ALT+Numpad4
+return
+
+;NUMPAD
+^!NUMPAD5::Msgbox CTRL+ALT+Numpad5
+return
+
+;NUMPAD
+^!NUMPAD6::Msgbox CTRL+ALT+Numpad6
+return
+
+;NUMPAD
+^!NUMPAD7::Msgbox CTRL+ALT+Numpad7
+return
+
+;NUMPAD
+^!NUMPAD8::Msgbox CTRL+ALT+Numpad8
+return
+
+;NUMPAD
+^!NUMPAD9::Msgbox CTRL+ALT+Numpad9
+return
+
+^!NUMPADadd::Msgbox CTRL+ALT+NumpadAdd
+return
+
+^!NumpadSub::Msgbox CTRL+ALT+NumpadSub
+return
+
+^!NumpadDiv::Msgbox CTRL+ALT+NumpadDiv
+return
+
+^!NumpadMult::Msgbox CTRL+ALT+NumpadMult
+return
+
+
 ;LOWER CASE ALPHABET
 
 ;^!TAB:: Msgbox CTRL+ALT+TAB is unused
@@ -257,7 +307,34 @@ PT3 Curriculum, Instruction and Assessment
 ;`{Space}`{Enter}`{Enter}joseph433@students.psd1.org`;{Enter}michael013@students.psd1.org`;{Enter}paul651@students.psd1.org`;{Enter}eduardo748@students.psd1.org`;{Enter}mark970@students.psd1.org`;{Enter}matthew926@students.psd1.org`;{Enter} 
 return
 
-^!SPACE:: Msgbox CTRL+ALT+SPACE is unused
+^!SPACE:: 
+;Msgbox CTRL+ALT+SPACE is unused
+InputBox, SearchingFor, Searching AutoHotKeyU64.ahk, Enter a string to search for,
+e4x =
+(join&
+Title  QUIT with Escape
+@echo off
+cd %a_scriptdir%
+mode con lines=56 cols=130
+echo. ---------- version / date / time  ------------------------------------
+ver
+date /t
+time /t
+echo.
+echo. ---------- end version / date / time  --------------------------------
+echo.
+findstr /IN %SearchingFor% AutoHotKeyU64.ahk
+)
+run, %comspec% /k %e4x%,,,pid1               ;-- run with multiple commands above
+InputBox,YesOrNo, Wait to Quit, Done?
+;WinWaitActive %ComSpec% ahk_pid %PID1%
+;sleep,700
+;controlsend,,echo. ---- send in 5 seconds DIR command`n,ahk_pid %PID1%
+;sleep,5000
+;controlsend,,dir`n,ahk_pid %PID1%
+;controlsend,,This window closes in 9 seconds or use button Esc,ahk_pid %PID1%
+;sleep,9000
+Process,Close,%PID1%
 return
 
 ;Whoops!  Don't intercept LSHIFT or RSHIFT modifiers!!
