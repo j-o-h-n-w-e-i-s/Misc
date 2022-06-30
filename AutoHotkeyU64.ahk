@@ -244,26 +244,32 @@ PT3 Curriculum, Instruction and Assessment
 :*:..git::pushd %USERPROFILE%\Documents\GitHub\Misc
 
 ;NUMPAD
-^!NUMPAD1::Msgbox CTRL+ALT+Numpad1
+^!NUMPAD1::
+;NUMPAD1 is msedge Default Profile johnweis@live.com on Home Computer
+Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory="Default" --app-id=pkooggnaalmfkidjmlhoelhdllpphaga --app-url=https://outlook.office365.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
 return
 
-^!+NUMPAD1::Msgbox CTRL+ALT+SHIFT+Numpad1
-return
-
-;NUMPAD
-^!NUMPAD2::Msgbox CTRL+ALT+Numpad2
-return
-
-;NUMPAD
-^!NUMPAD3::Msgbox CTRL+ALT+Numpad3
+^!NUMPAD2::
+;NUMPAD2 is msedge Profile 2 john_wfeld@msn.com on Home Computer
+Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory="Profile 2" --app-id=pkooggnaalmfkidjmlhoelhdllpphaga --app-url=https://outlook.office365.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
 return
 
 ;NUMPAD
-^!NUMPAD4::Msgbox CTRL+ALT+Numpad4
+^!NUMPAD3::
+;NUMPAD3 is msedge Profile 6 jolena_wfeld@msn.com on Home Computer
+;Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory="Profile 6" --app-id=pkooggnaalmfkidjmlhoelhdllpphaga --app-url=https://outlook.office365.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
+Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory="Profile 6" --app-id=faolnafnngnfdaknnbpnkhgohbobgegn --app-url=https://outlook.office.com/mail/
 return
 
 ;NUMPAD
-^!NUMPAD5::Msgbox CTRL+ALT+Numpad5
+^!NUMPAD4::
+Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory="Profile 1" --app-id=faolnafnngnfdaknnbpnkhgohbobgegn --app-url=https://outlook.office.com/mail/
+return
+
+;NUMPAD
+^!NUMPAD5::
+Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory="Profile 5" --app-id=pkooggnaalmfkidjmlhoelhdllpphaga --app-url=https://outlook.office365.com/mail/
+;Run "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe"  --profile-directory="Profile 5" --app-id=faolnafnngnfdaknnbpnkhgohbobgegn --app-url=https://outlook.office.com/mail/ --app-run-on-os-login-mode=windowed --app-launch-source=19
 return
 
 ;NUMPAD
@@ -1108,6 +1114,7 @@ if (A_ComputerName = VarHomeComputerName)
     ;Work is PHTL323004136B
     ;Home is DESKTOP-H9GCS6A
     Run chrome.exe https://drive.google.com/drive/folders/191_H3Syt8GtqfMMPf6paTLByke7ockIp --new-window --profile-directory=%VarPersonalGmailProfile%
+    Run chrome.exe https://drive.google.com/drive/folders/1OVg78qixYeyfK0KP1QsV02DvVCX-24Q0 --new-window --profile-directory=%VarPersonalGmailProfile%
     Run explorer.exe "C:\Users\Public\Documents\GoogleScanned Local"
     Run "C:\Program Files (x86)\fiScanner\ScandAll PRO\ScandAllPro.exe"
 }
