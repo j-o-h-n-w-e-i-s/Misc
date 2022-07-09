@@ -362,8 +362,7 @@ else
 Run "AutoHotkeyU64.ahk"
 return
 
-;^!LWIN:: Msgbox CTRL+ALT+LWIN is unused
-^!LWIN:: 
+^!LWIN:: ;nimble homepage in personal profile
 Run chrome.exe https://app.nimble.com/#app/b/homepage --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
@@ -1338,15 +1337,12 @@ return
 Run chrome.exe https://drive.google.com/drive/folders/1eA7HZ_UhbaT72wr6E3TRT__0F7Q9iYVl --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
-^!F8::
-;Run chrome.exe https://web.microsoftstream.com/channel/ba3e0382-aa1d-48d0-81c6-89ad4b21bbc1  --new-window --profile-directory=%VarProfileDirectory%
-;F8 goes to Teams and SHIFT+F8 go to Teams on the Web
-EnvGet, LocAppDat, LOCALAPPDATA
-Run "%LocAppDat%\Microsoft\Teams\Update.exe" --processStart "Teams.exe"
+^!F8:: ;Open Twitter on Personal Chrome profile
+Run chrome.exe https://twitter.com/notifications --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
-^!+F8::
-Run chrome.exe https://teams.microsoft.com/_#/school//?ctx=teamsGrid --new-window --profile-directory=%VarProfileDirectory%
+^!+F8:: ;Open Facebook on Personal Chrome profile
+Run chrome.exe https://www.facebook.com --new-window --profile-directory=%VarPersonalGmailProfile%
 return
 
 ^!F9::Run onenote-cmd://
