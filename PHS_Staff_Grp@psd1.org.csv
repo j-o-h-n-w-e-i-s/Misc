@@ -1,0 +1,13 @@
+#TYPE Microsoft.Online.Administration.GroupMember
+"ExtensionData","CommonName","DisplayName","EmailAddress","GroupMemberType","IsLicensed","LastDirSyncTime","ObjectId","OverallProvisioningStatus","ValidationStatus"
+"System.Runtime.Serialization.ExtensionDataObject",,"Jacob N. Stueckle","JStueckle@psd1.org","User","True","7/7/2022 7:11:41 PM","35b7cce8-6e7e-4974-beee-e95471989127","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Julia C. Dudley","JDudley@psd1.org","User","True","7/7/2022 6:41:41 PM","b4c7d4e8-cc6f-40fb-9c13-be9f05ba78e8","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Eriberto Frias","EFrias@psd1.org","User","True","6/24/2022 10:40:35 PM","f95f9b55-b46f-409e-92d5-8e0c729b5d11","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Veronica Machado","VMachado@psd1.org","User","True","6/27/2022 6:42:38 PM","9b7150f5-69f1-4016-8f66-ebe01b21164c","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Greggory L. Huisingh","GHuisingh@psd1.org","User","True","6/21/2022 9:39:11 PM","c5fca715-0b7d-4b5f-bc00-060bce9c3c80","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Ines C. Capetillo","ICapetillo@psd1.org","User","True","7/8/2022 1:42:27 PM","a360686c-aaf8-4456-ade0-445bc2eb2e49","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Gregory T. Domingos","GDomingos@PSD1.org","User","True","7/10/2022 5:43:30 AM","420fc216-8325-41d2-856c-793c9180b904","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Melissa K. Bradley","MBradley@psd1.org","User","True","6/13/2022 5:33:09 PM","5b672e89-0ca9-486d-9dbd-8c0d2cd2baf8","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Tyson Sturza","tsturza@PSD1.org","User","True","7/6/2022 7:10:37 PM","28782e37-2f01-492e-b4f5-60fb15b3cfd5","PendingInput","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Nerida Mendoza Hernandez","nehernandez@PSD1.org","User","True","6/29/2022 6:42:12 PM","b678cdab-b23a-4fd6-bcb9-38ab80803fa4","Success","Healthy"
+"System.Runtime.Serialization.ExtensionDataObject",,"Celia Jimenez","cjimenez@PSD1.org","User","True","6/30/2022 5:53:46 PM","94c2c2f4-8521-4049-b0e8-b6eac871abd3","PendingInput","Healthy"
